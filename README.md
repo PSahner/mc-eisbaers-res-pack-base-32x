@@ -5,6 +5,8 @@ This is the base resource pack (of the Eisbaer's ResPack Collection) and builds 
 ## Features
 
 - 1.1.01 **Colored Bow Charge**: Visually distinctive bow textures for different charge states
+- 1.2.01 **Variated Cobblestone**: Different textures for cobblestone blocks
+- 1.2.02 **Variated Ores**: Different textures for ore blocks
 - (Configurable options via Respackopts)
 
 ## Scripts & Usage
@@ -79,10 +81,20 @@ Feature list:
 #### 1.1.01: Colored Bow Charge
 
 Feature #: 1.1.01
-Default: disabled
 Source: https://github.com/NerdieBirdieYT/coloredbowcharge
 Description: Uses colored textures for bow charging states
 
+#### 1.2.01: Variated Cobblestone
+
+Feature #: 1.2.01
+Source: https://faithfulpack.net/addons/VariatedCobblestone
+Description: Uses different textures for cobblestone blocks
+
+#### 1.2.02: Variated Ores
+
+Feature #: 1.2.02
+Source: https://www.planetminecraft.com/texture-pack/compliance-variated-ores
+Description: Uses different textures for ore blocks
 
 ### How to Configure
 
@@ -96,6 +108,8 @@ Description: Uses colored textures for bow charging states
 ### 0.0.1
 
 - added Colored Bow Charge (ColoredBowCharge_2022-04-17)
+- added Variated Cobblestone (VariatedCobblestone_v1.1)
+- added Variated Ores (VariatedOres_v1.18)
 
 ## License
 
