@@ -1,0 +1,10 @@
+{
+   "pack": {
+    "pack_format": 100,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 100
+	  },
+        "description": "§dby §mWh0.Car8s\n§71.21.5+"
+    }
+}

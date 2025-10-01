@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "berries=false,normal": {
+      "model": "block/cave_vines"
+    },
+    "berries=true,normal": {
+      "model": "block/cave_vines_lit"
+    },
+    "berries=false,age=25": [
+      {"model": "block/cave_vines_age_25"},
+      {"model": "block/cave_vines_age_25_1"},
+      {"model": "block/cave_vines_age_25_2"},
+      {"model": "block/cave_vines_age_25_3"},
+      {"model": "block/cave_vines_age_25_4"},
+      {"model": "block/cave_vines_age_25_5"},
+      {"model": "block/cave_vines_age_25_6"}],
+    "berries=true,age=25": [
+      {"model": "block/cave_vines_lit_age_25"},
+      {"model": "block/cave_vines_lit_age_25_1"},
+      {"model": "block/cave_vines_lit_age_25_2"},
+      {"model": "block/cave_vines_lit_age_25_3"},
+      {"model": "block/cave_vines_lit_age_25_4"},
+      {"model": "block/cave_vines_lit_age_25_5"},
+      {"model": "block/cave_vines_lit_age_25_6"}]
+  }
+}

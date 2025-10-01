@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "normal": [
+            {
+                "model": "block/twisting_vines"
+            },
+            {
+                "model": "block/twisting_vines2"
+            },
+            {
+                "model": "block/twisting_vines3"
+            }
+        ],
+        "age=25": {
+            "model": "block/twisting_vines_age_25"
+        }
+    }
+}

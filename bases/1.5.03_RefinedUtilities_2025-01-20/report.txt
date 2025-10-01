@@ -1,0 +1,3 @@
+Vanilla Tweak to Faithful Add-ons:
+SmallerUtilities + ItemHoldFix + NoBowlParticles = RefinedUtilities
+this pack is makes the three fully compatible

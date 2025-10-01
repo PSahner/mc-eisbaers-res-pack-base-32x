@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "Hunger Preview 32x (2.0) | Author: MomentariyModder",
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 34
+    }
+  }
+}

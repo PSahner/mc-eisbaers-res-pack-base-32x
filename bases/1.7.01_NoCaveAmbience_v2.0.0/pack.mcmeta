@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": {
+            "translate": "arcomua.resource_pack.no_cave_ambience",
+            "fallback": "§7Remove cave ambience (Eerie noise)"
+        },
+        "supported_formats": [15, 999]
+    }
+}

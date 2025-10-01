@@ -1,0 +1,10 @@
+﻿{
+  "pack": {
+    "pack_format": 22,
+    "description": "Gives barrels a square opening! \n§3By @DMgaming101 on X",
+	"supported_formats": {
+      "min_inclusive": 22,
+      "max_inclusive": 46
+    }
+  }
+}

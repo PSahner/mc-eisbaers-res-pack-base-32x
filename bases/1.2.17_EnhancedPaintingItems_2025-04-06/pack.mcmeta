@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 54,
+    "description": "Makes all painting items have their own textures.",
+    "supported_formats": {
+      "min_inclusive": 64,
+      "max_inclusive": 64
+    }
+  }
+}

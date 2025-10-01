@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "minecraft:block/redstone_ore"
+    },
+    {
+      "model": "minecraft:block/redstone_ore2"
+    },
+	{
+      "model": "minecraft:block/redstone_ore3"
+    }
+   ]
+  }
+}

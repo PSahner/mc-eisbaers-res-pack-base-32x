@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "description": {
+      "text": "Variated Cobble",
+      "extra": [
+        {
+          "text": "faithfulpack.net/addons/",
+          "color": "white"
+        }
+      ],
+      "color": "gray"
+    },
+    "pack_format": 71,
+    "supported_formats": 200
+  }
+}
