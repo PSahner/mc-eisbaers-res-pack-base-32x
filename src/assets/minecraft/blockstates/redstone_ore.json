@@ -1,15 +1,26 @@
 {
   "variants": {
-    "": [
-	{
-      "model": "minecraft:block/variated/ores/redstone_ore"
-    },
-    {
-      "model": "minecraft:block/variated/ores/redstone_ore2"
-    },
-	{
-      "model": "minecraft:block/variated/ores/redstone_ore3"
-    }
-   ]
+    "lit=true": [
+      {
+        "model": "minecraft:block/variated/ores/redstone_ore"
+      },
+      {
+        "model": "minecraft:block/variated/ores/redstone_ore2"
+      },
+      {
+        "model": "minecraft:block/variated/ores/redstone_ore3"
+      }
+    ],
+    "lit=false": [
+      {
+        "model": "minecraft:block/variated/ores/redstone_ore_unlit"
+      },
+      {
+        "model": "minecraft:block/variated/ores/redstone_ore2_unlit"
+      },
+      {
+        "model": "minecraft:block/variated/ores/redstone_ore3_unlit"
+      }
+    ]
   }
 }
