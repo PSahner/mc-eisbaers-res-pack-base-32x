@@ -2,11 +2,13 @@
 
 This is the base resource pack (of the Eisbaer's ResPack Collection) and builds the foundation for the other resource packs.
 
-## Features
+## Features - Short List
 
 - 1.1.01 **Colored Bow Charge**: Visually distinctive bow textures for different charge states
 - 1.2.01 **Variated Cobblestone**: Different textures for cobblestone blocks
 - 1.2.02 **Variated Ores**: Different textures for ore blocks
+- 1.2.03 **Unlit Redstone Ore**: Different textures for redstone ore's unlit blockstate
+- 1.2.04 **Better Tiled Deepslate Tiles**: Better textures for deepslate tiles
 - (Configurable options via Respackopts)
 
 ## Scripts & Usage
@@ -74,9 +76,14 @@ This repository includes PowerShell scripts to help you build and manage your re
 
 The resource pack uses the [Respackopts](https://modrinth.com/mod/respackopts) mod for (optional but recommended) configuration.
 
-### Available Options
+### How to Activate
 
-Feature list:
+1. Install the [Respackopts mod](https://modrinth.com/mod/respackopts)
+2. Load Minecraft with this resource pack enabled
+3. In the resource pack selection screen, click the gear icon next to "Eisbaer's resource pack Base"
+4. Toggle the options according to your preferences
+
+### Features
 
 #### 1.1.01: Colored Bow Charge
 
@@ -96,12 +103,17 @@ Feature #: 1.2.02
 Source: https://www.planetminecraft.com/texture-pack/compliance-variated-ores
 Description: Uses different textures for ore blocks
 
-### How to Configure
+#### 1.2.03: Unlit Redstone Ore
 
-1. Install the [Respackopts mod](https://modrinth.com/mod/respackopts)
-2. Load Minecraft with this resource pack enabled
-3. In the resource pack selection screen, click the gear icon next to "Eisbaer's resource pack Base"
-4. Toggle the options according to your preferences
+Feature #: 1.2.03
+Source: https://faithfulpack.net/addons/unlit-redstone-ore
+Description: Uses different textures for redstone ore blockstates. Own adaptation from the above source to make it compatible with *Feature 1.2.02: Variated Ores*.
+
+#### 1.2.04: Better Tiled Deepslate Tiles
+
+Feature #: 1.2.04
+Source: https://www.planetminecraft.com/texture-pack/compliance-32x-better-tiled-deepslate-tiles
+Description: Uses a different texture to better connect tile blocks.
 
 ## Changelog
 
@@ -110,6 +122,8 @@ Description: Uses different textures for ore blocks
 - added Colored Bow Charge (ColoredBowCharge_2022-04-17)
 - added Variated Cobblestone (VariatedCobblestone_v1.1)
 - added Variated Ores (VariatedOres_v1.18)
+- added Unlit Redstone Ore (adaptation of UnlitRedstoneOre_v1.18)
+- added Better Tiled Deepslate Tiles (BetterTiledDeepslateTiles_2021-07-01)
 
 ## License
 
