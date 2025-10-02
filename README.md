@@ -12,6 +12,7 @@ This is the base resource pack (of the Eisbaer's ResPack Collection) and builds 
 - 1.2.05 **Static Lanterns**: Static texture for sea lanterns
 - 1.2.06 **Square Barrels**: Square barrels opening instead of round one
 - 1.2.07 **Soul Soil Soul Campfire**: Soul soil "ash" texture for soul campfire
+- 1.2.08 **Polished Chests**: *CUSTOM* Polished golden brown chest textures
 - (Configurable options via Respackopts)
 
 ## Scripts & Usage
@@ -136,6 +137,12 @@ Feature #: 1.2.07
 Source: [FaithfulPack](https://faithfulpack.net/addons/soul-soil-soul-campfire) | [GitHub](https://github.com/TQNL/TQNL-Faithful-Add-ons)
 Description: Uses soul soil as "ash" texture for soul campfire (for better consistency). Inspired by [vanillatweaks.net](https://vanillatweaks.net/).
 
+#### 1.2.08: Polished Chests - *Customized*
+
+Feature #: 1.2.08
+Source: [FaithfulPack](https://faithfulpack.net/addons/polished-chests)
+Description: Uses a polished golden brown chest texture instead of the old one. Customized version, which also adds the polished chest textures to chest boats (entities + items).
+
 ## Changelog
 
 ### 0.0.1
@@ -150,6 +157,8 @@ Description: Uses soul soil as "ash" texture for soul campfire (for better consi
 - added Static Lanterns (ClearerLanterns_1.21.8_2025-09-08)
 - added Square Barrels (SquareBarrels_2024-12-05)
 - added Soul Soil Soul Campfire (SoulSoilSoulCampfire_2025-01-20)
+- added Polished Chests (PolishedChests_2024-12-05)
+  - added own/custom polished chest textures to chest boats
 
 ## License
 
