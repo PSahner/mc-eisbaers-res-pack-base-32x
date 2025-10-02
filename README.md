@@ -10,6 +10,7 @@ This is the base resource pack (of the Eisbaer's ResPack Collection) and builds 
 - 1.2.03 **Unlit Redstone Ore**: Different textures for redstone ore's unlit blockstate
 - 1.2.04 **Better Tiled Deepslate Tiles**: Better textures for deepslate tiles
 - 1.2.05 **Static Lanterns**: Static texture for sea lanterns
+- 1.2.06 **Square Barrels**: Square barrels opening instead of round one
 - (Configurable options via Respackopts)
 
 ## Scripts & Usage
@@ -89,38 +90,44 @@ The resource pack uses the [Respackopts](https://modrinth.com/mod/respackopts) m
 #### 1.1.01: Colored Bow Charge
 
 Feature #: 1.1.01
-Source: https://github.com/NerdieBirdieYT/coloredbowcharge
+Source: [GitHub](https://github.com/NerdieBirdieYT/coloredbowcharge)
 Description: Uses colored textures for bow charging states
 
 #### 1.2.01: Variated Cobblestone
 
 Feature #: 1.2.01
-Source: https://faithfulpack.net/addons/VariatedCobblestone
+Source: [FaithfulPack](https://faithfulpack.net/addons/VariatedCobblestone)
 Description: Uses different textures for cobblestone blocks
 
 #### 1.2.02: Variated Ores
 
 Feature #: 1.2.02
-Source: https://www.planetminecraft.com/texture-pack/compliance-variated-ores
+Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/compliance-variated-ores)
 Description: Uses different textures for ore blocks
 
 #### 1.2.03: Unlit Redstone Ore
 
 Feature #: 1.2.03
-Source: https://faithfulpack.net/addons/unlit-redstone-ore
+Source: [FaithfulPack](https://faithfulpack.net/addons/unlit-redstone-ore) | [GitHub](https://github.com/TQNL/TQNL-Faithful-Add-ons)
 Description: Uses different textures for redstone ore blockstates. Own adaptation from the above source to make it compatible with *Feature 1.2.02: Variated Ores*.
 
 #### 1.2.04: Better Tiled Deepslate Tiles
 
 Feature #: 1.2.04
-Source: https://www.planetminecraft.com/texture-pack/compliance-32x-better-tiled-deepslate-tiles
+Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/compliance-32x-better-tiled-deepslate-tiles)
 Description: Uses a different texture to better connect tile blocks. In addition, added own adaption of block Cracked Deepslate Tiles, so that it looks uniform.
 
 #### 1.2.05: Static Lanterns
 
 Feature #: 1.2.05
-Source: https://faithfulpack.net/addons/ClearerLanterns
+Source: [FaithfulPack](https://faithfulpack.net/addons/ClearerLanterns) | [GitHub](https://github.com/Hedreon/Addons)
 Description: Uses a static texture for sea lanterns.
+
+#### 1.2.06: Square Barrels
+
+Feature #: 1.2.06
+Source: [FaithfulPack](https://faithfulpack.net/addons/SquareBarrels) | [GitHub](https://github.com/DMgaming101/SquareBarrels)
+Description: Uses a square texture for the barrel opening.
 
 ## Changelog
 
@@ -134,6 +141,7 @@ Description: Uses a static texture for sea lanterns.
 - added Better Tiled Deepslate Tiles (BetterTiledDeepslateTiles_2021-07-01)
   - added own adaption of block Cracked Deepslate Tiles
 - added Static Lanterns (ClearerLanterns_1.21.8_2025-09-08)
+- added Square Barrels (SquareBarrels_2024-12-05)
 
 ## License
 
