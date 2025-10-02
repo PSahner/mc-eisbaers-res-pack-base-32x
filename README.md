@@ -9,6 +9,7 @@ This is the base resource pack (of the Eisbaer's ResPack Collection) and builds 
 - 1.2.02 **Variated Ores**: Different textures for ore blocks
 - 1.2.03 **Unlit Redstone Ore**: Different textures for redstone ore's unlit blockstate
 - 1.2.04 **Better Tiled Deepslate Tiles**: Better textures for deepslate tiles
+- 1.2.05 **Static Lanterns**: Static texture for sea lanterns
 - (Configurable options via Respackopts)
 
 ## Scripts & Usage
@@ -115,6 +116,12 @@ Feature #: 1.2.04
 Source: https://www.planetminecraft.com/texture-pack/compliance-32x-better-tiled-deepslate-tiles
 Description: Uses a different texture to better connect tile blocks. In addition, added own adaption of block Cracked Deepslate Tiles, so that it looks uniform.
 
+#### 1.2.05: Static Lanterns
+
+Feature #: 1.2.05
+Source: https://faithfulpack.net/addons/ClearerLanterns
+Description: Uses a static texture for sea lanterns.
+
 ## Changelog
 
 ### 0.0.1
@@ -126,6 +133,7 @@ Description: Uses a different texture to better connect tile blocks. In addition
   - added own adaptions of variated unlit redstone ores
 - added Better Tiled Deepslate Tiles (BetterTiledDeepslateTiles_2021-07-01)
   - added own adaption of block Cracked Deepslate Tiles
+- added Static Lanterns (ClearerLanterns_1.21.8_2025-09-08)
 
 ## License
 
