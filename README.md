@@ -11,6 +11,7 @@ This is the base resource pack (of the Eisbaer's ResPack Collection) and builds 
 - 1.2.04 **Better Tiled Deepslate Tiles**: Better textures for deepslate tiles
 - 1.2.05 **Static Lanterns**: Static texture for sea lanterns
 - 1.2.06 **Square Barrels**: Square barrels opening instead of round one
+- 1.2.07 **Soul Soil Soul Campfire**: Soul soil "ash" texture for soul campfire
 - (Configurable options via Respackopts)
 
 ## Scripts & Usage
@@ -91,25 +92,25 @@ The resource pack uses the [Respackopts](https://modrinth.com/mod/respackopts) m
 
 Feature #: 1.1.01
 Source: [GitHub](https://github.com/NerdieBirdieYT/coloredbowcharge)
-Description: Uses colored textures for bow charging states
+Description: Uses three different textures (red, yellow, green) to show the charging state of a bow.
 
 #### 1.2.01: Variated Cobblestone
 
 Feature #: 1.2.01
 Source: [FaithfulPack](https://faithfulpack.net/addons/VariatedCobblestone)
-Description: Uses different textures for cobblestone blocks
+Description: Uses different texture variations for cobblestone blocks.
 
 #### 1.2.02: Variated Ores
 
 Feature #: 1.2.02
 Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/compliance-variated-ores)
-Description: Uses different textures for ore blocks
+Description: Uses different texture variations for ore blocks.
 
 #### 1.2.03: Unlit Redstone Ore
 
 Feature #: 1.2.03
 Source: [FaithfulPack](https://faithfulpack.net/addons/unlit-redstone-ore) | [GitHub](https://github.com/TQNL/TQNL-Faithful-Add-ons)
-Description: Uses different textures for redstone ore blockstates. Own adaptation from the above source to make it compatible with *Feature 1.2.02: Variated Ores*.
+Description: Uses different textures for redstone ore blockstates. Own adaptation from the above source to make it compatible with *Feature 1.2.02: Variated Ores*. Inspired by [vanillatweaks.net](https://vanillatweaks.net/).
 
 #### 1.2.04: Better Tiled Deepslate Tiles
 
@@ -129,6 +130,12 @@ Feature #: 1.2.06
 Source: [FaithfulPack](https://faithfulpack.net/addons/SquareBarrels) | [GitHub](https://github.com/DMgaming101/SquareBarrels)
 Description: Uses a square texture for the barrel opening.
 
+#### 1.2.07: Soul Soil Soul Campfire
+
+Feature #: 1.2.07
+Source: [FaithfulPack](https://faithfulpack.net/addons/soul-soil-soul-campfire) | [GitHub](https://github.com/TQNL/TQNL-Faithful-Add-ons)
+Description: Uses soul soil as "ash" texture for soul campfire (for better consistency). Inspired by [vanillatweaks.net](https://vanillatweaks.net/).
+
 ## Changelog
 
 ### 0.0.1
@@ -142,6 +149,7 @@ Description: Uses a square texture for the barrel opening.
   - added own adaption of block Cracked Deepslate Tiles
 - added Static Lanterns (ClearerLanterns_1.21.8_2025-09-08)
 - added Square Barrels (SquareBarrels_2024-12-05)
+- added Soul Soil Soul Campfire (SoulSoilSoulCampfire_2025-01-20)
 
 ## License
 
