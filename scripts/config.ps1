@@ -16,7 +16,7 @@ $DistDir = "$ProjectRoot\dist"
 
 # Resource pack settings
 [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute('PSUseDeclaredVarsMoreThanAssignments', '')]
-$DefaultPackName = "eisbaers_base"
+$DefaultPackName = "EisbaersBase"
 [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute('PSUseDeclaredVarsMoreThanAssignments', '')]
 $DefaultVersion = "0.0.1"  # Update this when releasing a new version
 [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute('PSUseDeclaredVarsMoreThanAssignments', '')]

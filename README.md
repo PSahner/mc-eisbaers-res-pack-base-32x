@@ -113,7 +113,7 @@ Description: Uses different textures for redstone ore blockstates. Own adaptatio
 
 Feature #: 1.2.04
 Source: https://www.planetminecraft.com/texture-pack/compliance-32x-better-tiled-deepslate-tiles
-Description: Uses a different texture to better connect tile blocks.
+Description: Uses a different texture to better connect tile blocks. In addition, added own adaption of block Cracked Deepslate Tiles, so that it looks uniform.
 
 ## Changelog
 
@@ -122,8 +122,10 @@ Description: Uses a different texture to better connect tile blocks.
 - added Colored Bow Charge (ColoredBowCharge_2022-04-17)
 - added Variated Cobblestone (VariatedCobblestone_v1.1)
 - added Variated Ores (VariatedOres_v1.18)
-- added Unlit Redstone Ore (adaptation of UnlitRedstoneOre_v1.18)
+- added Unlit Redstone Ore (UnlitRedstoneOre_v1.18)
+  - added own adaptions of variated unlit redstone ores
 - added Better Tiled Deepslate Tiles (BetterTiledDeepslateTiles_2021-07-01)
+  - added own adaption of block Cracked Deepslate Tiles
 
 ## License
 
