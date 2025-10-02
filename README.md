@@ -1,19 +1,20 @@
 # Eisbaer's resource pack Base
 
-This is the base resource pack (of the Eisbaer's ResPack Collection) and builds the foundation for the other resource packs.
+This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecraft version **MC 1.21.9**). It builds the foundation for the other packs of the collection. The [Faithful 32x](https://faithfulpack.net/) resource pack needs to be installed and enabled before this pack in the resource pack selection screen.
 
-## Features - Short List
+## Integrated Resource Packs - Overview
 
-- 1.1.01 **Colored Bow Charge**: Visually distinctive bow textures for different charge states
-- 1.2.01 **Variated Cobblestone**: Different textures for cobblestone blocks
-- 1.2.02 **Variated Ores**: Different textures for ore blocks
-- 1.2.03 **Unlit Redstone Ore**: *CUSTOM* Different textures for unlit redstone ore blockstate
-- 1.2.04 **Better Tiled Deepslate Tiles**: *CUSTOM* Better textures for deepslate tiles
-- 1.2.05 **Static Lanterns**: Static texture for sea lanterns
-- 1.2.06 **Square Barrels**: Square barrels opening instead of round one
-- 1.2.07 **Soul Soil Soul Campfire**: Soul soil "ash" texture for soul campfire
-- 1.2.08 **Polished Chests**: *CUSTOM* Polished golden brown chest textures
-- (Configurable options via Respackopts)
+| Feature ID | Pack Name | Version |
+| --- | --- | --- |
+| 1.1.01 | Colored Bow Charge | 2022-04-17 |
+| 1.2.01 | Variated Cobblestone | v1.1 |
+| 1.2.02 | Variated Ores | MC 1.18 |
+| 1.2.03 | Unlit Redstone Ore | 2025-01-20 |
+| 1.2.04 | Better Tiled Deepslate Tiles | MC 1.17 |
+| 1.2.05 | Static Lanterns | MC 1.21.8 |
+| 1.2.06 | Square Barrels | MC 1.21.4 |
+| 1.2.07 | Soul Soil Soul Campfire | 2025-01-20 |
+| 1.2.08 | Polished Chests | MC 1.16 |
 
 ## Scripts & Usage
 
@@ -87,7 +88,7 @@ The resource pack uses the [Respackopts](https://modrinth.com/mod/respackopts) m
 3. In the resource pack selection screen, click the gear icon next to "Eisbaer's resource pack Base"
 4. Toggle the options according to your preferences
 
-### Features
+### Integrated Resource Packs - Details
 
 #### 1.1.01: Colored Bow Charge
 
@@ -159,6 +160,7 @@ Description: Uses a polished golden brown chest texture instead of the old one. 
 - added Soul Soil Soul Campfire (SoulSoilSoulCampfire_2025-01-20)
 - added Polished Chests (PolishedChests_2024-12-05)
   - added own/custom polished chest textures to chest boats
+- updated Resource Pack (`pack.mcmeta`) for MC 1.21.9
 
 ## License
 
