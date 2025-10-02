@@ -7,8 +7,8 @@ This is the base resource pack (of the Eisbaer's ResPack Collection) and builds 
 - 1.1.01 **Colored Bow Charge**: Visually distinctive bow textures for different charge states
 - 1.2.01 **Variated Cobblestone**: Different textures for cobblestone blocks
 - 1.2.02 **Variated Ores**: Different textures for ore blocks
-- 1.2.03 **Unlit Redstone Ore**: Different textures for redstone ore's unlit blockstate
-- 1.2.04 **Better Tiled Deepslate Tiles**: Better textures for deepslate tiles
+- 1.2.03 **Unlit Redstone Ore**: *CUSTOM* Different textures for unlit redstone ore blockstate
+- 1.2.04 **Better Tiled Deepslate Tiles**: *CUSTOM* Better textures for deepslate tiles
 - 1.2.05 **Static Lanterns**: Static texture for sea lanterns
 - 1.2.06 **Square Barrels**: Square barrels opening instead of round one
 - 1.2.07 **Soul Soil Soul Campfire**: Soul soil "ash" texture for soul campfire
@@ -106,17 +106,17 @@ Feature #: 1.2.02
 Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/compliance-variated-ores)
 Description: Uses different texture variations for ore blocks.
 
-#### 1.2.03: Unlit Redstone Ore
+#### 1.2.03: Unlit Redstone Ore - *Customized*
 
 Feature #: 1.2.03
 Source: [FaithfulPack](https://faithfulpack.net/addons/unlit-redstone-ore) | [GitHub](https://github.com/TQNL/TQNL-Faithful-Add-ons)
-Description: Uses different textures for redstone ore blockstates. Own adaptation from the above source to make it compatible with *Feature 1.2.02: Variated Ores*. Inspired by [vanillatweaks.net](https://vanillatweaks.net/).
+Description: Uses different textures for redstone ore blockstates. Customized version of the above source to make it compatible with *Feature 1.2.02: Variated Ores*. Inspired by [vanillatweaks.net](https://vanillatweaks.net/).
 
-#### 1.2.04: Better Tiled Deepslate Tiles
+#### 1.2.04: Better Tiled Deepslate Tiles - *Customized*
 
 Feature #: 1.2.04
 Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/compliance-32x-better-tiled-deepslate-tiles)
-Description: Uses a different texture to better connect tile blocks. In addition, added own adaption of block Cracked Deepslate Tiles, so that it looks uniform.
+Description: Uses a different texture to better connect tile blocks. Customized version, which also adds a different texure for Cracked Deepslate Tiles, based on the source to make it look uniform.
 
 #### 1.2.05: Static Lanterns
 
@@ -144,9 +144,9 @@ Description: Uses soul soil as "ash" texture for soul campfire (for better consi
 - added Variated Cobblestone (VariatedCobblestone_v1.1)
 - added Variated Ores (VariatedOres_v1.18)
 - added Unlit Redstone Ore (UnlitRedstoneOre_v1.18)
-  - added own adaptions of variated unlit redstone ores
+  - added own/custom adaptions of variated unlit redstone ores
 - added Better Tiled Deepslate Tiles (BetterTiledDeepslateTiles_2021-07-01)
-  - added own adaption of block Cracked Deepslate Tiles
+  - added own/custom adaption of block Cracked Deepslate Tiles
 - added Static Lanterns (ClearerLanterns_1.21.8_2025-09-08)
 - added Square Barrels (SquareBarrels_2024-12-05)
 - added Soul Soil Soul Campfire (SoulSoilSoulCampfire_2025-01-20)
