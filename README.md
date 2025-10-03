@@ -15,6 +15,7 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.2.06 | Square Barrels | MC 1.21.4 |
 | 1.2.07 | Soul Soil Soul Campfire | 2025-01-20 |
 | 1.2.08 | Polished Chests | MC 1.16 |
+| 1.2.09 | Inner Edges for Doors | MC 1.21.4 v1.1 |
 
 ## Scripts & Usage
 
@@ -144,6 +145,12 @@ Feature #: 1.2.08
 Source: [FaithfulPack](https://faithfulpack.net/addons/polished-chests)
 Description: Uses a polished golden brown chest texture instead of the old one. Customized version, which also adds the polished chest textures to chest boats (entities + items).
 
+#### 1.2.09: Inner Edges for Doors
+
+Feature #: 1.2.09
+Source: [FaithfulPack](https://faithfulpack.net/addons/inner-edges-for-doors)
+Description: Adds faces to the insides of the windows of doors and trapdoors and gives it a three-dimensional effect.
+
 ## Changelog
 
 ### 0.0.1
@@ -161,6 +168,7 @@ Description: Uses a polished golden brown chest texture instead of the old one. 
 - added Polished Chests (PolishedChests_2024-12-05)
   - added own/custom polished chest textures to chest boats
 - updated Resource Pack (`pack.mcmeta`) for MC 1.21.9
+- added Inner Edges for Doors (InnerEdgesForDoors_1.21.4_v1.1)
 
 ## License
 

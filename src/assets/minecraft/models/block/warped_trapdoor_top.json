@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/template_orientable_trapdoor_top",
+	"textures": {
+		"texture": "block/warped_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 13, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 3], "texture": "#texture", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 3], "texture": "#texture", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 3], "texture": "#texture", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 3], "texture": "#texture", "cullface": "west"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#texture", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [3, 16, 3],
+			"to": [13, 13, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 13, 0]},
+			"faces": {
+				"north": {"uv": [15.5, 16, 5.5, 13], "texture": "#texture"},
+				"east": {"uv": [16, 3, 13, 13], "rotation": 90, "texture": "#texture"},
+				"south": {"uv": [3, 13, 13, 16], "rotation": 180, "texture": "#texture"},
+				"west": {"uv": [13, 3, 16, 13], "rotation": 270, "texture": "#texture"}
+			}
+		}
+	]
+}
