@@ -2,28 +2,28 @@
   "variants": {
     "": [
       {
-        "model": "block/variated/cobblestone/block/0"
+        "model": "f1_2_01_variated_cobblestone:block/cobblestone/block/0"
       },
       {
-        "model": "block/variated/cobblestone/block/1"
+        "model": "f1_2_01_variated_cobblestone:block/cobblestone/block/1"
       },
       {
-        "model": "block/variated/cobblestone/block/2"
+        "model": "f1_2_01_variated_cobblestone:block/cobblestone/block/2"
       },
       {
-        "model": "block/variated/cobblestone/block/3"
+        "model": "f1_2_01_variated_cobblestone:block/cobblestone/block/3"
       },
       {
-        "model": "block/variated/cobblestone/block/4"
+        "model": "f1_2_01_variated_cobblestone:block/cobblestone/block/4"
       },
       {
-        "model": "block/variated/cobblestone/block/5"
+        "model": "f1_2_01_variated_cobblestone:block/cobblestone/block/5"
       },
       {
-        "model": "block/variated/cobblestone/block/6"
+        "model": "f1_2_01_variated_cobblestone:block/cobblestone/block/6"
       },
       {
-        "model": "block/variated/cobblestone/block/7"
+        "model": "f1_2_01_variated_cobblestone:block/cobblestone/block/7"
       }
     ]
   }
