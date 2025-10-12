@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "f1_2_02_variated_ores:block/deepslate_gold_ore3_top",
+    "side": "f1_2_02_variated_ores:block/deepslate_gold_ore3"
+  }
+}
