@@ -17,6 +17,8 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.2.08 | Polished Chests | MC 1.16 |
 | 1.2.09 | Inner Edges for Doors | MC 1.21.4 v1.1 |
 
+**Inner Edges for Doors:** Only the "normal" unwaxed copper trapdoor has inner edges. The other copper trapdoors (exposed, weathered, oxidized, and all waxed versions) do not have inner edges.
+
 ## Scripts & Usage
 
 This repository includes PowerShell scripts to help you build and manage your resource pack. All scripts use a centralized configuration file for easy maintenance:
