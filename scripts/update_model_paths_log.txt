@@ -1,0 +1,86 @@
+Starting model path update process at 10/13/2025 02:27:26
+=================================================
+Found 25 blockstate files to process
+Found 98 custom models available
+Processing acacia_door.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\acacia_door.json
+No changes needed for acacia_door.json (checked 0 paths)
+Processing bamboo_door.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\bamboo_door.json
+No changes needed for bamboo_door.json (checked 16 paths)
+Processing birch_door.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\birch_door.json
+No changes needed for birch_door.json (checked 0 paths)
+Processing cherry_door.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\cherry_door.json
+  Updating: "model": "minecraft:block/cherry_door_bottom_left" -> "model": "f1_2_09_inner_edges_for_doors:block/cherry_door_bottom_left"
+  Updating: "model": "minecraft:block/cherry_door_bottom_left_open" -> "model": "f1_2_09_inner_edges_for_doors:block/cherry_door_bottom_left_open"
+Updated 2 model paths in cherry_door.json (out of 2 matches)
+Processing copper_door.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\copper_door.json
+No changes needed for copper_door.json (checked 16 paths)
+Processing exposed_copper_door.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\exposed_copper_door.json
+No changes needed for exposed_copper_door.json (checked 16 paths)
+Processing iron_door.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\iron_door.json
+No changes needed for iron_door.json (checked 16 paths)
+Processing jungle_door.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\jungle_door.json
+No changes needed for jungle_door.json (checked 16 paths)
+Processing oak_door.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\oak_door.json
+No changes needed for oak_door.json (checked 16 paths)
+Processing oxidized_copper_door.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\oxidized_copper_door.json
+No changes needed for oxidized_copper_door.json (checked 16 paths)
+Processing weathered_copper_door.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\weathered_copper_door.json
+No changes needed for weathered_copper_door.json (checked 16 paths)
+Processing acacia_trapdoor.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\acacia_trapdoor.json
+No changes needed for acacia_trapdoor.json (checked 0 paths)
+Processing bamboo_trapdoor.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\bamboo_trapdoor.json
+No changes needed for bamboo_trapdoor.json (checked 0 paths)
+Processing birch_trapdoor.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\birch_trapdoor.json
+No changes needed for birch_trapdoor.json (checked 0 paths)
+Processing cherry_trapdoor.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\cherry_trapdoor.json
+No changes needed for cherry_trapdoor.json (checked 0 paths)
+Processing copper_trapdoor.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\copper_trapdoor.json
+No changes needed for copper_trapdoor.json (checked 0 paths)
+Processing crimson_trapdoor.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\crimson_trapdoor.json
+No changes needed for crimson_trapdoor.json (checked 0 paths)
+Processing exposed_copper_trapdoor.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\exposed_copper_trapdoor.json
+No changes needed for exposed_copper_trapdoor.json (checked 0 paths)
+Processing iron_trapdoor.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\iron_trapdoor.json
+No changes needed for iron_trapdoor.json (checked 0 paths)
+Processing jungle_trapdoor.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\jungle_trapdoor.json
+No changes needed for jungle_trapdoor.json (checked 0 paths)
+Processing mangrove_trapdoor.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\mangrove_trapdoor.json
+No changes needed for mangrove_trapdoor.json (checked 0 paths)
+Processing oak_trapdoor.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\oak_trapdoor.json
+No changes needed for oak_trapdoor.json (checked 0 paths)
+Processing oxidized_copper_trapdoor.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\oxidized_copper_trapdoor.json
+No changes needed for oxidized_copper_trapdoor.json (checked 0 paths)
+Processing warped_trapdoor.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\warped_trapdoor.json
+No changes needed for warped_trapdoor.json (checked 0 paths)
+Processing weathered_copper_trapdoor.json...
+Created backup at F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726\weathered_copper_trapdoor.json
+No changes needed for weathered_copper_trapdoor.json (checked 0 paths)
+=================================================
+Process completed at 10/13/2025 02:27:27
+Updated 1 out of 25 blockstate files
+Log saved to F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\update_model_paths_log.txt
+Backups saved to F:\Repos\mc-eisbaers-res-pack-base-32x\scripts\blockstates_backup_20251013_022726

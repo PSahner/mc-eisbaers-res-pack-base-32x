@@ -3,5 +3,22 @@
   "tabWidth": 2,
   "singleQuote": true,
   "bracketSpacing": false,
-  "trailingComma": "none"
+  "trailingComma": "none",
+  "quoteProps": "consistent",
+  "arrowParens": "avoid",
+  "jsxBracketSameLine": true,
+  "singleAttributePerLine": false,
+  "proseWrap": "never",
+  "htmlWhitespaceSensitivity": "ignore",
+  "endOfLine": "lf",
+  "embeddedLanguageFormatting": "auto",
+  "overrides": [
+    {
+      "files": "*.json",
+      "options": {
+        "parser": "json",
+        "printWidth": 120
+      }
+    }
+  ]
 }
