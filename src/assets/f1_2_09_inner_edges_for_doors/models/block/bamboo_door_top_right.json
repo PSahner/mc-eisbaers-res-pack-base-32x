@@ -2,7 +2,8 @@
   "credit": "Made with Blockbench",
   "parent": "minecraft:block/door_top_right",
   "textures": {
-    "top": "minecraft:block/bamboo_door_top"
+    "top": "minecraft:block/bamboo_door_top",
+    "empty": "f1_2_09_inner_edges_for_doors:block/empty"
   },
   "elements": [
     {
@@ -56,12 +57,12 @@
       "to": [1.5, 12.5, 12.5],
       "rotation": {"angle": 0, "axis": "y", "origin": [0.5, 0, 0]},
       "faces": {
-        "north": {"uv": [0, 0, 0, 11.5], "texture": "#missing"},
+        "north": {"uv": [0, 0, 0, 11.5], "texture": "#empty"},
         "east": {"uv": [3.5, 3.5, 12.5, 15], "texture": "#top"},
-        "south": {"uv": [0, 0, 0, 11.5], "texture": "#missing"},
+        "south": {"uv": [0, 0, 0, 11.5], "texture": "#empty"},
         "west": {"uv": [3.5, 3.5, 12.5, 15], "texture": "#top"},
-        "up": {"uv": [0, 0, 0, 9], "texture": "#missing"},
-        "down": {"uv": [0, 0, 0, 9], "texture": "#missing"}
+        "up": {"uv": [0, 0, 0, 9], "texture": "#empty"},
+        "down": {"uv": [0, 0, 0, 9], "texture": "#empty"}
       }
     }
   ],
