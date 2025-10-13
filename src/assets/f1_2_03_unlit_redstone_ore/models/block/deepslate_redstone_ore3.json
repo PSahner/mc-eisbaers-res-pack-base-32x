@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "f1_2_03_unlit_redstone_ore:block/deepslate_redstone_ore3_top",
+    "side": "f1_2_03_unlit_redstone_ore:block/deepslate_redstone_ore3"
+  }
+}

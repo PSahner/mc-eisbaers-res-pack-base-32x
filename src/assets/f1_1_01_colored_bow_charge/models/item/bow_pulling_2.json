@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "f1_1_01_colored_bow_charge:item/bow_pulling_2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "f1_2_01_variated_cobblestone:block/variated/cobblestone/1"
+  }
+}

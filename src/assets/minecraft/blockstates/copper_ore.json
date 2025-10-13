@@ -1,15 +1,9 @@
 {
   "variants": {
     "": [
-	{
-      "model": "minecraft:block/variated/ores/copper_ore"
-    },
-    {
-      "model": "minecraft:block/variated/ores/copper_ore2"
-    },
-	{
-      "model": "minecraft:block/variated/ores/copper_ore3"
-    }
-   ]
+      {"model": "f1_2_02_variated_ores:block/copper_ore"},
+      {"model": "f1_2_02_variated_ores:block/copper_ore2"},
+      {"model": "f1_2_02_variated_ores:block/copper_ore3"}
+    ]
   }
 }

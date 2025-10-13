@@ -1,0 +1,53 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "minecraft:block/template_orientable_trapdoor_bottom",
+  "textures": {
+    "texture": "minecraft:block/acacia_trapdoor"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 3, 16],
+      "faces": {
+        "north": {"uv": [0, 0, 16, 3], "texture": "#texture", "cullface": "north"},
+        "east": {"uv": [0, 0, 16, 3], "texture": "#texture", "cullface": "east"},
+        "south": {"uv": [0, 0, 16, 3], "texture": "#texture", "cullface": "south"},
+        "west": {"uv": [0, 0, 16, 3], "texture": "#texture", "cullface": "west"},
+        "up": {"uv": [0, 16, 16, 0], "texture": "#texture"},
+        "down": {"uv": [0, 0, 16, 16], "texture": "#texture", "cullface": "down"}
+      }
+    },
+    {
+      "from": [11.5, 3, 3],
+      "to": [13.5, 0, 13],
+      "faces": {
+        "north": {"uv": [2.5, 16, 4.5, 13], "texture": "#texture"},
+        "east": {"uv": [7, 3, 4.5, 13], "rotation": 90, "texture": "#texture"},
+        "south": {"uv": [2.5, 16, 4.5, 13], "texture": "#texture"},
+        "west": {"uv": [7, 3, 4.5, 13], "rotation": 90, "texture": "#texture"}
+      }
+    },
+    {
+      "from": [7, 3, 3],
+      "to": [9, 0, 13],
+      "rotation": {"angle": 0, "axis": "y", "origin": [-4.5, 0, 0]},
+      "faces": {
+        "north": {"uv": [11.5, 16, 13.5, 13], "texture": "#texture"},
+        "east": {"uv": [11.5, 3, 9, 13], "rotation": 90, "texture": "#texture"},
+        "south": {"uv": [11.5, 16, 13.5, 13], "texture": "#texture"},
+        "west": {"uv": [11.5, 3, 9, 13], "rotation": 90, "texture": "#texture"}
+      }
+    },
+    {
+      "from": [2.5, 3, 3],
+      "to": [4.5, 0, 13],
+      "rotation": {"angle": 0, "axis": "y", "origin": [-9, 0, 0]},
+      "faces": {
+        "north": {"uv": [2.5, 16, 4.5, 13], "texture": "#texture"},
+        "east": {"uv": [16, 3, 13.5, 13], "rotation": 90, "texture": "#texture"},
+        "south": {"uv": [2.5, 16, 4.5, 13], "texture": "#texture"},
+        "west": {"uv": [16, 3, 13.5, 13], "rotation": 90, "texture": "#texture"}
+      }
+    }
+  ]
+}

@@ -8,7 +8,9 @@ Thumbs.db
 # Build artifacts
 *.zip
 release/
+blockstates_backup_*/
 
 # Local test builds
 dev_build/
 dist/
+_temp/

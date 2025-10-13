@@ -1,15 +1,9 @@
 {
   "variants": {
     "": [
-	{
-      "model": "minecraft:block/variated/ores/emerald_ore"
-    },
-    {
-      "model": "minecraft:block/variated/ores/emerald_ore2"
-    },
-	{
-      "model": "minecraft:block/variated/ores/emerald_ore3"
-    }
-   ]
+      {"model": "f1_2_02_variated_ores:block/emerald_ore"},
+      {"model": "f1_2_02_variated_ores:block/emerald_ore2"},
+      {"model": "f1_2_02_variated_ores:block/emerald_ore3"}
+    ]
   }
 }

@@ -1,34 +1,34 @@
 {
   "variants": {
     "type=bottom": [
-      {"model": "block/variated/cobblestone/slab/0"},
-      {"model": "block/variated/cobblestone/slab/1"},
-      {"model": "block/variated/cobblestone/slab/2"},
-      {"model": "block/variated/cobblestone/slab/3"},
-      {"model": "block/variated/cobblestone/slab/4"},
-      {"model": "block/variated/cobblestone/slab/5"},
-      {"model": "block/variated/cobblestone/slab/6"},
-      {"model": "block/variated/cobblestone/slab/7"}
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab/0"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab/1"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab/2"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab/3"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab/4"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab/5"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab/6"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab/7"}
     ],
     "type=top": [
-      {"model": "block/variated/cobblestone/slab_top/0"},
-      {"model": "block/variated/cobblestone/slab_top/1"},
-      {"model": "block/variated/cobblestone/slab_top/2"},
-      {"model": "block/variated/cobblestone/slab_top/3"},
-      {"model": "block/variated/cobblestone/slab_top/4"},
-      {"model": "block/variated/cobblestone/slab_top/5"},
-      {"model": "block/variated/cobblestone/slab_top/6"},
-      {"model": "block/variated/cobblestone/slab_top/7"}
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab_top/0"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab_top/1"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab_top/2"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab_top/3"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab_top/4"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab_top/5"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab_top/6"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab_top/7"}
     ],
     "type=double": [
-      {"model": "block/variated/cobblestone/block/0"},
-      {"model": "block/variated/cobblestone/block/1"},
-      {"model": "block/variated/cobblestone/block/2"},
-      {"model": "block/variated/cobblestone/block/3"},
-      {"model": "block/variated/cobblestone/block/4"},
-      {"model": "block/variated/cobblestone/block/5"},
-      {"model": "block/variated/cobblestone/block/6"},
-      {"model": "block/variated/cobblestone/block/7"}
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/0"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/1"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/2"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/3"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/4"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/5"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/6"},
+      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/7"}
     ]
   }
 }

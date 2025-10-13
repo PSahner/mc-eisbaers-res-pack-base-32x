@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "f1_2_04_better_tiled_deepslate_tiles:block/cracked_deepslate_tiles"
+  }
+}
