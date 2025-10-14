@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/copper_door_top_left_open",
+  "parent": "f1_2_09_inner_edges_for_doors:block/copper_door_top_left_open",
   "textures": {
     "bottom": "minecraft:block/weathered_copper_door_bottom",
     "top": "minecraft:block/weathered_copper_door_top"

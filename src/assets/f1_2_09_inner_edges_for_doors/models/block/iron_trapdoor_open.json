@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/oak_trapdoor_open",
+  "parent": "f1_2_09_inner_edges_for_doors:block/oak_trapdoor_open",
   "textures": {
     "texture": "minecraft:block/iron_trapdoor"
   }

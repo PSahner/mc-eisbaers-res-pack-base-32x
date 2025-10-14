@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/copper_trapdoor_open",
+  "parent": "f1_2_09_inner_edges_for_doors:block/copper_trapdoor_open",
   "textures": {
     "texture": "minecraft:block/weathered_copper_trapdoor"
   }

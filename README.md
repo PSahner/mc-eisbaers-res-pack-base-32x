@@ -17,7 +17,15 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.2.08 | Polished Chests | MC 1.16 |
 | 1.2.09 | Inner Edges for Doors | MC 1.21.4 v1.1 |
 
-**Inner Edges for Doors:** Only the "normal" unwaxed copper trapdoor has inner edges. The other copper trapdoors (exposed, weathered, oxidized, and all waxed versions) do not have inner edges.
+## Planned Development
+
+### General To-Do List
+
+- try to expand "Inner Edges for Doors" (and trapdoors) to include the three (currently) missing wood types: `spruce`, `dark oak`, `pale oak`
+
+### New Features and/or Resource Packs
+
+- none atm
 
 ## Scripts & Usage
 
@@ -73,6 +81,18 @@ This repository includes PowerShell scripts to help you build and manage your re
   - Source and distribution directories
   - Default Minecraft path
   - Maximum number of previous builds to keep
+
+### 5. [scripts/update_door_model_paths.ps1](cci:7://file:///f:/Repos/mc-eisbaers-res-pack-base-32x/scripts/update_door_model_paths.ps1:0:0-0:0) - Update Door Model Paths
+
+- Automatically updates model paths in blockstate files (in `assets\minecraft\`) for doors and trapdoors
+- Checks if corresponding custom models exist in the Inner Edges for Doors feature
+- Creates backups of original files before making changes
+- Logs all operations to a detailed log file
+
+```powershell
+# Command line options
+.\scripts\update_door_model_paths.ps1    # Run the script to update door model paths
+```
 
 **Intelligent Build History**
 
@@ -147,11 +167,11 @@ Feature #: 1.2.08
 Source: [FaithfulPack](https://faithfulpack.net/addons/polished-chests)
 Description: Uses a polished golden brown chest texture instead of the old one. Customized version, which also adds the polished chest textures to chest boats (entities + items).
 
-#### 1.2.09: Inner Edges for Doors
+#### 1.2.09: Inner Edges for Doors - *Customized*
 
 Feature #: 1.2.09
 Source: [FaithfulPack](https://faithfulpack.net/addons/inner-edges-for-doors)
-Description: Adds faces to the insides of the windows of doors and trapdoors and gives it a three-dimensional effect.
+Description: Adds faces to the insides of the windows of doors and trapdoors and gives it a three-dimensional effect. Customized version, which also fixes the different copper door and trapdoor models (exposed, weathered, oxidized, and all waxed versions).
 
 ## Changelog
 
@@ -171,7 +191,8 @@ Description: Adds faces to the insides of the windows of doors and trapdoors and
   - added own/custom polished chest textures to chest boats
 - updated Resource Pack (`pack.mcmeta`) for MC 1.21.9
 - added Inner Edges for Doors (InnerEdgesForDoors_1.21.4_v1.1)
-
+  - fixed different copper door and trapdoor models (exposed, weathered, oxidized, and all waxed versions)
+- restructured resource pack architecture to use own namespaces for each feature
 ## License
 
 This pack is licensed under the [MIT License](https://github.com/eisbaer123/mc-eisbaers-res-pack-base-32x/blob/main/LICENSE).
