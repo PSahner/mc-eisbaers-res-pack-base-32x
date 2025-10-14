@@ -16,6 +16,7 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.2.07 | Soul Soil Soul Campfire | 2025-01-20 |
 | 1.2.08 | Polished Chests | MC 1.16 |
 | 1.2.09 | Inner Edges for Doors | MC 1.21.4 v1.1 |
+| 1.2.10 | Candles Overhaul | MC 1.20 |
 
 ## Planned Development
 
@@ -173,6 +174,11 @@ Feature #: 1.2.09
 Source: [FaithfulPack](https://faithfulpack.net/addons/inner-edges-for-doors)
 Description: Adds faces to the insides of the windows of doors and trapdoors and gives it a three-dimensional effect. Customized version, which also fixes the different copper door and trapdoor models (exposed, weathered, oxidized, and all waxed versions).
 
+#### 1.2.10: Candles Overhaul
+
+Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/candles-overhaul/)
+Description: Uses a different candle model for candles (including candles on cakes).
+
 ## Changelog
 
 ### 0.0.1
@@ -193,6 +199,8 @@ Description: Adds faces to the insides of the windows of doors and trapdoors and
 - added Inner Edges for Doors (InnerEdgesForDoors_1.21.4_v1.1)
   - fixed different copper door and trapdoor models (exposed, weathered, oxidized, and all waxed versions)
 - restructured resource pack architecture to use own namespaces for each feature
+- added Candles Overhaul (CandlesOverhaul_2023-07-30)
+
 ## License
 
 This pack is licensed under the [MIT License](https://github.com/eisbaer123/mc-eisbaers-res-pack-base-32x/blob/main/LICENSE).

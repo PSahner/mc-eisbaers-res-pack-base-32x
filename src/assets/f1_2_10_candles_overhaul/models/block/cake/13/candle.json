@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
-  "parent": "block/slab",
+  "parent": "minecraft:block/slab",
   "textures": {
-    "all": "block/cake/13",
-    "particle": "block/break/cake"
+    "all": "minecraft:block/cake/13",
+    "particle": "minecraft:block/break/cake"
   },
   "elements": [
     {

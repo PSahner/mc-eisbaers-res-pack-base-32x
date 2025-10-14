@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "f1_2_10_candles_overhaul:block/candle_cake"
+    },
+    "lit=true": {
+      "model": "f1_2_10_candles_overhaul:block/candle_cake_lit"
+    }
+  }
+}

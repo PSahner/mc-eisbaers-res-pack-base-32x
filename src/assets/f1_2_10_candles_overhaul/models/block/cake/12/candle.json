@@ -1,7 +1,7 @@
 {
-  "parent": "block/cake/11/candle",
+  "parent": "f1_2_10_candles_overhaul:block/cake/11/candle",
   "textures": {
-    "all": "block/cake/12",
-    "particle": "block/break/cake"
+    "all": "minecraft:block/cake/12",
+    "particle": "minecraft:block/break/cake"
   }
 }
