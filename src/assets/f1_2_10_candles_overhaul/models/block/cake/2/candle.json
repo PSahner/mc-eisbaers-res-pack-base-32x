@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cake/1/candle",
+  "textures": {
+    "all": "minecraft:block/cake/2",
+    "particle": "minecraft:block/break/cake"
+  }
+}
