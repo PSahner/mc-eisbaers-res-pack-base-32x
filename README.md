@@ -17,6 +17,7 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.2.08 | Polished Chests | MC 1.16 |
 | 1.2.09 | Inner Edges for Doors | MC 1.21.4 v1.1 |
 | 1.2.10 | Candles Overhaul | MC 1.20 |
+| 1.2.11 | All Consistent Bucket Textures | 2025-03-10 |
 
 ## Planned Development
 
@@ -179,6 +180,11 @@ Description: Adds faces to the insides of the windows of doors and trapdoors and
 Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/candles-overhaul/)
 Description: Uses a different candle model for candles (including candles on cakes). Since in newer versions of Minecraft the candles no longer use the translucent property, the version in this resource pack is a stripped-down version of the source without the wax overlay. For the wax overlay to show, you additionally need the [Eisbaer's Candle Overlay Fix](https://github.com/PSahner/mc-eisbaers-mods_candleOverlayFix) mod.
 
+#### 1.2.11: All Consistent Bucket Textures
+
+Source: [FaithfulPack](https://faithfulpack.net/addons/all-consistent-bucket-textures)
+Description: Adds uniform bucket texture alignment and introduces a clearer water appearance for tadpoles in buckets. Inspired by [vanillatweaks.net](https://vanillatweaks.net/).
+
 ## Changelog
 
 ### 0.0.1
@@ -201,6 +207,7 @@ Description: Uses a different candle model for candles (including candles on cak
 - restructured resource pack architecture to use own namespaces for each feature
 - added Candles Overhaul (CandlesOverhaul_2023-07-30)
   - stripped-down version of the source without the wax overlay
+- added All Consistent Bucket Textures (AllConsistentBucketTextures_2025-03-10)
 
 ## License
 
