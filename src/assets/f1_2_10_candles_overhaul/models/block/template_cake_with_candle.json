@@ -1,5 +1,5 @@
 {
-  "credit": "Made with Blockbench",
+  "credit": "Made with Blockbench - Fixed for Minecraft 1.21.9",
   "parent": "minecraft:block/block",
   "textures": {
     "bottom": "minecraft:block/cake_bottom",
@@ -22,29 +22,16 @@
       }
     },
     {
-      "name": "Wax up",
-      "from": [6.9, 10.9, 6.9],
-      "to": [9.1, 14.1, 9.1],
-      "rotation": {"angle": 0, "axis": "y", "origin": [0, 1.5, 0]},
-      "faces": {
-        "north": {"uv": [7, 0, 9, 3], "texture": "#candle"},
-        "east": {"uv": [9.5, 0, 11.5, 3], "texture": "#candle"},
-        "south": {"uv": [7, 0, 9, 3], "texture": "#candle"},
-        "west": {"uv": [9.5, 0, 11.5, 3], "texture": "#candle"},
-        "up": {"uv": [4.5, 0, 6.5, 2], "texture": "#candle"}
-      }
-    },
-    {
       "name": "Base",
       "from": [7, 8, 7],
       "to": [9, 14, 9],
       "rotation": {"angle": 0, "axis": "y", "origin": [0, 1.5, 0]},
       "faces": {
-        "north": {"uv": [0, 0, 2, 6], "texture": "#candle"},
-        "east": {"uv": [0, 0, 2, 6], "texture": "#candle"},
-        "south": {"uv": [0, 0, 2, 6], "texture": "#candle"},
-        "west": {"uv": [2, 0, 4, 6], "texture": "#candle"},
-        "up": {"uv": [4.5, 0, 6.5, 2], "texture": "#candle"}
+        "north": {"uv": [0, 0, 2, 6], "texture": "#candle", "tintindex": 0},
+        "east": {"uv": [0, 0, 2, 6], "texture": "#candle", "tintindex": 0},
+        "south": {"uv": [0, 0, 2, 6], "texture": "#candle", "tintindex": 0},
+        "west": {"uv": [2, 0, 4, 6], "texture": "#candle", "tintindex": 0},
+        "up": {"uv": [4.5, 0, 6.5, 2], "texture": "#candle", "tintindex": 0}
       }
     },
     {

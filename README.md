@@ -174,10 +174,10 @@ Feature #: 1.2.09
 Source: [FaithfulPack](https://faithfulpack.net/addons/inner-edges-for-doors)
 Description: Adds faces to the insides of the windows of doors and trapdoors and gives it a three-dimensional effect. Customized version, which also fixes the different copper door and trapdoor models (exposed, weathered, oxidized, and all waxed versions).
 
-#### 1.2.10: Candles Overhaul
+#### 1.2.10: Candles Overhaul - *Customized*
 
 Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/candles-overhaul/)
-Description: Uses a different candle model for candles (including candles on cakes).
+Description: Uses a different candle model for candles (including candles on cakes). Since in newer versions of Minecraft the candles no longer use the translucent property, the version in this resource pack is a stripped-down version of the source without the wax overlay. For the wax overlay to show, you additionally need the [Eisbaer's Candle Overlay Fix](https://github.com/PSahner/mc-eisbaers-mods_candleOverlayFix) mod.
 
 ## Changelog
 
@@ -200,6 +200,7 @@ Description: Uses a different candle model for candles (including candles on cak
   - fixed different copper door and trapdoor models (exposed, weathered, oxidized, and all waxed versions)
 - restructured resource pack architecture to use own namespaces for each feature
 - added Candles Overhaul (CandlesOverhaul_2023-07-30)
+  - stripped-down version of the source without the wax overlay
 
 ## License
 

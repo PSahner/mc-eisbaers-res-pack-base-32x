@@ -1,5 +1,5 @@
 {
-  "credit": "Made with Blockbench",
+  "credit": "Made with Blockbench - Fixed for Minecraft 1.21.9",
   "parent": "minecraft:block/block",
   "elements": [
     {
@@ -8,25 +8,12 @@
       "to": [7.5, 1, 9.5],
       "rotation": {"angle": 0, "axis": "y", "origin": [0, 3, 0]},
       "faces": {
-        "north": {"uv": [13, 9, 16, 10], "texture": "#all"},
-        "east": {"uv": [13, 9, 16, 10], "texture": "#all"},
-        "south": {"uv": [13, 9, 16, 10], "texture": "#all"},
-        "west": {"uv": [13, 9, 16, 10], "texture": "#all"},
-        "up": {"uv": [13, 0, 16, 3], "texture": "#all"},
-        "down": {"uv": [13, 0, 16, 3], "texture": "#all"}
-      }
-    },
-    {
-      "name": "Wax up",
-      "from": [4.9, 1.9, 6.9],
-      "to": [7.1, 5.1, 9.1],
-      "rotation": {"angle": 0, "axis": "y", "origin": [0, 1.5, 0]},
-      "faces": {
-        "north": {"uv": [7, 0, 9, 3], "texture": "#all"},
-        "east": {"uv": [9.5, 0, 11.5, 3], "texture": "#all"},
-        "south": {"uv": [7, 0, 9, 3], "texture": "#all"},
-        "west": {"uv": [9.5, 0, 11.5, 3], "texture": "#all"},
-        "up": {"uv": [4.5, 0, 6.5, 2], "texture": "#all"}
+        "north": {"uv": [13, 9, 16, 10], "texture": "#all", "tintindex": 0},
+        "east": {"uv": [13, 9, 16, 10], "texture": "#all", "tintindex": 0},
+        "south": {"uv": [13, 9, 16, 10], "texture": "#all", "tintindex": 0},
+        "west": {"uv": [13, 9, 16, 10], "texture": "#all", "tintindex": 0},
+        "up": {"uv": [13, 0, 16, 3], "texture": "#all", "tintindex": 0},
+        "down": {"uv": [13, 0, 16, 3], "texture": "#all", "tintindex": 0}
       }
     },
     {
@@ -35,11 +22,11 @@
       "to": [7, 5, 9],
       "rotation": {"angle": 0, "axis": "y", "origin": [0, 1.5, 0]},
       "faces": {
-        "north": {"uv": [0, 0, 2, 4], "texture": "#all"},
-        "east": {"uv": [0, 0, 2, 4], "texture": "#all"},
-        "south": {"uv": [0, 0, 2, 4], "texture": "#all"},
-        "west": {"uv": [2, 0, 4, 4], "texture": "#all"},
-        "up": {"uv": [4.5, 0, 6.5, 2], "texture": "#all"}
+        "north": {"uv": [0, 0, 2, 4], "texture": "#all", "tintindex": 0},
+        "east": {"uv": [0, 0, 2, 4], "texture": "#all", "tintindex": 0},
+        "south": {"uv": [0, 0, 2, 4], "texture": "#all", "tintindex": 0},
+        "west": {"uv": [2, 0, 4, 4], "texture": "#all", "tintindex": 0},
+        "up": {"uv": [4.5, 0, 6.5, 2], "texture": "#all", "tintindex": 0}
       }
     },
     {
@@ -61,25 +48,12 @@
       "to": [10.5, 1.5, 8.5],
       "rotation": {"angle": 0, "axis": "y", "origin": [0, 3, 0]},
       "faces": {
-        "north": {"uv": [13, 7, 16, 8.5], "texture": "#all"},
-        "east": {"uv": [13, 7, 16, 8.5], "texture": "#all"},
-        "south": {"uv": [13, 7, 16, 8.5], "texture": "#all"},
-        "west": {"uv": [13, 7, 16, 8.5], "texture": "#all"},
-        "up": {"uv": [13, 0, 16, 3], "texture": "#all"},
-        "down": {"uv": [13, 0, 16, 3], "texture": "#all"}
-      }
-    },
-    {
-      "name": "Wax up",
-      "from": [7.9, 2.9, 5.9],
-      "to": [10.1, 6.1, 8.1],
-      "rotation": {"angle": 0, "axis": "y", "origin": [0, 1.5, 0]},
-      "faces": {
-        "north": {"uv": [7, 0, 9, 3], "texture": "#all"},
-        "east": {"uv": [9.5, 0, 11.5, 3], "texture": "#all"},
-        "south": {"uv": [7, 0, 9, 3], "texture": "#all"},
-        "west": {"uv": [9.5, 0, 11.5, 3], "texture": "#all"},
-        "up": {"uv": [4.5, 0, 6.5, 2], "texture": "#all"}
+        "north": {"uv": [13, 7, 16, 8.5], "texture": "#all", "tintindex": 0},
+        "east": {"uv": [13, 7, 16, 8.5], "texture": "#all", "tintindex": 0},
+        "south": {"uv": [13, 7, 16, 8.5], "texture": "#all", "tintindex": 0},
+        "west": {"uv": [13, 7, 16, 8.5], "texture": "#all", "tintindex": 0},
+        "up": {"uv": [13, 0, 16, 3], "texture": "#all", "tintindex": 0},
+        "down": {"uv": [13, 0, 16, 3], "texture": "#all", "tintindex": 0}
       }
     },
     {
@@ -88,11 +62,11 @@
       "to": [10, 6, 8],
       "rotation": {"angle": 0, "axis": "y", "origin": [0, 1.5, 0]},
       "faces": {
-        "north": {"uv": [0, 0, 2, 5], "texture": "#all"},
-        "east": {"uv": [0, 0, 2, 5], "texture": "#all"},
-        "south": {"uv": [0, 0, 2, 5], "texture": "#all"},
-        "west": {"uv": [2, 0, 4, 5], "texture": "#all"},
-        "up": {"uv": [4.5, 0, 6.5, 2], "texture": "#all"}
+        "north": {"uv": [0, 0, 2, 5], "texture": "#all", "tintindex": 0},
+        "east": {"uv": [0, 0, 2, 5], "texture": "#all", "tintindex": 0},
+        "south": {"uv": [0, 0, 2, 5], "texture": "#all", "tintindex": 0},
+        "west": {"uv": [2, 0, 4, 5], "texture": "#all", "tintindex": 0},
+        "up": {"uv": [4.5, 0, 6.5, 2], "texture": "#all", "tintindex": 0}
       }
     },
     {
@@ -114,25 +88,12 @@
       "to": [9.5, 0.5, 11.5],
       "rotation": {"angle": 0, "axis": "y", "origin": [0, 3, 0]},
       "faces": {
-        "north": {"uv": [13, 9.5, 16, 10], "texture": "#all"},
-        "east": {"uv": [13, 9.5, 16, 10], "texture": "#all"},
-        "south": {"uv": [13, 9.5, 16, 10], "texture": "#all"},
-        "west": {"uv": [13, 9.5, 16, 10], "texture": "#all"},
-        "up": {"uv": [13, 0, 16, 3], "texture": "#all"},
-        "down": {"uv": [13, 0, 16, 3], "texture": "#all"}
-      }
-    },
-    {
-      "name": "Wax up",
-      "from": [6.9, 0.9, 8.9],
-      "to": [9.1, 4.1, 11.1],
-      "rotation": {"angle": 0, "axis": "y", "origin": [0, 1.5, 0]},
-      "faces": {
-        "north": {"uv": [7, 0, 9, 3], "texture": "#all"},
-        "east": {"uv": [9.5, 0, 11.5, 3], "texture": "#all"},
-        "south": {"uv": [7, 0, 9, 3], "texture": "#all"},
-        "west": {"uv": [9.5, 0, 11.5, 3], "texture": "#all"},
-        "up": {"uv": [4.5, 0, 6.5, 2], "texture": "#all"}
+        "north": {"uv": [13, 9.5, 16, 10], "texture": "#all", "tintindex": 0},
+        "east": {"uv": [13, 9.5, 16, 10], "texture": "#all", "tintindex": 0},
+        "south": {"uv": [13, 9.5, 16, 10], "texture": "#all", "tintindex": 0},
+        "west": {"uv": [13, 9.5, 16, 10], "texture": "#all", "tintindex": 0},
+        "up": {"uv": [13, 0, 16, 3], "texture": "#all", "tintindex": 0},
+        "down": {"uv": [13, 0, 16, 3], "texture": "#all", "tintindex": 0}
       }
     },
     {
@@ -141,11 +102,11 @@
       "to": [9, 4, 11],
       "rotation": {"angle": 0, "axis": "y", "origin": [0, 1.5, 0]},
       "faces": {
-        "north": {"uv": [0, 0, 2, 3.5], "texture": "#all"},
-        "east": {"uv": [0, 0, 2, 3.5], "texture": "#all"},
-        "south": {"uv": [0, 0, 2, 3.5], "texture": "#all"},
-        "west": {"uv": [2, 0, 4, 3.5], "texture": "#all"},
-        "up": {"uv": [4.5, 0, 6.5, 2], "texture": "#all"}
+        "north": {"uv": [0, 0, 2, 3.5], "texture": "#all", "tintindex": 0},
+        "east": {"uv": [0, 0, 2, 3.5], "texture": "#all", "tintindex": 0},
+        "south": {"uv": [0, 0, 2, 3.5], "texture": "#all", "tintindex": 0},
+        "west": {"uv": [2, 0, 4, 3.5], "texture": "#all", "tintindex": 0},
+        "up": {"uv": [4.5, 0, 6.5, 2], "texture": "#all", "tintindex": 0}
       }
     },
     {
