@@ -18,9 +18,10 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.2.09 | Inner Edges for Doors | MC 1.21.4 v1.1 |
 | 1.2.10 | Candles Overhaul | MC 1.20 |
 | 1.2.11 | All Consistent Bucket Textures | 2025-03-10 |
-| 1.2.12 | Better Bottling (Combined) | Multiple versions |
+| 1.2.12 | Better Bottling (Combined) | MC 1.21.8 |
 | 1.2.13 | Unique Powders | 2021-11-11 |
 | 1.2.14 | Unique Goat Horns | 2022-07-02 |
+| 1.2.15 | Better Paintings | MC 1.21.8 |
 
 ## Planned Development
 
@@ -209,6 +210,11 @@ Description: Gives distinct item textures for redstone, glowstone dust, gunpowde
 Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/goat-horns-32x/) - By Scutoel
 Description: Adds unique item textures for goat horns to make each horn visually unique. Customized version, which uses the new item model system instead of Optifine CIT.
 
+#### 1.2.15: Better Paintings - *Customized*
+
+Source: [FaithfulPack](https://faithfulpack.net/addons/enhanced-painting-items) - By HARYA301
+Description: Adds unique item textures for paintings to make each painting visually unique. Works only in Creative! Customized version, which uses the new item model system instead of Optifine CIT.
+
 ## Changelog
 
 ### 0.0.1
@@ -240,6 +246,8 @@ Description: Adds unique item textures for goat horns to make each horn visually
   - only potion-related content integrated (buckets excluded)
 - added Unique Powders (UniquePowders_2021-11-11)
 - added Unique Goat Horns (UniqueGoatHorns_2022-07-02)
+  - added new vanilla item model system (without Optifine CIT)
+- added Better Paintings (EnhancedPaintingItems_2025-04-06)
   - added new vanilla item model system (without Optifine CIT)
 
 ## License

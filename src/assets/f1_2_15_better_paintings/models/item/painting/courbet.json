@@ -1,0 +1,6 @@
+{
+  "parent": "f1_2_15_better_paintings:item/smaller_util",
+  "textures": {
+    "layer0": "f1_2_15_better_paintings:item/painting/courbet"
+  }
+}
