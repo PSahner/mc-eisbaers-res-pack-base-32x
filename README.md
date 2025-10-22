@@ -24,6 +24,7 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.2.15 | Better Paintings | MC 1.21.9 |
 | 1.2.16 | Better Explorer Maps | MC 1.21.9 |
 | 1.2.17 | Visual Waxed Copper Items | 2025-01-20 |
+| 1.2.18 | Re Enchanted Books | MC 1.21.10 |
 
 ## Planned Development
 
@@ -228,6 +229,11 @@ Description: Adds unique item textures for explorer maps to make each map visual
 Source: [FaithfulPack](https://faithfulpack.net/addons/visual-waxed-copper-items) - By TQNL
 Description: Adds unique item textures for waxed copper to make them distinct from the original (unwaxed) copper items.
 
+#### 1.2.18: Re Enchanted Books
+
+Source: [FaithfulPack](https://faithfulpack.net/addons/re-enchanted-books) - By TQNL
+Description: Adds unique item textures for enchanted books (enchantment type and level).
+
 ## Changelog
 
 ### 0.0.1
@@ -264,6 +270,8 @@ Description: Adds unique item textures for waxed copper to make them distinct fr
   - added new vanilla item model system (without Optifine CIT)
 - added Better Explorer Maps (own solution)
 - added Visual Waxed Copper Items (VisualWaxedCopperItems_2025-01-20)
+- added Re Enchanted Books (ReEnchantedBooks_v0.0.1)
+  - manually created/added Blast Protection V, Breach V and Thorns IV
 
 ## License
 
