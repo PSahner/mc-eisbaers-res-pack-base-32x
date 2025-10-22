@@ -23,6 +23,7 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.2.14 | Unique Goat Horns | 2022-07-02 |
 | 1.2.15 | Better Paintings | MC 1.21.9 |
 | 1.2.16 | Better Explorer Maps | MC 1.21.9 |
+| 1.2.17 | Visual Waxed Copper Items | 2025-01-20 |
 
 ## Planned Development
 
@@ -123,71 +124,71 @@ The resource pack uses the [Respackopts](https://modrinth.com/mod/respackopts) m
 #### 1.1.01: Colored Bow Charge
 
 Feature #: 1.1.01
-Source: [GitHub](https://github.com/NerdieBirdieYT/coloredbowcharge)
+Source: [GitHub](https://github.com/NerdieBirdieYT/coloredbowcharge) by NerdieBirdieYT
 Description: Uses three different textures (red, yellow, green) to show the charging state of a bow.
 
 #### 1.2.01: Variated Cobblestone
 
 Feature #: 1.2.01
-Source: [FaithfulPack](https://faithfulpack.net/addons/VariatedCobblestone)
+Source: [FaithfulPack](https://faithfulpack.net/addons/VariatedCobblestone) by Hozz & Scutoel
 Description: Uses different texture variations for cobblestone blocks.
 
 #### 1.2.02: Variated Ores
 
 Feature #: 1.2.02
-Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/compliance-variated-ores)
+Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/compliance-variated-ores) by Andybananas
 Description: Uses different texture variations for ore blocks.
 
 #### 1.2.03: Unlit Redstone Ore - *Customized*
 
 Feature #: 1.2.03
-Source: [FaithfulPack](https://faithfulpack.net/addons/unlit-redstone-ore) | [GitHub](https://github.com/TQNL/TQNL-Faithful-Add-ons)
+Source: [FaithfulPack](https://faithfulpack.net/addons/unlit-redstone-ore) | [GitHub](https://github.com/TQNL/TQNL-Faithful-Add-ons) by TQNL
 Description: Uses different textures for redstone ore blockstates. Customized version of the above source to make it compatible with *Feature 1.2.02: Variated Ores*. Inspired by [vanillatweaks.net](https://vanillatweaks.net/).
 
 #### 1.2.04: Better Tiled Deepslate Tiles - *Customized*
 
 Feature #: 1.2.04
-Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/compliance-32x-better-tiled-deepslate-tiles)
+Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/compliance-32x-better-tiled-deepslate-tiles) by RalphOfficialYT
 Description: Uses a different texture to better connect tile blocks. Customized version, which also adds a different texure for Cracked Deepslate Tiles, based on the source to make it look uniform.
 
 #### 1.2.05: Static Lanterns
 
 Feature #: 1.2.05
-Source: [FaithfulPack](https://faithfulpack.net/addons/ClearerLanterns) | [GitHub](https://github.com/Hedreon/Addons)
+Source: [FaithfulPack](https://faithfulpack.net/addons/ClearerLanterns) | [GitHub](https://github.com/Hedreon/Addons) Hedreon
 Description: Uses a static texture for sea lanterns.
 
 #### 1.2.06: Square Barrels
 
 Feature #: 1.2.06
-Source: [FaithfulPack](https://faithfulpack.net/addons/SquareBarrels) | [GitHub](https://github.com/DMgaming101/SquareBarrels)
+Source: [FaithfulPack](https://faithfulpack.net/addons/SquareBarrels) | [GitHub](https://github.com/DMgaming101/SquareBarrels) by DMgaming100
 Description: Uses a square texture for the barrel opening.
 
 #### 1.2.07: Soul Soil Soul Campfire
 
 Feature #: 1.2.07
-Source: [FaithfulPack](https://faithfulpack.net/addons/soul-soil-soul-campfire) | [GitHub](https://github.com/TQNL/TQNL-Faithful-Add-ons)
+Source: [FaithfulPack](https://faithfulpack.net/addons/soul-soil-soul-campfire) | [GitHub](https://github.com/TQNL/TQNL-Faithful-Add-ons) by TQNL
 Description: Uses soul soil as "ash" texture for soul campfire (for better consistency). Inspired by [vanillatweaks.net](https://vanillatweaks.net/).
 
 #### 1.2.08: Polished Chests - *Customized*
 
 Feature #: 1.2.08
-Source: [FaithfulPack](https://faithfulpack.net/addons/polished-chests)
+Source: [FaithfulPack](https://faithfulpack.net/addons/polished-chests) by Skottify
 Description: Uses a polished golden brown chest texture instead of the old one. Customized version, which also adds the polished chest textures to chest boats (entities + items).
 
 #### 1.2.09: Inner Edges for Doors - *Customized*
 
 Feature #: 1.2.09
-Source: [FaithfulPack](https://faithfulpack.net/addons/inner-edges-for-doors)
+Source: [FaithfulPack](https://faithfulpack.net/addons/inner-edges-for-doors) by eva
 Description: Adds faces to the insides of the windows of doors and trapdoors and gives it a three-dimensional effect. Customized version, which also fixes the different copper door and trapdoor models (exposed, weathered, oxidized, and all waxed versions).
 
 #### 1.2.10: Candles Overhaul - *Customized*
 
-Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/candles-overhaul/)
+Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/candles-overhaul/) by Alkatreize
 Description: Uses a different candle model for candles (including candles on cakes). Since in newer versions of Minecraft the candles no longer use the translucent property, the version in this resource pack is a stripped-down version of the source without the wax overlay. For the wax overlay to show, you additionally need the [Eisbaer's Candle Overlay Fix](https://github.com/PSahner/mc-eisbaers-mods_candleOverlayFix) mod.
 
 #### 1.2.11: All Consistent Bucket Textures
 
-Source: [FaithfulPack](https://faithfulpack.net/addons/all-consistent-bucket-textures)
+Source: [FaithfulPack](https://faithfulpack.net/addons/all-consistent-bucket-textures) by TQNL
 Description: Adds uniform bucket texture alignment and introduces a clearer water appearance for tadpoles in buckets. Inspired by [vanillatweaks.net](https://vanillatweaks.net/).
 
 #### 1.2.12: Better Bottling - *Combined & Customized*
@@ -220,6 +221,11 @@ Description: Adds unique item textures for paintings to make each painting visua
 
 Source: [FaithfulPack](https://faithfulpack.net/) - By DerEisbaer
 Description: Adds unique item textures for explorer maps to make each map visually unique.
+
+#### 1.2.17: Visual Waxed Copper Items
+
+Source: [FaithfulPack](https://faithfulpack.net/addons/visual-waxed-copper-items) - By TQNL
+Description: Adds unique item textures for waxed copper to make them distinct from the original (unwaxed) copper items.
 
 ## Changelog
 
@@ -256,6 +262,7 @@ Description: Adds unique item textures for explorer maps to make each map visual
 - added Better Paintings (EnhancedPaintingItems_2025-04-06)
   - added new vanilla item model system (without Optifine CIT)
 - added Better Explorer Maps (own solution)
+- added Visual Waxed Copper Items (VisualWaxedCopperItems_2025-01-20)
 
 ## License
 
