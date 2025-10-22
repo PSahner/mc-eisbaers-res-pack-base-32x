@@ -19,6 +19,8 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.2.10 | Candles Overhaul | MC 1.20 |
 | 1.2.11 | All Consistent Bucket Textures | 2025-03-10 |
 | 1.2.12 | Better Bottling (Combined) | Multiple versions |
+| 1.2.13 | Unique Powders | 2021-11-11 |
+| 1.2.14 | Unique Goat Horns | 2022-07-02 |
 
 ## Planned Development
 
@@ -196,6 +198,17 @@ Sources (Combined):
 
 Description: A comprehensive potion enhancement pack that combines three different bases into a unified system. Adds unique textures and overlays for various potion types (normal, splash, lingering), custom font characters for potion effects display, and visual enhancements. Originally designed for Optifine CIT but converted to use the native Minecraft 1.21.6+ item model system. Only potion-related content was integrated (buckets excluded). Features unique textures for awkward, water, thick/mundane, and fire resistance potions, plus special overlays for long and strong variants.
 
+#### 1.2.13: Unique Powders
+
+Feature #: 1.2.13
+Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/unique-powder-5369494/) - By Alkatreize
+Description: Gives distinct item textures for redstone, glowstone dust, gunpowder, and sugar to make each powder visually unique.
+
+#### 1.2.14: Unique Goat Horns - *Customized*
+
+Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/goat-horns-32x/) - By Scutoel
+Description: Adds unique item textures for goat horns to make each horn visually unique. Customized version, which uses the new item model system instead of Optifine CIT.
+
 ## Changelog
 
 ### 0.0.1
@@ -225,6 +238,9 @@ Description: A comprehensive potion enhancement pack that combines three differe
   - bases\1.2.12_BetterPotions_Custom\1.2.12.3_VisualPotionsEffect_v1.1.1
   - converted from Optifine CIT to native MC 1.21.6+ item model system
   - only potion-related content integrated (buckets excluded)
+- added Unique Powders (UniquePowders_2021-11-11)
+- added Unique Goat Horns (UniqueGoatHorns_2022-07-02)
+  - added new vanilla item model system (without Optifine CIT)
 
 ## License
 

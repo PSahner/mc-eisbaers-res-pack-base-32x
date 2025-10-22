@@ -1,0 +1,6 @@
+{
+  "parent": "f1_2_14_unique_goat_horns:item/smaller_util",
+  "textures": {
+    "layer0": "f1_2_14_unique_goat_horns:item/goat_horn_ponder"
+  }
+}

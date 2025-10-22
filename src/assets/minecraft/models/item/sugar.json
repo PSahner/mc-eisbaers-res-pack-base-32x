@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "f1_2_13_unique_powders:item/sugar"
+  }
+}
