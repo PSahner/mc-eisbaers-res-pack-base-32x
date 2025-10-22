@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/weeping_vines_plant" },
+      { "model": "f1_3_01_visible_age:block/weeping_vines_plant2" },
+      { "model": "f1_3_01_visible_age:block/weeping_vines_plant3" },
+      { "model": "f1_3_01_visible_age:block/weeping_vines_plant4" }
+    ]
+  }
+}

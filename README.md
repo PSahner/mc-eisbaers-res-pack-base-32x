@@ -24,7 +24,8 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.2.15 | Better Paintings | MC 1.21.9 |
 | 1.2.16 | Better Explorer Maps | MC 1.21.9 |
 | 1.2.17 | Visual Waxed Copper Items | 2025-01-20 |
-| 1.2.18 | Re Enchanted Books | MC 1.21.10 |
+| 1.2.18 | ReEnchanted Books | MC 1.21.10 |
+| 1.2.19 | Visible Age | MC 1.20 |
 
 ## Planned Development
 
@@ -229,10 +230,15 @@ Description: Adds unique item textures for explorer maps to make each map visual
 Source: [FaithfulPack](https://faithfulpack.net/addons/visual-waxed-copper-items) - By TQNL
 Description: Adds unique item textures for waxed copper to make them distinct from the original (unwaxed) copper items.
 
-#### 1.2.18: Re Enchanted Books
+#### 1.2.18: ReEnchanted Books
 
 Source: [FaithfulPack](https://faithfulpack.net/addons/re-enchanted-books) - By TQNL
 Description: Adds unique item textures for enchanted books (enchantment type and level).
+
+#### 1.2.19: Visible Age
+
+Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/age-5375176) - By Alkatreize
+Description: Adds a way to differentiate all plants when they have reached a certain `Age NBT` tag (from 0 to 15) by adding some variations. It even adds some indications when they are fully grown, just like flowers on kelp.
 
 ## Changelog
 
@@ -272,6 +278,7 @@ Description: Adds unique item textures for enchanted books (enchantment type and
 - added Visual Waxed Copper Items (VisualWaxedCopperItems_2025-01-20)
 - added Re Enchanted Books (ReEnchantedBooks_v0.0.1)
   - manually created/added Blast Protection V, Breach V and Thorns IV
+- added Visible Age (VisibleAge_2023_07_30)
 
 ## License
 

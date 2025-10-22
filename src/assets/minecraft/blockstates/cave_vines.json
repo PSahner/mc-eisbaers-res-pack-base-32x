@@ -1,0 +1,52 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "berries": "false",
+        "age": "0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24"
+      },
+      "apply": {
+        "model": "minecraft:block/cave_vines"
+      }
+    },
+    {
+      "when": {
+        "berries": "true",
+        "age": "0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24"
+      },
+      "apply": {
+        "model": "minecraft:block/cave_vines_lit"
+      }
+    },
+    {
+      "when": {
+        "berries": "false",
+        "age": "25"
+      },
+      "apply": [
+        {"model": "f1_3_01_visible_age:block/cave_vines_age_25"},
+        {"model": "f1_3_01_visible_age:block/cave_vines_age_25_1"},
+        {"model": "f1_3_01_visible_age:block/cave_vines_age_25_2"},
+        {"model": "f1_3_01_visible_age:block/cave_vines_age_25_3"},
+        {"model": "f1_3_01_visible_age:block/cave_vines_age_25_4"},
+        {"model": "f1_3_01_visible_age:block/cave_vines_age_25_5"},
+        {"model": "f1_3_01_visible_age:block/cave_vines_age_25_6"}
+      ]
+    },
+    {
+      "when": {
+        "berries": "true",
+        "age": "25"
+      },
+      "apply": [
+        {"model": "f1_3_01_visible_age:block/cave_vines_lit_age_25"},
+        {"model": "f1_3_01_visible_age:block/cave_vines_lit_age_25_1"},
+        {"model": "f1_3_01_visible_age:block/cave_vines_lit_age_25_2"},
+        {"model": "f1_3_01_visible_age:block/cave_vines_lit_age_25_3"},
+        {"model": "f1_3_01_visible_age:block/cave_vines_lit_age_25_4"},
+        {"model": "f1_3_01_visible_age:block/cave_vines_lit_age_25_5"},
+        {"model": "f1_3_01_visible_age:block/cave_vines_lit_age_25_6"}
+      ]
+    }
+  ]
+}

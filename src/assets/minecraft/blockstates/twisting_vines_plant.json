@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/twisting_vines_plant" },
+      { "model": "f1_3_01_visible_age:block/twisting_vines_plant2" },
+      { "model": "f1_3_01_visible_age:block/twisting_vines_plant3" }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "minecraft:block/block",
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "minecraft:block/flower_pot",
+    "flowerpot": "minecraft:block/flower_pot",
+    "cactus": "f1_3_01_visible_age:block/potted_cactus"
+  },
+  "elements": [
+    {
+      "from": [6, 16, 6],
+      "to": [10, 16, 10],
+      "faces": {
+        "up": {"uv": [0.5, 0, 4.5, 4], "texture": "#cactus"}
+      }
+    },
+    {
+      "from": [10, 4.5, 5.5],
+      "to": [10, 16, 10.5],
+      "faces": {
+        "east": {"uv": [0, 4, 5, 15.5], "texture": "#cactus"},
+        "west": {"uv": [5, 4, 0, 15.5], "texture": "#cactus"}
+      }
+    },
+    {
+      "from": [5.5, 4.5, 6],
+      "to": [10.5, 16, 6],
+      "faces": {
+        "north": {"uv": [0, 4, 5, 15.5], "texture": "#cactus"},
+        "south": {"uv": [5, 4, 0, 15.5], "texture": "#cactus"}
+      }
+    },
+    {
+      "from": [6, 4.5, 5.5],
+      "to": [6, 16, 10.5],
+      "faces": {
+        "east": {"uv": [0, 4, 5, 15.5], "texture": "#cactus"},
+        "west": {"uv": [0, 4, 5, 15.5], "texture": "#cactus"}
+      }
+    },
+    {
+      "from": [5.5, 4.5, 10],
+      "to": [10.5, 16, 10],
+      "faces": {
+        "north": {"uv": [5, 4, 0, 15.5], "texture": "#cactus"},
+        "south": {"uv": [0, 4, 5, 15.5], "texture": "#cactus"}
+      }
+    },
+    {
+      "from": [5, 0, 5],
+      "to": [6, 6, 11],
+      "faces": {
+        "north": {"uv": [10, 10, 11, 16], "texture": "#flowerpot"},
+        "east": {"uv": [5, 10, 11, 16], "texture": "#flowerpot"},
+        "south": {"uv": [5, 10, 6, 16], "texture": "#flowerpot"},
+        "west": {"uv": [5, 10, 11, 16], "texture": "#flowerpot"},
+        "up": {"uv": [5, 5, 6, 11], "texture": "#flowerpot"},
+        "down": {"uv": [5, 5, 6, 11], "texture": "#flowerpot", "cullface": "down"}
+      }
+    },
+    {
+      "from": [10, 0, 5],
+      "to": [11, 6, 11],
+      "faces": {
+        "north": {"uv": [5, 10, 6, 16], "texture": "#flowerpot"},
+        "east": {"uv": [5, 10, 11, 16], "texture": "#flowerpot"},
+        "south": {"uv": [10, 10, 11, 16], "texture": "#flowerpot"},
+        "west": {"uv": [5, 10, 11, 16], "texture": "#flowerpot"},
+        "up": {"uv": [10, 5, 11, 11], "texture": "#flowerpot"},
+        "down": {"uv": [10, 5, 11, 11], "texture": "#flowerpot", "cullface": "down"}
+      }
+    },
+    {
+      "from": [6, 0, 5],
+      "to": [10, 6, 6],
+      "faces": {
+        "north": {"uv": [6, 10, 10, 16], "texture": "#flowerpot"},
+        "south": {"uv": [6, 10, 10, 16], "texture": "#flowerpot"},
+        "up": {"uv": [6, 5, 10, 6], "texture": "#flowerpot"},
+        "down": {"uv": [6, 10, 10, 11], "texture": "#flowerpot", "cullface": "down"}
+      }
+    },
+    {
+      "from": [6, 0, 10],
+      "to": [10, 6, 11],
+      "faces": {
+        "north": {"uv": [6, 10, 10, 16], "texture": "#flowerpot"},
+        "south": {"uv": [6, 10, 10, 16], "texture": "#flowerpot"},
+        "up": {"uv": [6, 10, 10, 11], "texture": "#flowerpot"},
+        "down": {"uv": [6, 5, 10, 6], "texture": "#flowerpot", "cullface": "down"}
+      }
+    },
+    {
+      "from": [6, 0, 6],
+      "to": [10, 0, 10],
+      "faces": {
+        "down": {"uv": [6, 12, 10, 16], "texture": "#flowerpot", "cullface": "down"}
+      }
+    },
+    {
+      "name": "flower1",
+      "from": [7, 16, 7],
+      "to": [9, 16.5, 9],
+      "rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 4]},
+      "faces": {
+        "north": {"uv": [14, 5, 16, 5.5], "texture": "#cactus"},
+        "east": {"uv": [15.5, 5, 16, 7], "rotation": 90, "texture": "#cactus"},
+        "south": {"uv": [14, 6.5, 16, 7], "texture": "#cactus"},
+        "west": {"uv": [14, 5, 14.5, 7], "rotation": 90, "texture": "#cactus"},
+        "up": {"uv": [14, 0, 16, 2], "texture": "#cactus"}
+      }
+    },
+    {
+      "name": "flower1",
+      "from": [6.15224, 15.73463, 7],
+      "to": [7.15224, 15.73463, 9],
+      "rotation": {"angle": -22.5, "axis": "z", "origin": [9, 16.5, 9]},
+      "faces": {
+        "up": {"uv": [14, 3, 16, 4], "rotation": 270, "texture": "#cactus"},
+        "down": {"uv": [11.5, 4, 13.5, 3], "rotation": 90, "texture": "#cactus"}
+      }
+    },
+    {
+      "name": "flower1",
+      "from": [7, 16.11731, 6.07612],
+      "to": [9, 16.11731, 7.07612],
+      "rotation": {"angle": 22.5, "axis": "x", "origin": [8, 16.5, 8]},
+      "faces": {
+        "up": {"uv": [14, 3, 16, 4], "texture": "#cactus"},
+        "down": {"uv": [11.5, 4, 13.5, 3], "texture": "#cactus"}
+      }
+    },
+    {
+      "name": "flower1",
+      "from": [8.92388, 16.11731, 7],
+      "to": [9.92388, 16.11731, 9],
+      "rotation": {"angle": 22.5, "axis": "z", "origin": [8, 16.5, 8]},
+      "faces": {
+        "up": {"uv": [14, 3, 16, 4], "rotation": 90, "texture": "#cactus"},
+        "down": {"uv": [11.5, 4, 13.5, 3], "rotation": 270, "texture": "#cactus"}
+      }
+    },
+    {
+      "name": "flower1",
+      "from": [7, 16.11731, 8.92388],
+      "to": [9, 16.11731, 9.92388],
+      "rotation": {"angle": -22.5, "axis": "x", "origin": [8, 16.5, 8]},
+      "faces": {
+        "up": {"uv": [14, 3, 16, 4], "rotation": 180, "texture": "#cactus"},
+        "down": {"uv": [11.5, 4, 13.5, 3], "rotation": 180, "texture": "#cactus"}
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [75, 45, 0],
+      "translation": [0, 1.5, 2.5],
+      "scale": [0.375, 0.375, 0.375]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [75, 45, 0],
+      "translation": [0, 1.5, 2.5],
+      "scale": [0.375, 0.375, 0.375]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, 45, 0],
+      "translation": [0, 2.2, 0],
+      "scale": [0.4, 0.4, 0.4]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, 45, 0],
+      "translation": [0, 2.2, 0],
+      "scale": [0.4, 0.4, 0.4]
+    },
+    "ground": {
+      "translation": [0, 3, 0],
+      "scale": [0.75, 0.75, 0.75]
+    },
+    "gui": {
+      "rotation": [30, 225, 0],
+      "translation": [0, 1, 0]
+    },
+    "head": {
+      "translation": [0, 14.5, 0]
+    }
+  },
+  "groups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    {
+      "name": "flower_pot",
+      "origin": [8, 8, 8],
+      "color": 0,
+      "children": [5, 6, 7, 8, 9]
+    },
+    {
+      "name": "flower1",
+      "origin": [0, 0, 0],
+      "color": 0,
+      "children": [10, 11, 12, 13, 14]
+    }
+  ]
+}
