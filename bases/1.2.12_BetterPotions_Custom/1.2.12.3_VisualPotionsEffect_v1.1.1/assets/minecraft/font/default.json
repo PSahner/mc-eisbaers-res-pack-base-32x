@@ -1,0 +1,373 @@
+{
+	"providers":[
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/potion.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE800"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/redstone.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE801"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/glowstone_dust.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE802"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/gunpowder.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE818"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/splash_potion.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE819"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/dragon_breath.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE820"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/lingering_potion.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE821"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/regeneration.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE831"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/nether_wart.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE803"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/weakness.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE804"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/strength.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE805"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/fire_resistance.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE806"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/poison.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE807"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/instant_health.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE808"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/health_boost.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE809"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/speed.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE810"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/instant_damage.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE811"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/slowness.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE812"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/jump_boost.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE813"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/water_breathing.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE814"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/night_vision.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE815"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/invisibility.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE816"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/slow_falling.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE817"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/levitation.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE822"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/luck.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE823"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/resistance.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE824"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/experience_bottle.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE825"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/absorption.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE826"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/hunger.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE827"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/nausea.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE828"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/arrow.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE829"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/glowing.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE830"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/bad_omen.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE832"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/darkness.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE833"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/infested.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE834"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/oozing.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE835"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/raid_omen.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE836"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/trial_omen.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE837"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/unluck.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE838"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/weaving.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE839"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "semos:font/visual_potion/wind_charged.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE840"
+			]
+		}					
+	]
+}

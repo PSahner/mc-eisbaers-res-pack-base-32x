@@ -18,6 +18,7 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.2.09 | Inner Edges for Doors | MC 1.21.4 v1.1 |
 | 1.2.10 | Candles Overhaul | MC 1.20 |
 | 1.2.11 | All Consistent Bucket Textures | 2025-03-10 |
+| 1.2.12 | Better Bottling (Combined) | Multiple versions |
 
 ## Planned Development
 
@@ -60,17 +61,17 @@ This repository includes PowerShell scripts to help you build and manage your re
 .\scripts\export.ps1 -Quiet                               # Skip confirmation prompt
 ```
 
-### 3. `scripts/buildAndExport.ps1` - One-Step Build & Copy
+### 3. `scripts/install.ps1` - One-Step Build & Copy
 
 - Combines the functionality of both scripts above
 - Builds the resource pack and then copies it to your Minecraft folder
 
 ```powershell
 # Command line options
-.\scripts\buildAndExport.ps1 -Version "1.2.0"                         # Specify version
-.\scripts\buildAndExport.ps1 -PackName "MyCustomPack"                 # Custom pack name 
-.\scripts\buildAndExport.ps1 -MinecraftPath "D:\Games\Minecraft\resourcepacks"  # Custom path
-.\scripts\buildAndExport.ps1 -Quiet                                   # Non-interactive mode
+.\scripts\install.ps1 -Version "1.2.0"                         # Specify version
+.\scripts\install.ps1 -PackName "MyCustomPack"                 # Custom pack name 
+.\scripts\install.ps1 -MinecraftPath "D:\Games\Minecraft\resourcepacks"  # Custom path
+.\scripts\install.ps1 -Quiet                                   # Non-interactive mode
 ```
 
 ### 4. `scripts/config.ps1` - Centralized Configuration
@@ -185,6 +186,16 @@ Description: Uses a different candle model for candles (including candles on cak
 Source: [FaithfulPack](https://faithfulpack.net/addons/all-consistent-bucket-textures)
 Description: Adds uniform bucket texture alignment and introduces a clearer water appearance for tadpoles in buckets. Inspired by [vanillatweaks.net](https://vanillatweaks.net/).
 
+#### 1.2.12: Better Bottling - *Combined & Customized*
+
+Feature #: 1.2.12
+Sources (Combined):
+- A Bit of Better Bottling (Faithful 32x) MC 1.19.3 v1.0
+- Leo's Unique Potions v1.1
+- Visual Potions Effect v1.1.1
+
+Description: A comprehensive potion enhancement pack that combines three different bases into a unified system. Adds unique textures and overlays for various potion types (normal, splash, lingering), custom font characters for potion effects display, and visual enhancements. Originally designed for Optifine CIT but converted to use the native Minecraft 1.21.6+ item model system. Only potion-related content was integrated (buckets excluded). Features unique textures for awkward, water, thick/mundane, and fire resistance potions, plus special overlays for long and strong variants.
+
 ## Changelog
 
 ### 0.0.1
@@ -208,6 +219,12 @@ Description: Adds uniform bucket texture alignment and introduces a clearer wate
 - added Candles Overhaul (CandlesOverhaul_2023-07-30)
   - stripped-down version of the source without the wax overlay
 - added All Consistent Bucket Textures (AllConsistentBucketTextures_2025-03-10)
+- added Better Bottling (combined from three bases)
+  - bases\1.2.12_BetterPotions_Custom\1.2.12.1_BetterBottling_1.19.3_v1.0
+  - bases\1.2.12_BetterPotions_Custom\1.2.12.2_LeoUniquePotions_v1.1
+  - bases\1.2.12_BetterPotions_Custom\1.2.12.3_VisualPotionsEffect_v1.1.1
+  - converted from Optifine CIT to native MC 1.21.6+ item model system
+  - only potion-related content integrated (buckets excluded)
 
 ## License
 

@@ -1,0 +1,7 @@
+{
+  "parent": "f1_2_12_better_bottling:item/smaller_util",
+  "textures": {
+    "layer0": "f1_2_12_better_bottling:item/unique/water/potion",
+    "particle": "minecraft:item/potion"
+  }
+}

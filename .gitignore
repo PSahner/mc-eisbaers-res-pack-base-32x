@@ -14,3 +14,5 @@ blockstates_backup_*/
 dev_build/
 dist/
 _temp/
+#examples/*
+#_examples/*

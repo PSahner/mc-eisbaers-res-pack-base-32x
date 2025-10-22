@@ -1,0 +1,49 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:item/ominous_bottle"
+      },
+      {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:ominous_bottle_amplifier",
+        "cases": [
+          {
+            "when": 1,
+            "model": {
+              "type": "minecraft:model",
+              "model": "item/ominous_bottle_2"
+            }
+          },
+          {
+            "when": 2,
+            "model": {
+              "type": "minecraft:model",
+              "model": "item/ominous_bottle_3"
+            }
+          },
+          {
+            "when": 3,
+            "model": {
+              "type": "minecraft:model",
+              "model": "item/ominous_bottle_4"
+            }
+          },
+          {
+            "when": 4,
+            "model": {
+              "type": "minecraft:model",
+              "model": "item/ominous_bottle_5"
+            }
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:empty"
+        }
+      }
+    ]
+  }
+}

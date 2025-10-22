@@ -1,0 +1,8 @@
+{
+  "parent": "f1_2_12_better_bottling:item/smaller_util",
+  "textures": {
+    "layer0": "f1_2_12_better_bottling:item/ominous_bottle_no_cork",
+    "layer1": "f1_2_12_better_bottling:item/ominous_bottle_cork"
+  },
+  "textures_layer1_tintindex": 1
+}

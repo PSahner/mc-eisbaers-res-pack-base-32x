@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "description": "\u00a781.21 [v1.1] [\u00a7cLeoTweaks\u00a78]\n\u00a77\uf628\u00a7c",
+        "pack_format": 15,
+	"min_format": [15, 0],
+        "max_format": [1000, 0],
+        "supported_formats": [15, 1000]
+    }
+}

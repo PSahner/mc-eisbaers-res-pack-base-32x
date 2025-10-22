@@ -1,0 +1,65 @@
+{
+  "model": {
+    "type": "composite",
+    "models": [
+      {
+        "type": "select",
+        "property": "component",
+        "component": "ominous_bottle_amplifier",
+        "cases": [
+          {
+            "when": 0,
+            "model": {
+              "type": "composite",
+              "models": [
+                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle"},
+                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle_overlay", "tints": [{"type": "constant", "value": 8716164}]}
+              ]
+            }
+          },
+          {
+            "when": 1,
+            "model": {
+              "type": "composite",
+              "models": [
+                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle"},
+                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle_overlay", "tints": [{"type": "constant", "value": 16777139}]}
+              ]
+            }
+          },
+          {
+            "when": 2,
+            "model": {
+              "type": "composite",
+              "models": [
+                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle"},
+                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle_overlay", "tints": [{"type": "constant", "value": 16762192}]}
+              ]
+            }
+          },
+          {
+            "when": 3,
+            "model": {
+              "type": "composite",
+              "models": [
+                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle"},
+                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle_overlay", "tints": [{"type": "constant", "value": 16746632}]}
+              ]
+            }
+          },
+          {
+            "when": 4,
+            "model": {
+              "type": "composite",
+              "models": [
+                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle"},
+                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle_overlay", "tints": [{"type": "constant", "value": 12534081}]}
+              ]
+            }
+          }
+        ],
+        "fallback": {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle"}
+      }
+    ]
+  }
+}

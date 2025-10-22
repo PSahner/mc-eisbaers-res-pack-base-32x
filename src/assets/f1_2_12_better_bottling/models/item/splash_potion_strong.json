@@ -1,0 +1,8 @@
+{
+  "parent": "f1_2_12_better_bottling:item/smaller_util",
+  "textures": {
+    "layer0": "f1_2_12_better_bottling:item/bottles/splash_potion",
+    "layer1": "f1_2_12_better_bottling:item/overlays/potion_overlay_strong"
+  },
+  "textures_layer1_tintindex": 1
+}

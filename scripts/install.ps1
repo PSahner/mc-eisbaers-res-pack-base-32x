@@ -25,7 +25,7 @@ function Show-Help {
     Write-ColorOutput "=============================================" $ColorInfo
     Write-ColorOutput ""
     Write-ColorOutput "Usage:" $ColorInfo
-    Write-ColorOutput "  .\scripts\buildAndExport.ps1 [-Version <version>] [-PackName <name>] [-MinecraftPath <path>] [-Quiet] [-Help]"
+    Write-ColorOutput "  .\scripts\install.ps1 [-Version <version>] [-PackName <name>] [-MinecraftPath <path>] [-Quiet] [-Help]"
     Write-ColorOutput ""
     Write-ColorOutput "Parameters:" $ColorInfo
     Write-ColorOutput "  -Version        Specify the version number (default from config.ps1)"
@@ -35,9 +35,9 @@ function Show-Help {
     Write-ColorOutput "  -Help           Show this help message"
     Write-ColorOutput ""
     Write-ColorOutput "Examples:" $ColorInfo
-    Write-ColorOutput "  .\scripts\buildAndExport.ps1 -Version '1.2.0'"
-    Write-ColorOutput "  .\scripts\buildAndExport.ps1 -Version '2.0.0' -PackName 'MyFaithfulPack'"
-    Write-ColorOutput "  .\scripts\buildAndExport.ps1 -Quiet -MinecraftPath 'D:\Games\Minecraft\resourcepacks'"
+    Write-ColorOutput "  .\scripts\install.ps1 -Version '1.2.0'"
+    Write-ColorOutput "  .\scripts\install.ps1 -Version '2.0.0' -PackName 'MyFaithfulPack'"
+    Write-ColorOutput "  .\scripts\install.ps1 -Quiet -MinecraftPath 'D:\Games\Minecraft\resourcepacks'"
     Write-ColorOutput ""
     exit 0
 }

@@ -1,0 +1,13 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/credit.png",
+			"ascent": 8,
+			"height": 10,
+			"chars": [
+				"\uf628"
+			]
+		}
+	]
+}
