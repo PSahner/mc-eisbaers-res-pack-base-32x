@@ -30,6 +30,7 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 ### General To-Do List
 
 - try to expand "Inner Edges for Doors" (and trapdoors) to include the three (currently) missing wood types: `spruce`, `dark oak`, `pale oak`
+- expand "Visual Waxed Copper Items" to include copper golem statues, chests, lanterns and lightning rods, when the new Faithful 32x version is released
 
 ### New Features and/or Resource Packs
 
