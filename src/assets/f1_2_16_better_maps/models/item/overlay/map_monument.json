@@ -1,0 +1,6 @@
+{
+  "parent": "f1_2_16_better_maps:item/smaller_util",
+  "textures": {
+    "layer0": "f1_2_16_better_maps:item/overlay/map_monument"
+  }
+}
