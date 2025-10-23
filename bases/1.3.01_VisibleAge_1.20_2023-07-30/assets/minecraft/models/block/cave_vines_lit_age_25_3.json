@@ -1,7 +1,0 @@
-{
-  "parent": "block/tinted_cross",
-  "textures": {
-    "particle": "block/cave_vines_lit_age_25_3",
-    "cross": "block/cave_vines_lit_age_25_3"
-  }
-}

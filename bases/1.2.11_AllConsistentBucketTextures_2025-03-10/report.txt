@@ -1,2 +1,0 @@
-Vanilla Tweak to Faithful Add-ons:
-ConsistentTadpoleBucket + ConsistentBucketFix = AllConsistentBucketTextures

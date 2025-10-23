@@ -1,7 +1,0 @@
-{
-	"parent": "block/cake/5/candle",
-	"textures": {
-		"all": "block/cake/7",
-		"particle": "block/break/cake"
-	}
-}

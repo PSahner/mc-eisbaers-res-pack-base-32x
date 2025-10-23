@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "": [
-            { "model": "block/twisting_vines_plant" },
-            { "model": "block/twisting_vines_plant2" },
-            { "model": "block/twisting_vines_plant3" }
-        ]
-    }
-}

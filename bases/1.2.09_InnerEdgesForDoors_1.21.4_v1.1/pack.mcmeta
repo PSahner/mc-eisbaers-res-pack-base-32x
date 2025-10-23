@@ -1,7 +1,0 @@
-{
-  "pack": {
-    "description": "Version 1.1 - Doors and trapdoors will look stylish!",
-    "pack_format": 48,
-	"supported_formats": { "min_inclusive": 48, "max_inclusive": 61 }
-  }
-}
