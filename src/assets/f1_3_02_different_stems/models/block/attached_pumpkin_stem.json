@@ -1,0 +1,7 @@
+{
+  "parent": "f1_3_02_different_stems:block/stem_fruit",
+  "textures": {
+    "stem": "f1_3_02_different_stems:block/pumpkin_stem",
+    "upperstem": "f1_3_02_different_stems:block/attached_pumpkin_stem"
+  }
+}

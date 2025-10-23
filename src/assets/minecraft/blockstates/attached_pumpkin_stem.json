@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "f1_3_02_different_stems:block/attached_pumpkin_stem",
+      "y": 180
+    },
+    "facing=north": {
+      "model": "f1_3_02_different_stems:block/attached_pumpkin_stem",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "f1_3_02_different_stems:block/attached_pumpkin_stem",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "f1_3_02_different_stems:block/attached_pumpkin_stem"
+    }
+  }
+}

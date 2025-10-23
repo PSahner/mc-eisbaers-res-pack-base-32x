@@ -1,0 +1,6 @@
+{
+  "parent": "f1_3_02_different_stems:block/stem_growth1",
+  "textures": {
+    "stem": "f1_3_02_different_stems:block/pumpkin_stem"
+  }
+}
