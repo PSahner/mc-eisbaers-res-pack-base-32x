@@ -35,6 +35,7 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.5.01 | Hunger Preview | MC 1.21.1 v1.9 |
 | 1.5.02 | Clearer Wither Hearts | 2025-01-21 |
 | 1.5.03 | Refined Utilities | 2025-01-20 |
+| 1.5.04 | Enchant Icons | MC 1.21.5 v1.3 |
 
 ## Important Information for Development
 
@@ -330,6 +331,11 @@ Description: Makes hearts more visible when under the 'Wither' effect - inspired
 Source: [FaithfulPack](https://faithfulpack.net/addons/refined-utilities) - By TQNL
 Description: Utilities appear smaller when holding, appear correctly attached to the hands in third person or from the outside, and bowl particles don't appear when eating from a bowl. Customized version, which makes it compatible with all other modules/features (e.g. Better Bottling).
 
+#### 1.5.04: Enchant Icons
+
+Source: [Modrinth](https://modrinth.com/resourcepack/enchant-icons-countxd) - By CountXD
+Description: Adds icons to the tooltip of enchanted items in the inventory.
+
 ## Changelog
 
 ### 0.0.1
@@ -379,6 +385,7 @@ Description: Utilities appear smaller when holding, appear correctly attached to
 - added Clearer Wither Hearts (ClearerWitherHearts_2025-01-21)
 - added Refined Utilities (RefinedUtilities_2025-01-21)
   - revised/checked compatibility with other modules/features
+- added Enchant Icons (EnchantIcons_1.21.5_v1.3)
 
 ## License
 

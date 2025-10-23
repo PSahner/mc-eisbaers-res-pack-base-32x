@@ -303,6 +303,99 @@
       "ascent": 8,
       "height": 18,
       "chars": ["\ueff4"]
+    },
+
+    /* 1.5.04 Enchant Icons */
+    {
+      "type": "bitmap",
+      "file": "f1_5_04_enchant_icons:misc/helmet.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": ["\uefe1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_04_enchant_icons:misc/chestplate.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": ["\uefe2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_04_enchant_icons:misc/leggings.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": ["\uefe3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_04_enchant_icons:misc/boots.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": ["\uefe4"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_04_enchant_icons:misc/sword.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": ["\uefe5"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_04_enchant_icons:misc/pickaxe.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": ["\uefe6"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_04_enchant_icons:misc/trident.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": ["\uefe7"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_04_enchant_icons:misc/bow.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": ["\uefe8"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_04_enchant_icons:misc/crosbow.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": ["\uefe9"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_04_enchant_icons:misc/fishing.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": ["\ueef1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_04_enchant_icons:misc/star.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": ["\ueef2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_04_enchant_icons:misc/skull.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": ["\ueef3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_04_enchant_icons:misc/mace.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": ["\ueef4"]
     }
   ]
 }
