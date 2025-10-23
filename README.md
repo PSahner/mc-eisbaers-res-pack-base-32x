@@ -27,6 +27,8 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.2.18 | ReEnchanted Books | MC 1.21.10 |
 | 1.3.01 | Visible Age | MC 1.20 |
 | 1.3.02 | Different Stems | 2024-08-30 |
+| 1.3.03 | Fancy Sunflowers | 2025-01-21 |
+| 1.3.04 | Animated Amethyst Clusters | v1.0 2022-05-16 |
 
 ## Planned Development
 
@@ -246,6 +248,16 @@ Description: Adds a way to differentiate all plants when they have reached a cer
 Source: [FaithfulPack](https://faithfulpack.net/addons/DifferentStems) - By Webaccount284 & TreeLeafyTree
 Description: Changes melon and pumpkin stems to reflect their fruit color.
 
+#### 1.3.03: Fancy Sunflowers
+
+Source: [FaithfulPack](https://faithfulpack.net/addons/fancy-sunflowers) - By TQNL
+Description: Re-textures the heads of Sunflowers to bloom a bit more - inspired by vanillatweaks.net. Also adds a back to the sunflower head, which isn't in Vanilla.
+
+#### 1.3.04: Animated Amethyst Clusters
+
+Source: [FaithfulPack](https://faithfulpack.net/addons/AnimatedAmethystClusters) - By hozz8528
+Description: Gives full amethyst clusters a reflection animation to make them easier to see when mining amethyst from a geode without being obtrusive.
+
 ## Changelog
 
 ### 0.0.1
@@ -286,6 +298,7 @@ Description: Changes melon and pumpkin stems to reflect their fruit color.
   - manually created/added Blast Protection V, Breach V and Thorns IV
 - added Visible Age (VisibleAge_2023_07_30)
 - added Different Stems (DifferentStems_2024-08-30)
+- added Fancy Sunflowers (FancySunflowers_2025-01-21)
 
 ## License
 

@@ -1,0 +1,1 @@
+- copy `amethyst_cluster.png` and `amethyst_cluster.png.mcmeta` to `minecraft\textures\block\`
