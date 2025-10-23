@@ -173,61 +173,51 @@ The resource pack uses the [Respackopts](https://modrinth.com/mod/respackopts) m
 
 #### 1.1.01: Colored Bow Charge
 
-Feature #: 1.1.01
 Source: [GitHub](https://github.com/NerdieBirdieYT/coloredbowcharge) by NerdieBirdieYT
 Description: Uses three different textures (red, yellow, green) to show the charging state of a bow.
 
 #### 1.2.01: Variated Cobblestone
 
-Feature #: 1.2.01
 Source: [FaithfulPack](https://faithfulpack.net/addons/VariatedCobblestone) by Hozz & Scutoel
 Description: Uses different texture variations for cobblestone blocks.
 
 #### 1.2.02: Variated Ores
 
-Feature #: 1.2.02
 Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/compliance-variated-ores) by Andybananas
 Description: Uses different texture variations for ore blocks.
 
 #### 1.2.03: Unlit Redstone Ore - *Customized*
 
-Feature #: 1.2.03
 Source: [FaithfulPack](https://faithfulpack.net/addons/unlit-redstone-ore) | [GitHub](https://github.com/TQNL/TQNL-Faithful-Add-ons) by TQNL
 Description: Uses different textures for redstone ore blockstates. Customized version of the above source to make it compatible with *Feature 1.2.02: Variated Ores*. Inspired by [vanillatweaks.net](https://vanillatweaks.net/).
 
 #### 1.2.04: Better Tiled Deepslate Tiles - *Customized*
 
-Feature #: 1.2.04
 Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/compliance-32x-better-tiled-deepslate-tiles) by RalphOfficialYT
 Description: Uses a different texture to better connect tile blocks. Customized version, which also adds a different texure for Cracked Deepslate Tiles, based on the source to make it look uniform.
 
 #### 1.2.05: Static Lanterns
 
-Feature #: 1.2.05
 Source: [FaithfulPack](https://faithfulpack.net/addons/ClearerLanterns) | [GitHub](https://github.com/Hedreon/Addons) Hedreon
 Description: Uses a static texture for sea lanterns.
 
 #### 1.2.06: Square Barrels
 
-Feature #: 1.2.06
 Source: [FaithfulPack](https://faithfulpack.net/addons/SquareBarrels) | [GitHub](https://github.com/DMgaming101/SquareBarrels) by DMgaming100
 Description: Uses a square texture for the barrel opening.
 
 #### 1.2.07: Soul Soil Soul Campfire
 
-Feature #: 1.2.07
 Source: [FaithfulPack](https://faithfulpack.net/addons/soul-soil-soul-campfire) | [GitHub](https://github.com/TQNL/TQNL-Faithful-Add-ons) by TQNL
 Description: Uses soul soil as "ash" texture for soul campfire (for better consistency). Inspired by [vanillatweaks.net](https://vanillatweaks.net/).
 
 #### 1.2.08: Polished Chests - *Customized*
 
-Feature #: 1.2.08
 Source: [FaithfulPack](https://faithfulpack.net/addons/polished-chests) by Skottify
 Description: Uses a polished golden brown chest texture instead of the old one. Customized version, which also adds the polished chest textures to chest boats (entities + items).
 
 #### 1.2.09: Inner Edges for Doors - *Customized*
 
-Feature #: 1.2.09
 Source: [FaithfulPack](https://faithfulpack.net/addons/inner-edges-for-doors) by eva
 Description: Adds faces to the insides of the windows of doors and trapdoors and gives it a three-dimensional effect. Customized version, which also fixes the different copper door and trapdoor models (exposed, weathered, oxidized, and all waxed versions).
 
@@ -243,7 +233,6 @@ Description: Adds uniform bucket texture alignment and introduces a clearer wate
 
 #### 1.2.12: Better Bottling - *Combined & Customized*
 
-Feature #: 1.2.12
 Sources (Combined):
 - A Bit of Better Bottling (Faithful 32x) MC 1.19.3 v1.0
 - Leo's Unique Potions v1.1
@@ -253,7 +242,6 @@ Description: A comprehensive potion enhancement pack that combines three differe
 
 #### 1.2.13: Unique Powders
 
-Feature #: 1.2.13
 Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/unique-powder-5369494/) - By Alkatreize
 Description: Gives distinct item textures for redstone, glowstone dust, gunpowder, and sugar to make each powder visually unique.
 
