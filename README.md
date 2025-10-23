@@ -31,7 +31,43 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.3.04 | Animated Amethyst Clusters | v1.0 2022-05-16 |
 | 1.3.05 | Better Chorus (Reverse) | MC 1.19.1 |
 
-## Planned Development
+## Important Information for Development
+
+### Integrating older ResPacks which use `#missing` inside models
+
+In Minecraft 1.21.9, the `#missing` texture reference is no longer allowed. Instead, you should simply omit the faces that you don't want to render. As a workaround you could point the `texture` property to a blank texture.
+
+*Old Implementation:*
+```json
+{
+  "from": [4.75, 15.75, 8],
+  "to": [11.25, 15.75, 14.5],
+  "rotation": {"angle": -22.5, "axis": "x", "origin": [8, 15.75, 8]},
+  "faces": {
+    "north": {"uv": [0, 0, 5.5, 0], "texture": "#missing"},
+    "east": {"uv": [0, 0, 5.5, 0], "texture": "#missing"},
+    "south": {"uv": [0, 0, 5.5, 0], "texture": "#missing"},
+    "west": {"uv": [0, 0, 5.5, 0], "texture": "#missing"},
+    "up": {"uv": [0, 0, 6.5, 6.5], "rotation": 180, "texture": "#flower"},
+    "down": {"uv": [0, 0, 6.5, 6.5], "texture": "#flower"}
+  }
+}
+```
+
+*New Implementation:*
+```json
+{
+  "from": [4.75, 15.75, 8],
+  "to": [11.25, 15.75, 14.5],
+  "rotation": {"angle": -22.5, "axis": "x", "origin": [8, 15.75, 8]},
+  "faces": {
+    "up": {"uv": [0, 0, 6.5, 6.5], "rotation": 180, "texture": "#flower"},
+    "down": {"uv": [0, 0, 6.5, 6.5], "texture": "#flower"}
+  }
+}
+```
+
+## Planned
 
 ### General To-Do List
 

@@ -4,7 +4,8 @@
   "textures": {
     "flower": "f1_3_05_better_chorus_reverse:block/chorus_flower_dead",
     "particle": "f1_3_05_better_chorus_reverse:block/chorus_plant",
-    "base": "f1_3_05_better_chorus_reverse:block/chorus_plant"
+    "base": "f1_3_05_better_chorus_reverse:block/chorus_plant",
+    "missing": "f1_3_05_better_chorus_reverse:block/blank"
   },
   "elements": [
     {

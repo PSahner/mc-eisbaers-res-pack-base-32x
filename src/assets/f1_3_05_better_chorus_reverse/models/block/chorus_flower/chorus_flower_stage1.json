@@ -5,7 +5,8 @@
     "1": "f1_3_05_better_chorus_reverse:block/chorus_flower_stage1",
     "2": "f1_3_05_better_chorus_reverse:block/chorus_plant",
     "particle": "f1_3_05_better_chorus_reverse:block/chorus_flower_base_stage12",
-    "texture": "f1_3_05_better_chorus_reverse:block/chorus_flower_base_stage12"
+    "texture": "f1_3_05_better_chorus_reverse:block/chorus_flower_base_stage12",
+    "missing": "f1_3_05_better_chorus_reverse:block/blank"
   },
   "elements": [
     {

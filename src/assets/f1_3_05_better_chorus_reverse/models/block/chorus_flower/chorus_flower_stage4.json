@@ -5,7 +5,8 @@
     "flower": "f1_3_05_better_chorus_reverse:block/chorus_flower_dead",
     "plant": "f1_3_05_better_chorus_reverse:block/chorus_plant",
     "particle": "f1_3_05_better_chorus_reverse:block/chorus_flower_base_dead",
-    "base": "f1_3_05_better_chorus_reverse:block/chorus_flower_base_dead"
+    "base": "f1_3_05_better_chorus_reverse:block/chorus_flower_base_dead",
+    "missing": "f1_3_05_better_chorus_reverse:block/blank"
   },
   "elements": [
     {
