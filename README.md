@@ -31,6 +31,7 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.3.04 | Animated Amethyst Clusters | v1.0 2022-05-16 |
 | 1.3.05 | Better Chorus (Reverse) | MC 1.19.1 |
 | 1.4.01 | Red Iron Golem Flowers | 2025-01-20 |
+| 1.4.02 | Distinct Rabbits | MC 1.21.7 v1.2x |
 
 ## Important Information for Development
 
@@ -306,6 +307,11 @@ Description: In this version, the stages of flower growth go in reverse order fr
 Source: [FaithfulPack](https://faithfulpack.net/addons/red-iron-golem-flowers) - By TQNL
 Description: Changes the yellow flowers on the Iron Golem skin to red ones in order to match the poppies that they drop - inspired by vanillatweaks.net.
 
+#### 1.4.02: Distinct Rabbits
+
+Source: [FaithfulPack](https://faithfulpack.net/addons/distinct-rabbits) - By thisisthedogtor/iamthedogtor
+Description: Adds a unique texture for killer bunnies to make them distinct from regular bunnies. The normal white rabbits will appear with blue eyes, whereas killer bunnies will have red paws.
+
 ## Changelog
 
 ### 0.0.1
@@ -350,6 +356,7 @@ Description: Changes the yellow flowers on the Iron Golem skin to red ones in or
 - added Animated Amethyst Clusters (AnimatedAmethystClusters_v1.0_2022-05-16)
 - added Better Chorus (Reverse) (BetterChorusReverse_1.19.1_2022-09-07)
 - added Red Iron Golem Flowers (RedIronGolemFlowers_2025-01-20)
+- added Distinct Rabbits 32x (DistinctRabbits_v1.2X)
 
 ## License
 

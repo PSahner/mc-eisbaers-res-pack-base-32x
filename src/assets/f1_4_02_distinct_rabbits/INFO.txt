@@ -1,0 +1,1 @@
+- copy `textures\entity\rabbit\caerbannog.png` and `textures\entity\rabbit\white.png` to `minecraft\textures\entity\rabbit\`
