@@ -1,0 +1,1 @@
+src\assets\minecraft\textures\block\amethyst_cluster.png.mcmeta

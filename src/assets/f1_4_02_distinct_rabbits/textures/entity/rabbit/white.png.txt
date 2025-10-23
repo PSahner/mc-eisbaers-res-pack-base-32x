@@ -1,0 +1,1 @@
+src\assets\minecraft\textures\entity\rabbit\white.png
