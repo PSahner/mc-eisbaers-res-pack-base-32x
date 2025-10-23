@@ -396,6 +396,309 @@
       "ascent": 8,
       "height": 16,
       "chars": ["\ueef4"]
+    },
+
+    /* Exquisite Enchant Icons */
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/1.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE011"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/2.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE012"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/3.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE013"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/4.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE014"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/5.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE015"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/6.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE016"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/7.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE017"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/8.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE018"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/9.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE019"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/10.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE020"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/11.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE021"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/12.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE022"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/13.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE023"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/14.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE024"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/15.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE025"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/16.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE026"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/17.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE027"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/18.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE028"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/19.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE029"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/20.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE030"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/21.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE031"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/22.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE032"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/23.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE033"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/24.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE034"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/25.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE035"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/26.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE036"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/27.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE037"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/28.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE038"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/29.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE039"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/30.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE040"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/31.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE041"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/32.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE042"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/33.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE043"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/34.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE044"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/35.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE045"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/36.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE046"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/37.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE047"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/37.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE048"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/39.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE049"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/40.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE050"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/41.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE051"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/42.png",
+      "height": 12,
+      "ascent": 10,
+      "chars": ["\uE052"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_05_exquisite_enchant_icons:font/43.png",
+      "height": 12,
+      "ascent": 11,
+      "chars": ["\uE053"]
     }
   ]
 }
