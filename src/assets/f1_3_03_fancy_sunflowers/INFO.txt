@@ -1,0 +1,1 @@
+- copy `sunflower_back.png`, `sunflower_front.png` and `sunflower_top.png` to `minecraft\textures\block\`
