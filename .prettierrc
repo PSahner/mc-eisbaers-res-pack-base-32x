@@ -19,6 +19,13 @@
         "parser": "json-stringify",
         "printWidth": 120
       }
+    },
+    {
+      "files": ["src/assets/*/lang/**/*.json", "src/assets/*/font/**/*.json"],
+      "options": {
+        "parser": "json",
+        "printWidth": 120
+      }
     }
   ]
 }

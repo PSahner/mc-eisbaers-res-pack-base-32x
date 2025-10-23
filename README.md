@@ -32,6 +32,7 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.3.05 | Better Chorus (Reverse) | MC 1.19.1 |
 | 1.4.01 | Red Iron Golem Flowers | 2025-01-20 |
 | 1.4.02 | Distinct Rabbits | MC 1.21.7 v1.2x |
+| 1.5.01 | Hunger Preview | MC 1.21.1 v1.9 |
 
 ## Important Information for Development
 
@@ -312,6 +313,11 @@ Description: Changes the yellow flowers on the Iron Golem skin to red ones in or
 Source: [FaithfulPack](https://faithfulpack.net/addons/distinct-rabbits) - By thisisthedogtor/iamthedogtor
 Description: Adds a unique texture for killer bunnies to make them distinct from regular bunnies. The normal white rabbits will appear with blue eyes, whereas killer bunnies will have red paws.
 
+#### 1.5.01: Hunger Preview
+
+Source: [FaithfulPack](https://faithfulpack.net/addons/HungerPreview32x) - By MomentariyModde
+Description: Adds a preview of how much hunger a food item will restore behind the food item's name.
+
 ## Changelog
 
 ### 0.0.1
@@ -357,6 +363,7 @@ Description: Adds a unique texture for killer bunnies to make them distinct from
 - added Better Chorus (Reverse) (BetterChorusReverse_1.19.1_2022-09-07)
 - added Red Iron Golem Flowers (RedIronGolemFlowers_2025-01-20)
 - added Distinct Rabbits 32x (DistinctRabbits_v1.2X)
+- added Hunger Preview (HungerPreview_1.21.1_v1.9)
 
 ## License
 

@@ -1,5 +1,6 @@
 {
   "providers": [
+    /* 1.2.12 Better Bottling */
     {
       "type": "bitmap",
       "file": "f1_2_12_better_bottling:font/potion_icons/potion.png",
@@ -286,6 +287,22 @@
       "ascent": 9,
       "height": 10,
       "chars": ["\uE840"]
+    },
+
+    /* 1.5.01.a Hunger Preview */
+    {
+      "type": "bitmap",
+      "file": "f1_5_01_a_hunger_preview:misc/hunger_half.png",
+      "ascent": 8,
+      "height": 18,
+      "chars": ["\ueff3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "f1_5_01_a_hunger_preview:misc/hunger_full.png",
+      "ascent": 8,
+      "height": 18,
+      "chars": ["\ueff4"]
     }
   ]
 }
