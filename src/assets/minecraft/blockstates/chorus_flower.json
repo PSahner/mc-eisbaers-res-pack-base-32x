@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "f1_3_05_better_chorus_reverse:block/chorus_flower/chorus_flower_dead"
+    },
+    "age=1": {
+      "model": "f1_3_05_better_chorus_reverse:block/chorus_flower/chorus_flower_stage4"
+    },
+    "age=2": {
+      "model": "f1_3_05_better_chorus_reverse:block/chorus_flower/chorus_flower_stage3"
+    },
+    "age=3": {
+      "model": "f1_3_05_better_chorus_reverse:block/chorus_flower/chorus_flower_stage2"
+    },
+    "age=4": {
+      "model": "f1_3_05_better_chorus_reverse:block/chorus_flower/chorus_flower_stage1"
+    },
+    "age=5": {
+      "model": "f1_3_05_better_chorus_reverse:block/chorus_flower/chorus_flower_stage0"
+    }
+  }
+}

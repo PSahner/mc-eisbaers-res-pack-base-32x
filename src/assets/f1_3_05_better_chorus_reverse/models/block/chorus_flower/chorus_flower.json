@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_chorus_flower",
+  "textures": {
+    "texture": "f1_3_05_better_chorus_reverse:block/chorus_flower"
+  }
+}

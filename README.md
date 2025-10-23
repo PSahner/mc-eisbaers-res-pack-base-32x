@@ -29,6 +29,7 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.3.02 | Different Stems | 2024-08-30 |
 | 1.3.03 | Fancy Sunflowers | 2025-01-21 |
 | 1.3.04 | Animated Amethyst Clusters | v1.0 2022-05-16 |
+| 1.3.05 | Better Chorus (Reverse) | MC 1.19.1 |
 
 ## Planned Development
 
@@ -258,6 +259,11 @@ Description: Re-textures the heads of Sunflowers to bloom a bit more - inspired 
 Source: [FaithfulPack](https://faithfulpack.net/addons/AnimatedAmethystClusters) - By hozz8528
 Description: Gives full amethyst clusters a reflection animation to make them easier to see when mining amethyst from a geode without being obtrusive.
 
+#### 1.3.05: Better Chorus (Reverse)
+
+Source: [FaithfulPack](https://faithfulpack.net/addons/better-chorus) - By Ensis
+Description: In this version, the stages of flower growth go in reverse order from the fruit to the large flower. This pack adds an improved texture and model of chorus to the game. Now the flowers and fruits have become voluminous and change as they grow. Chorus and fried chorus items are also re-textured to make them look more consistent.
+
 ## Changelog
 
 ### 0.0.1
@@ -299,6 +305,8 @@ Description: Gives full amethyst clusters a reflection animation to make them ea
 - added Visible Age (VisibleAge_2023_07_30)
 - added Different Stems (DifferentStems_2024-08-30)
 - added Fancy Sunflowers (FancySunflowers_2025-01-21)
+- added Animated Amethyst Clusters (AnimatedAmethystClusters_v1.0_2022-05-16)
+- added Better Chorus (Reverse) (BetterChorusReverse_1.19.1_2022-09-07)
 
 ## License
 
