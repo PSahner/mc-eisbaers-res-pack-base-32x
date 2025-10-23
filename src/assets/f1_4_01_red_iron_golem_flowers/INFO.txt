@@ -1,1 +1,4 @@
-- copy `textures\entity\iron_golem\iron_golem_crackiness_high.png` and `textures\entity\iron_golem\iron_golem.png` to `minecraft\textures\entity\iron_golem\`
+All files copied to:
+
+- src\assets\minecraft\textures\entity\iron_golem\iron_golem_crackiness_high.png
+- src\assets\minecraft\textures\entity\iron_golem\iron_golem.png

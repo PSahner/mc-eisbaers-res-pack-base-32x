@@ -1,5 +1,5 @@
 {
-    "parent": "f1_2_16_better_maps:item/smaller_util",
+    "parent": "minecraft:item/generated",
     "textures": {
       "layer0": "f1_2_16_better_maps:item/filled_map",
       "layer1": "f1_2_16_better_maps:item/filled_map_markings"

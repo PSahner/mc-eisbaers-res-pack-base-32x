@@ -1,1 +1,4 @@
-- copy `amethyst_cluster.png` and `amethyst_cluster.png.mcmeta` to `minecraft\textures\block\`
+All files copied to:
+
+- src\assets\minecraft\textures\block\amethyst_cluster.png
+- src\assets\minecraft\textures\block\amethyst_cluster.png.mcmeta

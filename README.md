@@ -33,6 +33,8 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.4.01 | Red Iron Golem Flowers | 2025-01-20 |
 | 1.4.02 | Distinct Rabbits | MC 1.21.7 v1.2x |
 | 1.5.01 | Hunger Preview | MC 1.21.1 v1.9 |
+| 1.5.02 | Clearer Wither Hearts | 2025-01-21 |
+| 1.5.03 | Refined Utilities | 2025-01-20 |
 
 ## Important Information for Development
 
@@ -318,6 +320,16 @@ Description: Adds a unique texture for killer bunnies to make them distinct from
 Source: [FaithfulPack](https://faithfulpack.net/addons/HungerPreview32x) - By MomentariyModde
 Description: Adds a preview of how much hunger a food item will restore behind the food item's name.
 
+#### 1.5.02: Clearer Wither Hearts
+
+Source: [FaithfulPack](https://faithfulpack.net/addons/clearer-wither-hearts) - By TQNL
+Description: Makes hearts more visible when under the 'Wither' effect - inspired by vanillatweaks.net.
+
+#### 1.5.03: Refined Utilities - *Customized*
+
+Source: [FaithfulPack](https://faithfulpack.net/addons/refined-utilities) - By TQNL
+Description: Utilities appear smaller when holding, appear correctly attached to the hands in third person or from the outside, and bowl particles don't appear when eating from a bowl. Customized version, which makes it compatible with all other modules/features (e.g. Better Bottling).
+
 ## Changelog
 
 ### 0.0.1
@@ -364,6 +376,9 @@ Description: Adds a preview of how much hunger a food item will restore behind t
 - added Red Iron Golem Flowers (RedIronGolemFlowers_2025-01-20)
 - added Distinct Rabbits 32x (DistinctRabbits_v1.2X)
 - added Hunger Preview (HungerPreview_1.21.1_v1.9)
+- added Clearer Wither Hearts (ClearerWitherHearts_2025-01-21)
+- added Refined Utilities (RefinedUtilities_2025-01-21)
+  - revised/checked compatibility with other modules/features
 
 ## License
 

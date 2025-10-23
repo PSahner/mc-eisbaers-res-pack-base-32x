@@ -1,1 +1,5 @@
-- copy `sunflower_back.png`, `sunflower_front.png` and `sunflower_top.png` to `minecraft\textures\block\`
+All files copied to:
+
+- src\assets\minecraft\textures\block\sunflower_back.png
+- src\assets\minecraft\textures\block\sunflower_front.png
+- src\assets\minecraft\textures\block\sunflower_top.png

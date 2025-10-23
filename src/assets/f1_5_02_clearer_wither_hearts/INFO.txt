@@ -1,0 +1,10 @@
+All files copied to:
+
+- src\assets\minecraft\textures\gui\sprites\hud\heart\withered_full_blinking.png
+- src\assets\minecraft\textures\gui\sprites\hud\heart\withered_full.png
+- src\assets\minecraft\textures\gui\sprites\hud\heart\withered_half_blinking.png
+- src\assets\minecraft\textures\gui\sprites\hud\heart\withered_half.png
+- src\assets\minecraft\textures\gui\sprites\hud\heart\withered_hardcore_full_blinking.png
+- src\assets\minecraft\textures\gui\sprites\hud\heart\withered_hardcore_full.png
+- src\assets\minecraft\textures\gui\sprites\hud\heart\withered_hardcore_half_blinking.png
+- src\assets\minecraft\textures\gui\sprites\hud\heart\withered_hardcore_half.png

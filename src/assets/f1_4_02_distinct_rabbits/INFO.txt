@@ -1,1 +1,4 @@
-- copy `textures\entity\rabbit\caerbannog.png` and `textures\entity\rabbit\white.png` to `minecraft\textures\entity\rabbit\`
+All files copied to:
+
+- src\assets\minecraft\textures\entity\rabbit\caerbannog.png
+- src\assets\minecraft\textures\entity\rabbit\white.png

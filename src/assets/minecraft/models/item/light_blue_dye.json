@@ -1,0 +1,6 @@
+{
+  "parent": "f1_5_03_refined_utilities:item/smaller_util_hold_fix",
+  "textures": {
+    "layer0": "minecraft:item/light_blue_dye"
+  }
+}

@@ -1,1 +1,0 @@
-src\assets\minecraft\textures\entity\iron_golem\iron_golem_crackiness_high.png

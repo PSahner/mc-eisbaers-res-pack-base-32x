@@ -14,9 +14,16 @@
   "embeddedLanguageFormatting": "auto",
   "overrides": [
     {
-      "files": "*.json",
+      "files": "DEACTIVATED.json",
       "options": {
         "parser": "json-stringify",
+        "printWidth": 120
+      }
+    },
+    {
+      "files": "*.json",
+      "options": {
+        "parser": "json",
         "printWidth": 120
       }
     },
