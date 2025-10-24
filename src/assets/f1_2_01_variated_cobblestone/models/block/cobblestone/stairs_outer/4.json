@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/outer_stairs",
-  "textures": {
-    "top": "f1_2_01_variated_cobblestone:block/variated/cobblestone/4",
-    "side": "f1_2_01_variated_cobblestone:block/variated/cobblestone/4",
-    "bottom": "f1_2_01_variated_cobblestone:block/variated/cobblestone/4"
-  }
-}
