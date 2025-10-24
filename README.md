@@ -338,6 +338,10 @@ Description: Adds icons to the tooltip of armor trim items in the inventory. Cus
 
 ## Changelog
 
+### 0.1.0
+
+- migrated all features from own namespace to Minecraft vanilla namespace, for better compatibility (with other resource packs)
+
 ### 0.0.1
 
 - added Colored Bow Charge
