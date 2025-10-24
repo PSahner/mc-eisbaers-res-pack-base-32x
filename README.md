@@ -37,6 +37,7 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.5.03 | Refined Utilities | 2025-01-20 |
 | 1.5.04 | Enchant Icons | MC 1.21.5 v1.3 |
 | 1.5.05 | Exquisite Enchant Icons | MC 1.21 v1.1 |
+| 1.5.06 | Better Armor Trim Tooltips | MC 1.21.8 |
 
 ## Important Information for Development
 
@@ -330,58 +331,65 @@ Description: Adds icons to the tooltip of enchanted items in the inventory.
 Source: [Modrinth](https://modrinth.com/resourcepack/exquisite-enchant-icons) - By JohnnyJohnnyq & TearH_Pi
 Description: Adds icons to the tooltip of enchanted items in the inventory.
 
+#### 1.5.06: Better Armor Trim Tooltips - *Customized*
+
+Source: [Modrinth](https://modrinth.com/resourcepack/better-armor-trim-tooltips) - By Wintecks
+Description: Adds icons to the tooltip of armor trim items in the inventory. Customized version, which fixes the faulty font definitions in `default.json`.
+
 ## Changelog
 
 ### 0.0.1
 
-- added Colored Bow Charge (ColoredBowCharge_2022-04-17)
-- added Variated Cobblestone (VariatedCobblestone_v1.1)
-- added Variated Ores (VariatedOres_v1.18)
-- added Unlit Redstone Ore (UnlitRedstoneOre_v1.18)
+- added Colored Bow Charge
+- added Variated Cobblestone
+- added Variated Ores
+- added Unlit Redstone Ore
   - added own/custom adaptions of variated unlit redstone ores
-- added Better Tiled Deepslate Tiles (BetterTiledDeepslateTiles_2021-07-01)
+- added Better Tiled Deepslate Tiles
   - added own/custom adaption of block Cracked Deepslate Tiles
-- added Static Lanterns (ClearerLanterns_1.21.8_2025-09-08)
-- added Square Barrels (SquareBarrels_2024-12-05)
-- added Soul Soil Soul Campfire (SoulSoilSoulCampfire_2025-01-20)
-- added Polished Chests (PolishedChests_2024-12-05)
+- added Static Lanterns
+- added Square Barrels
+- added Soul Soil Soul Campfire
+- added Polished Chests
   - added own/custom polished chest textures to chest boats
 - updated Resource Pack (`pack.mcmeta`) for MC 1.21.9
-- added Inner Edges for Doors (InnerEdgesForDoors_1.21.4_v1.1)
+- added Inner Edges for Doors
   - fixed different copper door and trapdoor models (exposed, weathered, oxidized, and all waxed versions)
 - restructured resource pack architecture to use own namespaces for each feature
-- added Candles Overhaul (CandlesOverhaul_2023-07-30)
+- added Candles Overhaul
   - stripped-down version of the source without the wax overlay
-- added All Consistent Bucket Textures (AllConsistentBucketTextures_2025-03-10)
+- added All Consistent Bucket Textures
 - added Better Bottling (combined from three bases)
   - bases\1.2.12_BetterPotions_Custom\1.2.12.1_BetterBottling_1.19.3_v1.0
   - bases\1.2.12_BetterPotions_Custom\1.2.12.2_LeoUniquePotions_v1.1
   - bases\1.2.12_BetterPotions_Custom\1.2.12.3_VisualPotionsEffect_v1.1.1
   - converted from Optifine CIT to native MC 1.21.6+ item model system
   - only potion-related content integrated (buckets excluded)
-- added Unique Powders (UniquePowders_2021-11-11)
-- added Unique Goat Horns (UniqueGoatHorns_2022-07-02)
+- added Unique Powders
+- added Unique Goat Horns
   - added new vanilla item model system (without Optifine CIT)
-- added Better Paintings (EnhancedPaintingItems_2025-04-06)
+- added Better Paintings
   - added new vanilla item model system (without Optifine CIT)
 - added Better Explorer Maps (own solution)
-- added Visual Waxed Copper Items (VisualWaxedCopperItems_2025-01-20)
-- added Re Enchanted Books (ReEnchantedBooks_v0.0.1)
+- added Visual Waxed Copper Items
+- added Re Enchanted Books
   - manually created/added Blast Protection V, Breach V and Thorns IV
-- added Visible Age (VisibleAge_2023_07_30)
-- added Different Stems (DifferentStems_2024-08-30)
-- added Fancy Sunflowers (FancySunflowers_2025-01-21)
-- added Animated Amethyst Clusters (AnimatedAmethystClusters_v1.0_2022-05-16)
-- added Better Chorus (Reverse) (BetterChorusReverse_1.19.1_2022-09-07)
-- added Red Iron Golem Flowers (RedIronGolemFlowers_2025-01-20)
-- added Distinct Rabbits 32x (DistinctRabbits_v1.2X)
-- added Hunger Preview (HungerPreview_1.21.1_v1.9)
-- added Clearer Wither Hearts (ClearerWitherHearts_2025-01-21)
-- added Refined Utilities (RefinedUtilities_2025-01-21)
+- added Visible Age
+- added Different Stems
+- added Fancy Sunflowers
+- added Animated Amethyst Clusters
+- added Better Chorus (Reverse)
+- added Red Iron Golem Flowers
+- added Distinct Rabbits 32x
+- added Hunger Preview
+- added Clearer Wither Hearts
+- added Refined Utilities
   - revised/checked compatibility with other modules/features
-- added Enchant Icons (EnchantIcons_1.21.5_v1.3)
-- added Exquisite Enchant Icons (ExquisiteEnchantIcons_1.21_v1.1)
+- added Enchant Icons
+- added Exquisite Enchant Icons
   - combined it with Enchant Icons
+- added Better Armor Trim Tooltips
+  - customized version, which fixes the faulty font definitions in `default.json`
 
 ## License
 
