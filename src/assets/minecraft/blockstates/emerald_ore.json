@@ -1,9 +1,9 @@
 {
   "variants": {
     "": [
-      {"model": "minecraft:block/emerald_ore"},
-      {"model": "minecraft:block/emerald_ore2"},
-      {"model": "minecraft:block/emerald_ore3"}
+      {"model": "minecraft:block/ores/emerald_ore"},
+      {"model": "minecraft:block/ores/emerald_ore2"},
+      {"model": "minecraft:block/ores/emerald_ore3"}
     ]
   }
 }
