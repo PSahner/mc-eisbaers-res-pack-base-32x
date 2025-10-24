@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/template_wall_side_tall",
   "textures": {
-    "wall": "f1_2_04_better_tiled_deepslate_tiles:block/deepslate_tiles"
+    "wall": "minecraft:block/deepslate_tiles"
   }
 }
