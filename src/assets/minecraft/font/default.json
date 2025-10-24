@@ -292,14 +292,14 @@
     /* 1.5.01.a: Hunger Preview */
     {
       "type": "bitmap",
-      "file": "f1_5_01_a_hunger_preview:misc/hunger_half.png",
+      "file": "minecraft:misc/hunger_half.png",
       "ascent": 8,
       "height": 18,
       "chars": ["\ueff3"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_01_a_hunger_preview:misc/hunger_full.png",
+      "file": "minecraft:misc/hunger_full.png",
       "ascent": 8,
       "height": 18,
       "chars": ["\ueff4"]

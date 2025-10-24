@@ -1,4 +1,0 @@
-All files copied to:
-
-- src\assets\minecraft\textures\entity\rabbit\caerbannog.png
-- src\assets\minecraft\textures\entity\rabbit\white.png
