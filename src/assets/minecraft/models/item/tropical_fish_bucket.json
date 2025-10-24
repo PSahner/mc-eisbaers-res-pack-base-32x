@@ -1,6 +1,6 @@
 {
   "parent": "f1_5_03_refined_utilities:item/smaller_util",
   "textures": {
-    "layer0": "f1_2_11_all_consistent_bucket_textures:item/tropical_fish_bucket"
+    "layer0": "minecraft:item/tropical_fish_bucket"
   }
 }
