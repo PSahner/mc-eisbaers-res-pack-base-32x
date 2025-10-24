@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/visual_waxed/waxed_stairs",
+  "textures": {
+    "side1": "minecraft:item/visual_waxed/waxed_weathered_copper_stairs1",
+    "side2": "minecraft:item/visual_waxed/waxed_weathered_copper_stairs2",
+    "inner": "minecraft:item/visual_waxed/waxed_weathered_copper_double2",
+    "double1": "minecraft:item/visual_waxed/waxed_weathered_copper_double1",
+    "top": "minecraft:item/visual_waxed/waxed_weathered_cut_copper",
+    "particle": "minecraft:item/visual_waxed/waxed_weathered_cut_copper"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "f1_2_17_visual_waxed_copper_items:item/waxed_weathered_lightning_rod"
+    "model": "minecraft:item/visual_waxed/waxed_weathered_lightning_rod"
   }
 }

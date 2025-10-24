@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "f1_2_17_visual_waxed_copper_items:item/waxed_exposed_copper_lantern"
+    "model": "minecraft:item/visual_waxed/waxed_exposed_copper_lantern"
   }
 }

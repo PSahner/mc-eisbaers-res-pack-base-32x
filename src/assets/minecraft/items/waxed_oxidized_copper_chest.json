@@ -1,7 +1,7 @@
 {
   "model": {
     "type": "minecraft:special",
-    "base": "f1_2_17_visual_waxed_copper_items:item/waxed_oxidized_copper_chest",
+    "base": "minecraft:item/visual_waxed/waxed_oxidized_copper_chest",
     "model": {
       "type": "minecraft:chest",
       "texture": "minecraft:copper_oxidized"
