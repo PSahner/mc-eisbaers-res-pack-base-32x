@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "model",
-    "model": "f1_2_12_better_bottling:item/spectral_arrow"
+    "model": "minecraft:item/potions/spectral_arrow"
   }
 }

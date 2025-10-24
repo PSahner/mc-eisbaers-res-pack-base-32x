@@ -1,6 +1,0 @@
-{
-  "parent": "f1_5_03_refined_utilities:item/smaller_util_arrow",
-  "textures": {
-    "layer0": "f1_2_12_better_bottling:item/tipped_arrow_base"
-  }
-}

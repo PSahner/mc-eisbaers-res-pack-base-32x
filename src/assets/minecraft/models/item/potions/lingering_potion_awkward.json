@@ -1,0 +1,7 @@
+{
+  "parent": "f1_5_03_refined_utilities:item/smaller_util",
+  "textures": {
+    "layer0": "minecraft:item/potions/unique/awkward/lingering_potion",
+    "particle": "minecraft:item/lingering_potion"
+  }
+}

@@ -3,287 +3,287 @@
     /* 1.2.12: Better Bottling */
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/potion.png",
+      "file": "minecraft:font/potion_icons/potion.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE800"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/redstone.png",
+      "file": "minecraft:font/potion_icons/redstone.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE801"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/glowstone_dust.png",
+      "file": "minecraft:font/potion_icons/glowstone_dust.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE802"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/gunpowder.png",
+      "file": "minecraft:font/potion_icons/gunpowder.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE818"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/splash_potion.png",
+      "file": "minecraft:font/potion_icons/splash_potion.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE819"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/dragon_breath.png",
+      "file": "minecraft:font/potion_icons/dragon_breath.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE820"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/lingering_potion.png",
+      "file": "minecraft:font/potion_icons/lingering_potion.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE821"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/regeneration.png",
+      "file": "minecraft:font/potion_icons/regeneration.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE831"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/nether_wart.png",
+      "file": "minecraft:font/potion_icons/nether_wart.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE803"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/weakness.png",
+      "file": "minecraft:font/potion_icons/weakness.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE804"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/strength.png",
+      "file": "minecraft:font/potion_icons/strength.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE805"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/fire_resistance.png",
+      "file": "minecraft:font/potion_icons/fire_resistance.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE806"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/poison.png",
+      "file": "minecraft:font/potion_icons/poison.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE807"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/instant_health.png",
+      "file": "minecraft:font/potion_icons/instant_health.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE808"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/health_boost.png",
+      "file": "minecraft:font/potion_icons/health_boost.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE809"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/speed.png",
+      "file": "minecraft:font/potion_icons/speed.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE810"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/instant_damage.png",
+      "file": "minecraft:font/potion_icons/instant_damage.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE811"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/slowness.png",
+      "file": "minecraft:font/potion_icons/slowness.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE812"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/jump_boost.png",
+      "file": "minecraft:font/potion_icons/jump_boost.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE813"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/water_breathing.png",
+      "file": "minecraft:font/potion_icons/water_breathing.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE814"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/night_vision.png",
+      "file": "minecraft:font/potion_icons/night_vision.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE815"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/invisibility.png",
+      "file": "minecraft:font/potion_icons/invisibility.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE816"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/slow_falling.png",
+      "file": "minecraft:font/potion_icons/slow_falling.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE817"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/levitation.png",
+      "file": "minecraft:font/potion_icons/levitation.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE822"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/luck.png",
+      "file": "minecraft:font/potion_icons/luck.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE823"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/resistance.png",
+      "file": "minecraft:font/potion_icons/resistance.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE824"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/experience_bottle.png",
+      "file": "minecraft:font/potion_icons/experience_bottle.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE825"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/absorption.png",
+      "file": "minecraft:font/potion_icons/absorption.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE826"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/hunger.png",
+      "file": "minecraft:font/potion_icons/hunger.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE827"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/nausea.png",
+      "file": "minecraft:font/potion_icons/nausea.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE828"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/arrow.png",
+      "file": "minecraft:font/potion_icons/arrow.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE829"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/glowing.png",
+      "file": "minecraft:font/potion_icons/glowing.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE830"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/bad_omen.png",
+      "file": "minecraft:font/potion_icons/bad_omen.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE832"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/darkness.png",
+      "file": "minecraft:font/potion_icons/darkness.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE833"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/infested.png",
+      "file": "minecraft:font/potion_icons/infested.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE834"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/oozing.png",
+      "file": "minecraft:font/potion_icons/oozing.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE835"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/raid_omen.png",
+      "file": "minecraft:font/potion_icons/raid_omen.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE836"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/trial_omen.png",
+      "file": "minecraft:font/potion_icons/trial_omen.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE837"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/unluck.png",
+      "file": "minecraft:font/potion_icons/unluck.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE838"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/weaving.png",
+      "file": "minecraft:font/potion_icons/weaving.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE839"]
     },
     {
       "type": "bitmap",
-      "file": "f1_2_12_better_bottling:font/potion_icons/wind_charged.png",
+      "file": "minecraft:font/potion_icons/wind_charged.png",
       "ascent": 9,
       "height": 10,
       "chars": ["\uE840"]
