@@ -24,13 +24,13 @@
         "age": "25"
       },
       "apply": [
-        {"model": "f1_3_01_visible_age:block/cave_vines_age_25"},
-        {"model": "f1_3_01_visible_age:block/cave_vines_age_25_1"},
-        {"model": "f1_3_01_visible_age:block/cave_vines_age_25_2"},
-        {"model": "f1_3_01_visible_age:block/cave_vines_age_25_3"},
-        {"model": "f1_3_01_visible_age:block/cave_vines_age_25_4"},
-        {"model": "f1_3_01_visible_age:block/cave_vines_age_25_5"},
-        {"model": "f1_3_01_visible_age:block/cave_vines_age_25_6"}
+        {"model": "minecraft:block/visible_age/cave_vines_age_25"},
+        {"model": "minecraft:block/visible_age/cave_vines_age_25_1"},
+        {"model": "minecraft:block/visible_age/cave_vines_age_25_2"},
+        {"model": "minecraft:block/visible_age/cave_vines_age_25_3"},
+        {"model": "minecraft:block/visible_age/cave_vines_age_25_4"},
+        {"model": "minecraft:block/visible_age/cave_vines_age_25_5"},
+        {"model": "minecraft:block/visible_age/cave_vines_age_25_6"}
       ]
     },
     {
@@ -39,13 +39,13 @@
         "age": "25"
       },
       "apply": [
-        {"model": "f1_3_01_visible_age:block/cave_vines_lit_age_25"},
-        {"model": "f1_3_01_visible_age:block/cave_vines_lit_age_25_1"},
-        {"model": "f1_3_01_visible_age:block/cave_vines_lit_age_25_2"},
-        {"model": "f1_3_01_visible_age:block/cave_vines_lit_age_25_3"},
-        {"model": "f1_3_01_visible_age:block/cave_vines_lit_age_25_4"},
-        {"model": "f1_3_01_visible_age:block/cave_vines_lit_age_25_5"},
-        {"model": "f1_3_01_visible_age:block/cave_vines_lit_age_25_6"}
+        {"model": "minecraft:block/visible_age/cave_vines_lit_age_25"},
+        {"model": "minecraft:block/visible_age/cave_vines_lit_age_25_1"},
+        {"model": "minecraft:block/visible_age/cave_vines_lit_age_25_2"},
+        {"model": "minecraft:block/visible_age/cave_vines_lit_age_25_3"},
+        {"model": "minecraft:block/visible_age/cave_vines_lit_age_25_4"},
+        {"model": "minecraft:block/visible_age/cave_vines_lit_age_25_5"},
+        {"model": "minecraft:block/visible_age/cave_vines_lit_age_25_6"}
       ]
     }
   ]

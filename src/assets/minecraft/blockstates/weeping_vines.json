@@ -13,7 +13,7 @@
         "age": "25"
       },
       "apply": {
-        "model": "f1_3_01_visible_age:block/weeping_vines_age_25"
+        "model": "minecraft:block/visible_age/weeping_vines_age_25"
       }
     }
   ]
