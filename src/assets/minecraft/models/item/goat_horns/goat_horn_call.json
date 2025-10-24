@@ -1,6 +1,6 @@
 {
   "parent": "f1_5_03_refined_utilities:item/smaller_util",
   "textures": {
-    "layer0": "f1_2_14_unique_goat_horns:item/goat_horn_ponder"
+    "layer0": "minecraft:item/goat_horns/goat_horn_call"
   }
 }
