@@ -1,6 +1,6 @@
 {
   "parent": "f1_5_03_refined_utilities:item/smaller_util",
   "textures": {
-    "layer0": "f1_2_16_better_maps:item/overlay/map_buried_treasure"
+    "layer0": "minecraft:item/maps_overlay/map_swamp"
   }
 }
