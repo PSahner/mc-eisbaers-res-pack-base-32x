@@ -308,91 +308,91 @@
     /* 1.5.04: Enchant Icons */
     {
       "type": "bitmap",
-      "file": "f1_5_04_enchant_icons:misc/helmet.png",
+      "file": "minecraft:misc/enchant_icons/helmet.png",
       "ascent": 8,
       "height": 16,
       "chars": ["\uefe1"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_04_enchant_icons:misc/chestplate.png",
+      "file": "minecraft:misc/enchant_icons/chestplate.png",
       "ascent": 8,
       "height": 16,
       "chars": ["\uefe2"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_04_enchant_icons:misc/leggings.png",
+      "file": "minecraft:misc/enchant_icons/leggings.png",
       "ascent": 8,
       "height": 16,
       "chars": ["\uefe3"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_04_enchant_icons:misc/boots.png",
+      "file": "minecraft:misc/enchant_icons/boots.png",
       "ascent": 8,
       "height": 16,
       "chars": ["\uefe4"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_04_enchant_icons:misc/sword.png",
+      "file": "minecraft:misc/enchant_icons/sword.png",
       "ascent": 8,
       "height": 16,
       "chars": ["\uefe5"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_04_enchant_icons:misc/pickaxe.png",
+      "file": "minecraft:misc/enchant_icons/pickaxe.png",
       "ascent": 8,
       "height": 16,
       "chars": ["\uefe6"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_04_enchant_icons:misc/trident.png",
+      "file": "minecraft:misc/enchant_icons/trident.png",
       "ascent": 8,
       "height": 16,
       "chars": ["\uefe7"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_04_enchant_icons:misc/bow.png",
+      "file": "minecraft:misc/enchant_icons/bow.png",
       "ascent": 8,
       "height": 16,
       "chars": ["\uefe8"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_04_enchant_icons:misc/crosbow.png",
+      "file": "minecraft:misc/enchant_icons/crosbow.png",
       "ascent": 8,
       "height": 16,
       "chars": ["\uefe9"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_04_enchant_icons:misc/fishing.png",
+      "file": "minecraft:misc/enchant_icons/fishing.png",
       "ascent": 8,
       "height": 16,
       "chars": ["\ueef1"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_04_enchant_icons:misc/star.png",
+      "file": "minecraft:misc/enchant_icons/star.png",
       "ascent": 8,
       "height": 16,
       "chars": ["\ueef2"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_04_enchant_icons:misc/skull.png",
+      "file": "minecraft:misc/enchant_icons/skull.png",
       "ascent": 8,
       "height": 16,
       "chars": ["\ueef3"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_04_enchant_icons:misc/mace.png",
+      "file": "minecraft:misc/enchant_icons/mace.png",
       "ascent": 8,
       "height": 16,
       "chars": ["\ueef4"]
