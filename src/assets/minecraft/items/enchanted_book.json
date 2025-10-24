@@ -3,896 +3,896 @@
     "cases": [
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/aqua_affinity_1",
+          "model": "minecraft:item/enchanted_books/aqua_affinity_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:aqua_affinity": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/bane_of_arthropods_1",
+          "model": "minecraft:item/enchanted_books/bane_of_arthropods_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:bane_of_arthropods": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/bane_of_arthropods_2",
+          "model": "minecraft:item/enchanted_books/bane_of_arthropods_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:bane_of_arthropods": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/bane_of_arthropods_3",
+          "model": "minecraft:item/enchanted_books/bane_of_arthropods_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:bane_of_arthropods": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/bane_of_arthropods_4",
+          "model": "minecraft:item/enchanted_books/bane_of_arthropods_4",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:bane_of_arthropods": 4}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/bane_of_arthropods_5",
+          "model": "minecraft:item/enchanted_books/bane_of_arthropods_5",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:bane_of_arthropods": 5}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/breach_1",
+          "model": "minecraft:item/enchanted_books/breach_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:breach": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/breach_2",
+          "model": "minecraft:item/enchanted_books/breach_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:breach": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/breach_3",
+          "model": "minecraft:item/enchanted_books/breach_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:breach": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/breach_4",
+          "model": "minecraft:item/enchanted_books/breach_4",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:breach": 4}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/breach_5",
+          "model": "minecraft:item/enchanted_books/breach_5",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:breach": 5}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/blast_protection_1",
+          "model": "minecraft:item/enchanted_books/blast_protection_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:blast_protection": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/blast_protection_2",
+          "model": "minecraft:item/enchanted_books/blast_protection_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:blast_protection": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/blast_protection_3",
+          "model": "minecraft:item/enchanted_books/blast_protection_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:blast_protection": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/blast_protection_4",
+          "model": "minecraft:item/enchanted_books/blast_protection_4",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:blast_protection": 4}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/blast_protection_5",
+          "model": "minecraft:item/enchanted_books/blast_protection_5",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:blast_protection": 5}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/channeling_1",
+          "model": "minecraft:item/enchanted_books/channeling_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:channeling": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/binding_curse_1",
+          "model": "minecraft:item/enchanted_books/binding_curse_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:binding_curse": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/density_1",
+          "model": "minecraft:item/enchanted_books/density_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:density": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/density_2",
+          "model": "minecraft:item/enchanted_books/density_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:density": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/density_3",
+          "model": "minecraft:item/enchanted_books/density_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:density": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/density_4",
+          "model": "minecraft:item/enchanted_books/density_4",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:density": 4}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/density_5",
+          "model": "minecraft:item/enchanted_books/density_5",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:density": 5}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/depth_strider_1",
+          "model": "minecraft:item/enchanted_books/depth_strider_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:depth_strider": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/depth_strider_2",
+          "model": "minecraft:item/enchanted_books/depth_strider_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:depth_strider": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/depth_strider_3",
+          "model": "minecraft:item/enchanted_books/depth_strider_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:depth_strider": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/efficiency_1",
+          "model": "minecraft:item/enchanted_books/efficiency_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:efficiency": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/efficiency_2",
+          "model": "minecraft:item/enchanted_books/efficiency_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:efficiency": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/efficiency_3",
+          "model": "minecraft:item/enchanted_books/efficiency_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:efficiency": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/efficiency_4",
+          "model": "minecraft:item/enchanted_books/efficiency_4",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:efficiency": 4}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/efficiency_5",
+          "model": "minecraft:item/enchanted_books/efficiency_5",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:efficiency": 5}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/feather_falling_1",
+          "model": "minecraft:item/enchanted_books/feather_falling_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:feather_falling": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/feather_falling_2",
+          "model": "minecraft:item/enchanted_books/feather_falling_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:feather_falling": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/feather_falling_3",
+          "model": "minecraft:item/enchanted_books/feather_falling_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:feather_falling": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/feather_falling_4",
+          "model": "minecraft:item/enchanted_books/feather_falling_4",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:feather_falling": 4}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/fire_aspect_1",
+          "model": "minecraft:item/enchanted_books/fire_aspect_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:fire_aspect": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/fire_aspect_2",
+          "model": "minecraft:item/enchanted_books/fire_aspect_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:fire_aspect": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/fire_protection_1",
+          "model": "minecraft:item/enchanted_books/fire_protection_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:fire_protection": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/fire_protection_2",
+          "model": "minecraft:item/enchanted_books/fire_protection_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:fire_protection": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/fire_protection_3",
+          "model": "minecraft:item/enchanted_books/fire_protection_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:fire_protection": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/fire_protection_4",
+          "model": "minecraft:item/enchanted_books/fire_protection_4",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:fire_protection": 4}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/flame_1",
+          "model": "minecraft:item/enchanted_books/flame_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:flame": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/fortune_1",
+          "model": "minecraft:item/enchanted_books/fortune_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:fortune": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/fortune_2",
+          "model": "minecraft:item/enchanted_books/fortune_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:fortune": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/fortune_3",
+          "model": "minecraft:item/enchanted_books/fortune_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:fortune": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/frost_walker_1",
+          "model": "minecraft:item/enchanted_books/frost_walker_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:frost_walker": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/frost_walker_2",
+          "model": "minecraft:item/enchanted_books/frost_walker_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:frost_walker": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/impaling_1",
+          "model": "minecraft:item/enchanted_books/impaling_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:impaling": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/impaling_2",
+          "model": "minecraft:item/enchanted_books/impaling_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:impaling": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/impaling_3",
+          "model": "minecraft:item/enchanted_books/impaling_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:impaling": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/impaling_4",
+          "model": "minecraft:item/enchanted_books/impaling_4",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:impaling": 4}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/impaling_5",
+          "model": "minecraft:item/enchanted_books/impaling_5",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:impaling": 5}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/infinity_1",
+          "model": "minecraft:item/enchanted_books/infinity_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:infinity": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/knockback_1",
+          "model": "minecraft:item/enchanted_books/knockback_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:knockback": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/knockback_2",
+          "model": "minecraft:item/enchanted_books/knockback_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:knockback": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/looting_1",
+          "model": "minecraft:item/enchanted_books/looting_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:looting": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/looting_2",
+          "model": "minecraft:item/enchanted_books/looting_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:looting": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/looting_3",
+          "model": "minecraft:item/enchanted_books/looting_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:looting": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/loyalty_1",
+          "model": "minecraft:item/enchanted_books/loyalty_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:loyalty": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/loyalty_2",
+          "model": "minecraft:item/enchanted_books/loyalty_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:loyalty": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/loyalty_3",
+          "model": "minecraft:item/enchanted_books/loyalty_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:loyalty": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/luck_of_the_sea_1",
+          "model": "minecraft:item/enchanted_books/luck_of_the_sea_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:luck_of_the_sea": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/luck_of_the_sea_2",
+          "model": "minecraft:item/enchanted_books/luck_of_the_sea_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:luck_of_the_sea": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/luck_of_the_sea_3",
+          "model": "minecraft:item/enchanted_books/luck_of_the_sea_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:luck_of_the_sea": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/lure_1",
+          "model": "minecraft:item/enchanted_books/lure_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:lure": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/lure_2",
+          "model": "minecraft:item/enchanted_books/lure_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:lure": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/lure_3",
+          "model": "minecraft:item/enchanted_books/lure_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:lure": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/mending_1",
+          "model": "minecraft:item/enchanted_books/mending_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:mending": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/multishot_1",
+          "model": "minecraft:item/enchanted_books/multishot_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:multishot": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/piercing_1",
+          "model": "minecraft:item/enchanted_books/piercing_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:piercing": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/piercing_2",
+          "model": "minecraft:item/enchanted_books/piercing_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:piercing": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/piercing_3",
+          "model": "minecraft:item/enchanted_books/piercing_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:piercing": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/piercing_4",
+          "model": "minecraft:item/enchanted_books/piercing_4",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:piercing": 4}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/power_1",
+          "model": "minecraft:item/enchanted_books/power_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:power": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/power_2",
+          "model": "minecraft:item/enchanted_books/power_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:power": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/power_3",
+          "model": "minecraft:item/enchanted_books/power_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:power": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/power_4",
+          "model": "minecraft:item/enchanted_books/power_4",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:power": 4}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/power_5",
+          "model": "minecraft:item/enchanted_books/power_5",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:power": 5}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/projectile_protection_1",
+          "model": "minecraft:item/enchanted_books/projectile_protection_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:projectile_protection": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/projectile_protection_2",
+          "model": "minecraft:item/enchanted_books/projectile_protection_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:projectile_protection": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/projectile_protection_3",
+          "model": "minecraft:item/enchanted_books/projectile_protection_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:projectile_protection": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/projectile_protection_4",
+          "model": "minecraft:item/enchanted_books/projectile_protection_4",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:projectile_protection": 4}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/protection_1",
+          "model": "minecraft:item/enchanted_books/protection_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:protection": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/protection_2",
+          "model": "minecraft:item/enchanted_books/protection_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:protection": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/protection_3",
+          "model": "minecraft:item/enchanted_books/protection_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:protection": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/protection_4",
+          "model": "minecraft:item/enchanted_books/protection_4",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:protection": 4}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/punch_1",
+          "model": "minecraft:item/enchanted_books/punch_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:punch": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/punch_2",
+          "model": "minecraft:item/enchanted_books/punch_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:punch": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/quick_charge_1",
+          "model": "minecraft:item/enchanted_books/quick_charge_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:quick_charge": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/quick_charge_2",
+          "model": "minecraft:item/enchanted_books/quick_charge_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:quick_charge": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/quick_charge_3",
+          "model": "minecraft:item/enchanted_books/quick_charge_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:quick_charge": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/respiration_1",
+          "model": "minecraft:item/enchanted_books/respiration_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:respiration": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/respiration_2",
+          "model": "minecraft:item/enchanted_books/respiration_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:respiration": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/respiration_3",
+          "model": "minecraft:item/enchanted_books/respiration_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:respiration": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/riptide_1",
+          "model": "minecraft:item/enchanted_books/riptide_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:riptide": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/riptide_2",
+          "model": "minecraft:item/enchanted_books/riptide_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:riptide": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/riptide_3",
+          "model": "minecraft:item/enchanted_books/riptide_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:riptide": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/sharpness_1",
+          "model": "minecraft:item/enchanted_books/sharpness_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:sharpness": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/sharpness_2",
+          "model": "minecraft:item/enchanted_books/sharpness_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:sharpness": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/sharpness_3",
+          "model": "minecraft:item/enchanted_books/sharpness_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:sharpness": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/sharpness_4",
+          "model": "minecraft:item/enchanted_books/sharpness_4",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:sharpness": 4}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/sharpness_5",
+          "model": "minecraft:item/enchanted_books/sharpness_5",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:sharpness": 5}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/smite_1",
+          "model": "minecraft:item/enchanted_books/smite_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:smite": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/smite_2",
+          "model": "minecraft:item/enchanted_books/smite_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:smite": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/smite_3",
+          "model": "minecraft:item/enchanted_books/smite_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:smite": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/smite_4",
+          "model": "minecraft:item/enchanted_books/smite_4",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:smite": 4}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/smite_5",
+          "model": "minecraft:item/enchanted_books/smite_5",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:smite": 5}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/silk_touch_1",
+          "model": "minecraft:item/enchanted_books/silk_touch_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:silk_touch": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/soul_speed_1",
+          "model": "minecraft:item/enchanted_books/soul_speed_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:soul_speed": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/soul_speed_2",
+          "model": "minecraft:item/enchanted_books/soul_speed_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:soul_speed": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/soul_speed_3",
+          "model": "minecraft:item/enchanted_books/soul_speed_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:soul_speed": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/sweeping_edge_1",
+          "model": "minecraft:item/enchanted_books/sweeping_edge_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:sweeping_edge": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/sweeping_edge_2",
+          "model": "minecraft:item/enchanted_books/sweeping_edge_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:sweeping_edge": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/sweeping_edge_3",
+          "model": "minecraft:item/enchanted_books/sweeping_edge_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:sweeping_edge": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/swift_sneak_1",
+          "model": "minecraft:item/enchanted_books/swift_sneak_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:swift_sneak": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/swift_sneak_2",
+          "model": "minecraft:item/enchanted_books/swift_sneak_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:swift_sneak": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/swift_sneak_3",
+          "model": "minecraft:item/enchanted_books/swift_sneak_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:swift_sneak": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/thorns_1",
+          "model": "minecraft:item/enchanted_books/thorns_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:thorns": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/thorns_2",
+          "model": "minecraft:item/enchanted_books/thorns_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:thorns": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/thorns_3",
+          "model": "minecraft:item/enchanted_books/thorns_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:thorns": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/thorns_4",
+          "model": "minecraft:item/enchanted_books/thorns_4",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:thorns": 4}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/unbreaking_1",
+          "model": "minecraft:item/enchanted_books/unbreaking_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:unbreaking": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/unbreaking_2",
+          "model": "minecraft:item/enchanted_books/unbreaking_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:unbreaking": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/unbreaking_3",
+          "model": "minecraft:item/enchanted_books/unbreaking_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:unbreaking": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/wind_burst_1",
+          "model": "minecraft:item/enchanted_books/wind_burst_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:wind_burst": 1}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/wind_burst_2",
+          "model": "minecraft:item/enchanted_books/wind_burst_2",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:wind_burst": 2}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/wind_burst_3",
+          "model": "minecraft:item/enchanted_books/wind_burst_3",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:wind_burst": 3}]
       },
       {
         "model": {
-          "model": "f1_2_18_re_enchanted_books:item/vanishing_curse_1",
+          "model": "minecraft:item/enchanted_books/vanishing_curse_1",
           "type": "minecraft:model"
         },
         "when": [{"minecraft:vanishing_curse": 1}]
@@ -900,7 +900,7 @@
     ],
     "component": "minecraft:stored_enchantments",
     "fallback": {
-      "model": "f1_2_18_re_enchanted_books:item/.big_enchanted_book",
+      "model": "minecraft:item/enchanted_books/.big_enchanted_book",
       "type": "minecraft:model"
     },
     "property": "minecraft:component",
