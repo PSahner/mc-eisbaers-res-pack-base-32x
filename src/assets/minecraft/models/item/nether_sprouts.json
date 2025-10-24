@@ -1,5 +1,5 @@
 {
-  "parent": "f1_5_03_refined_utilities:item/smaller_util_nether_sprouts",
+  "parent": "minecraft:item/smaller_util/smaller_util_nether_sprouts",
   "textures": {
     "layer0": "minecraft:item/nether_sprouts"
   }

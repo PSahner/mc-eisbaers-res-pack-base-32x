@@ -1,5 +1,5 @@
 {
-  "parent": "f1_5_03_refined_utilities:item/smaller_util_seeds2",
+  "parent": "minecraft:item/smaller_util/smaller_util_seeds2",
   "textures": {
     "layer0": "minecraft:item/beetroot_seeds"
   }
