@@ -292,14 +292,14 @@
     /* 1.5.01.a: Hunger Preview */
     {
       "type": "bitmap",
-      "file": "minecraft:misc/hunger_half.png",
+      "file": "minecraft:font/hunger_preview/hunger_half.png",
       "ascent": 8,
       "height": 18,
       "chars": ["\ueff3"]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:misc/hunger_full.png",
+      "file": "minecraft:font/hunger_preview/hunger_full.png",
       "ascent": 8,
       "height": 18,
       "chars": ["\ueff4"]
@@ -704,7 +704,7 @@
     /* 1.5.06: Better Armor Trim Tooltips */
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/all.png",
+      "file": "minecraft:font/armor_trims/all.png",
       "ascent": 32,
       "height": 60,
       "chars": [
@@ -715,7 +715,7 @@
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/all.png",
+      "file": "minecraft:font/armor_trims/all.png",
       "ascent": 10,
       "height": 60,
       "chars": [
@@ -726,385 +726,385 @@
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 1,
       "chars": ["\uF001"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 2,
       "chars": ["\uF002"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 3,
       "chars": ["\uF003"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 4,
       "chars": ["\uF004"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 5,
       "chars": ["\uF005"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 6,
       "chars": ["\uF006"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 7,
       "chars": ["\uF007"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 8,
       "chars": ["\uF008"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 9,
       "chars": ["\uF009"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 10,
       "chars": ["\uF010"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 20,
       "chars": ["\uF020"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 30,
       "chars": ["\uF030"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 40,
       "chars": ["\uF040"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 50,
       "chars": ["\uF050"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 60,
       "chars": ["\uF060"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 70,
       "chars": ["\uF070"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 80,
       "chars": ["\uF080"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 90,
       "chars": ["\uF090"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 100,
       "chars": ["\uF100"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 71,
       "chars": ["\uC001"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 73,
       "chars": ["\uC002"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 83,
       "chars": ["\uC003"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 51,
       "chars": ["\uC004"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 45,
       "chars": ["\uC005"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 70,
       "chars": ["\uC006"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 70,
       "chars": ["\uC007"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 47,
       "chars": ["\uC008"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 76,
       "chars": ["\uC009"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 76,
       "chars": ["\uC010"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 76,
       "chars": ["\uC011"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 74,
       "chars": ["\uC012"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 75,
       "chars": ["\uC013"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 40,
       "chars": ["\uC014"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 39,
       "chars": ["\uC015"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 62,
       "chars": ["\uC016"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 48,
       "chars": ["\uC017"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 76,
       "chars": ["\uC018"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 52,
       "chars": ["\uF001"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 56,
       "chars": ["\uF002"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 62,
       "chars": ["\uF003"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 58,
       "chars": ["\uF004"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 48,
       "chars": ["\uF005"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 66,
       "chars": ["\uF006"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 46,
       "chars": ["\uF007"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 44,
       "chars": ["\uF008"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 45,
       "chars": ["\uF009"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 52,
       "chars": ["\uF010"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 54,
       "chars": ["\uF011"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 60,
       "chars": ["\uF012"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 62,
       "chars": ["\uF013"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 56,
       "chars": ["\uF014"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 31,
       "chars": ["\uF015"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 63,
       "chars": ["\uF016"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 61,
       "chars": ["\uF017"]
     },
     {
       "type": "bitmap",
-      "file": "f1_5_06_better_armor_trim_tooltips:info/empty.png",
+      "file": "minecraft:font/armor_trims/empty.png",
       "ascent": -32768,
       "height": 59,
       "chars": ["\uF018"]
