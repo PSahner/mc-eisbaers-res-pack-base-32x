@@ -1,6 +1,6 @@
 {
-    "parent": "f1_5_03_refined_utilities:item/smaller_util",
-    "textures": {
-        "layer0": "item/chorus_fruit"
-    }
+  "parent": "f1_5_03_refined_utilities:item/smaller_util",
+  "textures": {
+    "layer0": "minecraft:item/chorus_fruit"
+  }
 }

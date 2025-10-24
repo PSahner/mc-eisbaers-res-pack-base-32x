@@ -2,10 +2,10 @@
   "credit": "Made with Blockbench",
   "parent": "minecraft:block/block",
   "textures": {
-    "flower": "f1_3_05_better_chorus_reverse:block/chorus_flower_dead",
-    "particle": "f1_3_05_better_chorus_reverse:block/chorus_plant",
-    "base": "f1_3_05_better_chorus_reverse:block/chorus_plant",
-    "missing": "f1_3_05_better_chorus_reverse:block/blank"
+    "flower": "minecraft:block/visible_age/chorus_flower_dead",
+    "particle": "minecraft:block/visible_age/chorus_plant",
+    "base": "minecraft:block/visible_age/chorus_plant",
+    "missing": "minecraft:block/blank"
   },
   "elements": [
     {

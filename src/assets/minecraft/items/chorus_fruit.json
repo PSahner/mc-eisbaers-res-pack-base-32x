@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "f1_3_05_better_chorus_reverse:item/chorus_fruit"
+    "model": "minecraft:item/chorus_fruit"
   }
 }

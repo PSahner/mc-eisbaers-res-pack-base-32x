@@ -1,9 +1,9 @@
 {
   "ambientocclusion": false,
   "textures": {
-    "texture": "f1_3_05_better_chorus_reverse:block/chorus_plant",
-    "inside": "f1_3_05_better_chorus_reverse:block/chorus_plant",
-    "particle": "f1_3_05_better_chorus_reverse:block/chorus_plant"
+    "texture": "minecraft:block/visible_age/chorus_plant",
+    "inside": "minecraft:block/visible_age/chorus_plant",
+    "particle": "minecraft:block/visible_age/chorus_plant"
   },
   "elements": [
     {

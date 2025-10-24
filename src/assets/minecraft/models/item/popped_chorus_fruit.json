@@ -1,6 +1,6 @@
 {
   "parent": "f1_5_03_refined_utilities:item/smaller_util",
   "textures": {
-    "layer0": "f1_3_05_better_chorus_reverse:item/popped_chorus_fruit"
+    "layer0": "minecraft:item/popped_chorus_fruit"
   }
 }
