@@ -3,118 +3,118 @@
     {
       "when": { "up": "true" },
       "apply": [
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_post/0"},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_post/1"},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_post/2"},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_post/3"},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_post/4"},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_post/5"},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_post/6"},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_post/7"} ]
+        {"model": "minecraft:block/cobblestone/wall_post/0"},
+        {"model": "minecraft:block/cobblestone/wall_post/1"},
+        {"model": "minecraft:block/cobblestone/wall_post/2"},
+        {"model": "minecraft:block/cobblestone/wall_post/3"},
+        {"model": "minecraft:block/cobblestone/wall_post/4"},
+        {"model": "minecraft:block/cobblestone/wall_post/5"},
+        {"model": "minecraft:block/cobblestone/wall_post/6"},
+        {"model": "minecraft:block/cobblestone/wall_post/7"} ]
     },
 
     {
       "when": { "north": "low" },
       "apply": [
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/0","uvlock": true},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/1","uvlock": true},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/2","uvlock": true},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/3","uvlock": true},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/4","uvlock": true},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/5","uvlock": true},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/6","uvlock": true},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/7","uvlock": true} ]
+        {"model": "minecraft:block/cobblestone/wall_side/0","uvlock": true},
+        {"model": "minecraft:block/cobblestone/wall_side/1","uvlock": true},
+        {"model": "minecraft:block/cobblestone/wall_side/2","uvlock": true},
+        {"model": "minecraft:block/cobblestone/wall_side/3","uvlock": true},
+        {"model": "minecraft:block/cobblestone/wall_side/4","uvlock": true},
+        {"model": "minecraft:block/cobblestone/wall_side/5","uvlock": true},
+        {"model": "minecraft:block/cobblestone/wall_side/6","uvlock": true},
+        {"model": "minecraft:block/cobblestone/wall_side/7","uvlock": true} ]
     },
 
     {
       "when": { "east": "low" },
       "apply": [
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/0","uvlock": true,"y": 90},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/1","uvlock": true,"y": 90},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/2","uvlock": true,"y": 90},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/3","uvlock": true,"y": 90},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/4","uvlock": true,"y": 90},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/5","uvlock": true,"y": 90},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/6","uvlock": true,"y": 90},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/7","uvlock": true,"y": 90} ]
+        {"model": "minecraft:block/cobblestone/wall_side/0","uvlock": true,"y": 90},
+        {"model": "minecraft:block/cobblestone/wall_side/1","uvlock": true,"y": 90},
+        {"model": "minecraft:block/cobblestone/wall_side/2","uvlock": true,"y": 90},
+        {"model": "minecraft:block/cobblestone/wall_side/3","uvlock": true,"y": 90},
+        {"model": "minecraft:block/cobblestone/wall_side/4","uvlock": true,"y": 90},
+        {"model": "minecraft:block/cobblestone/wall_side/5","uvlock": true,"y": 90},
+        {"model": "minecraft:block/cobblestone/wall_side/6","uvlock": true,"y": 90},
+        {"model": "minecraft:block/cobblestone/wall_side/7","uvlock": true,"y": 90} ]
     },
 
     {
       "when": { "south": "low" },
       "apply": [
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/0","uvlock": true,"y": 180},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/1","uvlock": true,"y": 180},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/2","uvlock": true,"y": 180},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/3","uvlock": true,"y": 180},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/4","uvlock": true,"y": 180},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/5","uvlock": true,"y": 180},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/6","uvlock": true,"y": 180},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/7","uvlock": true,"y": 180} ]
+        {"model": "minecraft:block/cobblestone/wall_side/0","uvlock": true,"y": 180},
+        {"model": "minecraft:block/cobblestone/wall_side/1","uvlock": true,"y": 180},
+        {"model": "minecraft:block/cobblestone/wall_side/2","uvlock": true,"y": 180},
+        {"model": "minecraft:block/cobblestone/wall_side/3","uvlock": true,"y": 180},
+        {"model": "minecraft:block/cobblestone/wall_side/4","uvlock": true,"y": 180},
+        {"model": "minecraft:block/cobblestone/wall_side/5","uvlock": true,"y": 180},
+        {"model": "minecraft:block/cobblestone/wall_side/6","uvlock": true,"y": 180},
+        {"model": "minecraft:block/cobblestone/wall_side/7","uvlock": true,"y": 180} ]
     },
 
     {
       "when": { "west": "low" },
       "apply": [
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/0","uvlock": true,"y": 270},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/1","uvlock": true,"y": 270},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/2","uvlock": true,"y": 270},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/3","uvlock": true,"y": 270},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/4","uvlock": true,"y": 270},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/5","uvlock": true,"y": 270},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/6","uvlock": true,"y": 270},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side/7","uvlock": true,"y": 270} ]
+        {"model": "minecraft:block/cobblestone/wall_side/0","uvlock": true,"y": 270},
+        {"model": "minecraft:block/cobblestone/wall_side/1","uvlock": true,"y": 270},
+        {"model": "minecraft:block/cobblestone/wall_side/2","uvlock": true,"y": 270},
+        {"model": "minecraft:block/cobblestone/wall_side/3","uvlock": true,"y": 270},
+        {"model": "minecraft:block/cobblestone/wall_side/4","uvlock": true,"y": 270},
+        {"model": "minecraft:block/cobblestone/wall_side/5","uvlock": true,"y": 270},
+        {"model": "minecraft:block/cobblestone/wall_side/6","uvlock": true,"y": 270},
+        {"model": "minecraft:block/cobblestone/wall_side/7","uvlock": true,"y": 270} ]
     },
 
     {
       "when": { "north": "tall" },
       "apply": [
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/0","uvlock": true},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/1","uvlock": true},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/2","uvlock": true},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/3","uvlock": true},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/4","uvlock": true},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/5","uvlock": true},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/6","uvlock": true},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/7","uvlock": true} ]
+        {"model": "minecraft:block/cobblestone/wall_side_tall/0","uvlock": true},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/1","uvlock": true},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/2","uvlock": true},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/3","uvlock": true},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/4","uvlock": true},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/5","uvlock": true},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/6","uvlock": true},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/7","uvlock": true} ]
     },
 
     {
       "when": { "east": "tall" },
       "apply": [
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/0","uvlock": true,"y": 90},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/1","uvlock": true,"y": 90},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/2","uvlock": true,"y": 90},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/3","uvlock": true,"y": 90},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/4","uvlock": true,"y": 90},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/5","uvlock": true,"y": 90},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/6","uvlock": true,"y": 90},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/7","uvlock": true,"y": 90} ]
+        {"model": "minecraft:block/cobblestone/wall_side_tall/0","uvlock": true,"y": 90},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/1","uvlock": true,"y": 90},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/2","uvlock": true,"y": 90},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/3","uvlock": true,"y": 90},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/4","uvlock": true,"y": 90},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/5","uvlock": true,"y": 90},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/6","uvlock": true,"y": 90},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/7","uvlock": true,"y": 90} ]
     },
 
     {
       "when": { "south": "tall" },
       "apply": [
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/0","uvlock": true,"y": 180},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/1","uvlock": true,"y": 180},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/2","uvlock": true,"y": 180},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/3","uvlock": true,"y": 180},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/4","uvlock": true,"y": 180},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/5","uvlock": true,"y": 180},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/6","uvlock": true,"y": 180},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/7","uvlock": true,"y": 180} ]
+        {"model": "minecraft:block/cobblestone/wall_side_tall/0","uvlock": true,"y": 180},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/1","uvlock": true,"y": 180},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/2","uvlock": true,"y": 180},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/3","uvlock": true,"y": 180},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/4","uvlock": true,"y": 180},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/5","uvlock": true,"y": 180},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/6","uvlock": true,"y": 180},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/7","uvlock": true,"y": 180} ]
     },
 
     {
       "when": { "west": "tall" },
       "apply": [
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/0","uvlock": true,"y": 270},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/1","uvlock": true,"y": 270},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/2","uvlock": true,"y": 270},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/3","uvlock": true,"y": 270},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/4","uvlock": true,"y": 270},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/5","uvlock": true,"y": 270},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/6","uvlock": true,"y": 270},
-        {"model": "f1_2_01_variated_cobblestone:block/cobblestone/wall_side_tall/7","uvlock": true,"y": 270} ]
+        {"model": "minecraft:block/cobblestone/wall_side_tall/0","uvlock": true,"y": 270},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/1","uvlock": true,"y": 270},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/2","uvlock": true,"y": 270},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/3","uvlock": true,"y": 270},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/4","uvlock": true,"y": 270},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/5","uvlock": true,"y": 270},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/6","uvlock": true,"y": 270},
+        {"model": "minecraft:block/cobblestone/wall_side_tall/7","uvlock": true,"y": 270} ]
     }
   ]
 }

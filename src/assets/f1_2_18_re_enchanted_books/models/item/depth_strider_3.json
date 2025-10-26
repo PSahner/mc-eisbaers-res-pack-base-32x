@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "f1_2_18_re_enchanted_books:item/depth_strider_3"
-  }
-}

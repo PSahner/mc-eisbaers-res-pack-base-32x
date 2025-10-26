@@ -9,10 +9,10 @@
           "model": "minecraft:block/twisting_vines"
         },
         {
-          "model": "f1_3_01_visible_age:block/twisting_vines2"
+          "model": "minecraft:block/visible_age/twisting_vines2"
         },
         {
-          "model": "f1_3_01_visible_age:block/twisting_vines3"
+          "model": "minecraft:block/visible_age/twisting_vines3"
         }
       ]
     },
@@ -21,7 +21,7 @@
         "age": "25"
       },
       "apply": {
-        "model": "f1_3_01_visible_age:block/twisting_vines_age_25"
+        "model": "minecraft:block/visible_age/twisting_vines_age_25"
       }
     }
   ]

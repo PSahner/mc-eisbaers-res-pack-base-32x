@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "f1_2_12_better_bottling:item/dragon_breath"
+    "model": "minecraft:item/potions/dragon_breath"
   }
 }

@@ -1,8 +1,8 @@
 {
   "parent": "minecraft:block/inner_stairs",
   "textures": {
-    "bottom": "f1_2_04_better_tiled_deepslate_tiles:block/deepslate_tiles",
-    "side": "f1_2_04_better_tiled_deepslate_tiles:block/deepslate_tiles",
-    "top": "f1_2_04_better_tiled_deepslate_tiles:block/deepslate_tiles"
+    "bottom": "minecraft:block/deepslate_tiles",
+    "side": "minecraft:block/deepslate_tiles",
+    "top": "minecraft:block/deepslate_tiles"
   }
 }

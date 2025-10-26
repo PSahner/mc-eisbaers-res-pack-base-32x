@@ -1,5 +1,0 @@
-All files copied to:
-
-- src\assets\minecraft\textures\block\sunflower_back.png
-- src\assets\minecraft\textures\block\sunflower_front.png
-- src\assets\minecraft\textures\block\sunflower_top.png

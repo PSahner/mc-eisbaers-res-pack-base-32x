@@ -1,14 +1,14 @@
 {
   "variants": {
     "": [
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/0"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/1"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/2"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/3"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/4"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/5"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/6"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/7"}
+      {"model": "minecraft:block/cobblestone/block/0"},
+      {"model": "minecraft:block/cobblestone/block/1"},
+      {"model": "minecraft:block/cobblestone/block/2"},
+      {"model": "minecraft:block/cobblestone/block/3"},
+      {"model": "minecraft:block/cobblestone/block/4"},
+      {"model": "minecraft:block/cobblestone/block/5"},
+      {"model": "minecraft:block/cobblestone/block/6"},
+      {"model": "minecraft:block/cobblestone/block/7"}
     ]
   }
 }

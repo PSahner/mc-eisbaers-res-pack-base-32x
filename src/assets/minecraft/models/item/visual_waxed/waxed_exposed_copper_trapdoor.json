@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/visual_waxed/waxed_copper_trapdoor",
+  "textures": {
+    "ends": "minecraft:item/visual_waxed/waxed_exposed_copper_trapdoor",
+    "sides": "minecraft:item/visual_waxed/waxed_exposed_copper_trapdoor_side"
+  }
+}

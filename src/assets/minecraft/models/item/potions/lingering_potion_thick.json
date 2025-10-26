@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/smaller_util/smaller_util",
+  "textures": {
+    "layer0": "minecraft:item/potions/unique/thick_and_mundane/lingering_potion",
+    "particle": "minecraft:item/lingering_potion"
+  }
+}

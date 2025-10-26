@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/visual_waxed/waxed_weathered_copper_door"
+  }
+}

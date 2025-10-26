@@ -1,5 +1,5 @@
 {
-  "parent": "f1_5_03_refined_utilities:item/smaller_util_seeds1",
+  "parent": "minecraft:item/smaller_util/smaller_util_seeds1",
   "textures": {
     "layer0": "minecraft:item/pumpkin_seeds"
   }

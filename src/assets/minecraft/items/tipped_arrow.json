@@ -13,8 +13,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 3393279}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 3393279}]}
               ]
             }
           },
@@ -23,8 +23,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_long"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 3393279}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_long"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 3393279}]}
               ]
             }
           },
@@ -33,8 +33,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_strong"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 3393279}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_strong"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 3393279}]}
               ]
             }
           },
@@ -43,8 +43,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 9154528}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 9154528}]}
               ]
             }
           },
@@ -53,8 +53,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_long"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 9154528}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_long"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 9154528}]}
               ]
             }
           },
@@ -63,8 +63,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_strong"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 9154528}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_strong"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 9154528}]}
               ]
             }
           },
@@ -73,8 +73,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16762624}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16762624}]}
               ]
             }
           },
@@ -83,8 +83,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_long"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16762624}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_long"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16762624}]}
               ]
             }
           },
@@ -93,8 +93,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_strong"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16762624}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_strong"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16762624}]}
               ]
             }
           },
@@ -103,8 +103,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16262179}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16262179}]}
               ]
             }
           },
@@ -113,8 +113,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_strong"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16262179}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_strong"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16262179}]}
               ]
             }
           },
@@ -123,8 +123,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 11097706}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 11097706}]}
               ]
             }
           },
@@ -133,8 +133,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_strong"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 11097706}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_strong"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 11097706}]}
               ]
             }
           },
@@ -143,8 +143,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16777092}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16777092}]}
               ]
             }
           },
@@ -153,8 +153,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_long"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16777092}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_long"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16777092}]}
               ]
             }
           },
@@ -163,8 +163,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_strong"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16777092}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_strong"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16777092}]}
               ]
             }
           },
@@ -173,8 +173,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 13458603}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 13458603}]}
               ]
             }
           },
@@ -183,8 +183,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_long"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 13458603}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_long"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 13458603}]}
               ]
             }
           },
@@ -193,8 +193,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_strong"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 13458603}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_strong"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 13458603}]}
               ]
             }
           },
@@ -203,8 +203,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16750848}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16750848}]}
               ]
             }
           },
@@ -213,8 +213,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_long"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16750848}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_long"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16750848}]}
               ]
             }
           },
@@ -223,8 +223,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 10017472}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 10017472}]}
               ]
             }
           },
@@ -233,8 +233,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_long"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 10017472}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_long"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 10017472}]}
               ]
             }
           },
@@ -243,8 +243,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16185078}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16185078}]}
               ]
             }
           },
@@ -253,8 +253,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_long"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16185078}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_long"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 16185078}]}
               ]
             }
           },
@@ -263,8 +263,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 12779366}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 12779366}]}
               ]
             }
           },
@@ -273,8 +273,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_long"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 12779366}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_long"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 12779366}]}
               ]
             }
           },
@@ -283,8 +283,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 4738376}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 4738376}]}
               ]
             }
           },
@@ -293,8 +293,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_long"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 4738376}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_long"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 4738376}]}
               ]
             }
           },
@@ -303,8 +303,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 8889187}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 8889187}]}
               ]
             }
           },
@@ -313,8 +313,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_long"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 8889187}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_long"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 8889187}]}
               ]
             }
           },
@@ -323,8 +323,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_strong"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 8889187}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_strong"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 8889187}]}
               ]
             }
           },
@@ -333,8 +333,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 15982393}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 15982393}]}
               ]
             }
           },
@@ -343,8 +343,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_long"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 15982393}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_long"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 15982393}]}
               ]
             }
           },
@@ -353,8 +353,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 5066090}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 5066090}]}
               ]
             }
           },
@@ -363,8 +363,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_long"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 5066090}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_long"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 5066090}]}
               ]
             }
           },
@@ -373,8 +373,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_strong"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 5066090}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_strong"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 5066090}]}
               ]
             }
           },
@@ -383,8 +383,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 5997638}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 5997638}]}
               ]
             }
           },
@@ -393,8 +393,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 11595989}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 11595989}]}
               ]
             }
           },
@@ -403,8 +403,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 13421823}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 13421823}]}
               ]
             }
           },
@@ -413,8 +413,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 7650811}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 7650811}]}
               ]
             }
           },
@@ -423,8 +423,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 8554617}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 8554617}]}
               ]
             }
           },
@@ -433,8 +433,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 3694022}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 3694022}]}
               ]
             }
           },
@@ -443,8 +443,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 3694022}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 3694022}]}
               ]
             }
           },
@@ -453,8 +453,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 3694022}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 3694022}]}
               ]
             }
           },
@@ -463,13 +463,13 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 3694022}]}
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow"},
+                {"type": "model", "model": "minecraft:item/potions/tipped_arrow_overlay", "tints": [{"type": "constant", "value": 3694022}]}
               ]
             }
           }
         ],
-        "fallback": {"type": "model", "model": "f1_2_12_better_bottling:item/tipped_arrow"}
+        "fallback": {"type": "model", "model": "minecraft:item/potions/tipped_arrow"}
       }
     ]
   }

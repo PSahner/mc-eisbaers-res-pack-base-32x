@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "f1_2_02_variated_ores:block/nether_quartz_ore3"
-  }
-}

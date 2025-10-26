@@ -1,0 +1,17 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "texture": "minecraft:block/visible_age/chorus_plant",
+    "inside": "minecraft:block/visible_age/chorus_plant",
+    "particle": "minecraft:block/visible_age/chorus_plant"
+  },
+  "elements": [
+    {
+      "from": [4, 4, 4],
+      "to": [12, 12, 12],
+      "faces": {
+        "north": {"texture": "#inside"}
+      }
+    }
+  ]
+}

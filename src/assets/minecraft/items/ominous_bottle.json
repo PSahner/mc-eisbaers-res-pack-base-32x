@@ -12,8 +12,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle_overlay", "tints": [{"type": "constant", "value": 8716164}]}
+                {"type": "model", "model": "minecraft:item/potions/ominous_bottle"},
+                {"type": "model", "model": "minecraft:item/potions/ominous_bottle_overlay", "tints": [{"type": "constant", "value": 8716164}]}
               ]
             }
           },
@@ -22,8 +22,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle_overlay", "tints": [{"type": "constant", "value": 16777139}]}
+                {"type": "model", "model": "minecraft:item/potions/ominous_bottle"},
+                {"type": "model", "model": "minecraft:item/potions/ominous_bottle_overlay", "tints": [{"type": "constant", "value": 16777139}]}
               ]
             }
           },
@@ -32,8 +32,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle_overlay", "tints": [{"type": "constant", "value": 16762192}]}
+                {"type": "model", "model": "minecraft:item/potions/ominous_bottle"},
+                {"type": "model", "model": "minecraft:item/potions/ominous_bottle_overlay", "tints": [{"type": "constant", "value": 16762192}]}
               ]
             }
           },
@@ -42,8 +42,8 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle_overlay", "tints": [{"type": "constant", "value": 16746632}]}
+                {"type": "model", "model": "minecraft:item/potions/ominous_bottle"},
+                {"type": "model", "model": "minecraft:item/potions/ominous_bottle_overlay", "tints": [{"type": "constant", "value": 16746632}]}
               ]
             }
           },
@@ -52,13 +52,13 @@
             "model": {
               "type": "composite",
               "models": [
-                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle"},
-                {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle_overlay", "tints": [{"type": "constant", "value": 12534081}]}
+                {"type": "model", "model": "minecraft:item/potions/ominous_bottle"},
+                {"type": "model", "model": "minecraft:item/potions/ominous_bottle_overlay", "tints": [{"type": "constant", "value": 12534081}]}
               ]
             }
           }
         ],
-        "fallback": {"type": "model", "model": "f1_2_12_better_bottling:item/ominous_bottle"}
+        "fallback": {"type": "model", "model": "minecraft:item/potions/ominous_bottle"}
       }
     ]
   }

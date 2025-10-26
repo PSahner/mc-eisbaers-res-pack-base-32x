@@ -1,4 +1,0 @@
-All files copied to:
-
-- src\assets\minecraft\textures\block\amethyst_cluster.png
-- src\assets\minecraft\textures\block\amethyst_cluster.png.mcmeta

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/smaller_util/smaller_util",
+  "textures": {
+    "layer0": "minecraft:item/potions/unique/awkward/splash_potion",
+    "particle": "minecraft:item/splash_potion"
+  }
+}

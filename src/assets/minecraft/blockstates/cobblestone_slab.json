@@ -1,34 +1,34 @@
 {
   "variants": {
     "type=bottom": [
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab/0"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab/1"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab/2"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab/3"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab/4"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab/5"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab/6"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab/7"}
+      {"model": "minecraft:block/cobblestone/slab/0"},
+      {"model": "minecraft:block/cobblestone/slab/1"},
+      {"model": "minecraft:block/cobblestone/slab/2"},
+      {"model": "minecraft:block/cobblestone/slab/3"},
+      {"model": "minecraft:block/cobblestone/slab/4"},
+      {"model": "minecraft:block/cobblestone/slab/5"},
+      {"model": "minecraft:block/cobblestone/slab/6"},
+      {"model": "minecraft:block/cobblestone/slab/7"}
     ],
     "type=top": [
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab_top/0"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab_top/1"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab_top/2"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab_top/3"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab_top/4"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab_top/5"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab_top/6"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/slab_top/7"}
+      {"model": "minecraft:block/cobblestone/slab_top/0"},
+      {"model": "minecraft:block/cobblestone/slab_top/1"},
+      {"model": "minecraft:block/cobblestone/slab_top/2"},
+      {"model": "minecraft:block/cobblestone/slab_top/3"},
+      {"model": "minecraft:block/cobblestone/slab_top/4"},
+      {"model": "minecraft:block/cobblestone/slab_top/5"},
+      {"model": "minecraft:block/cobblestone/slab_top/6"},
+      {"model": "minecraft:block/cobblestone/slab_top/7"}
     ],
     "type=double": [
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/0"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/1"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/2"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/3"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/4"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/5"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/6"},
-      {"model": "f1_2_01_variated_cobblestone:block/cobblestone/block/7"}
+      {"model": "minecraft:block/cobblestone/block/0"},
+      {"model": "minecraft:block/cobblestone/block/1"},
+      {"model": "minecraft:block/cobblestone/block/2"},
+      {"model": "minecraft:block/cobblestone/block/3"},
+      {"model": "minecraft:block/cobblestone/block/4"},
+      {"model": "minecraft:block/cobblestone/block/5"},
+      {"model": "minecraft:block/cobblestone/block/6"},
+      {"model": "minecraft:block/cobblestone/block/7"}
     ]
   }
 }

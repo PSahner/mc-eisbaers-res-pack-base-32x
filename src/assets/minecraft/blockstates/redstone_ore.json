@@ -1,14 +1,14 @@
 {
   "variants": {
     "lit=true": [
-      {"model": "f1_2_03_unlit_redstone_ore:block/redstone_ore"},
-      {"model": "f1_2_03_unlit_redstone_ore:block/redstone_ore2"},
-      {"model": "f1_2_03_unlit_redstone_ore:block/redstone_ore3"}
+      {"model": "minecraft:block/ores/redstone_ore"},
+      {"model": "minecraft:block/ores/redstone_ore2"},
+      {"model": "minecraft:block/ores/redstone_ore3"}
     ],
     "lit=false": [
-      {"model": "f1_2_03_unlit_redstone_ore:block/redstone_ore_unlit"},
-      {"model": "f1_2_03_unlit_redstone_ore:block/redstone_ore2_unlit"},
-      {"model": "f1_2_03_unlit_redstone_ore:block/redstone_ore3_unlit"}
+      {"model": "minecraft:block/ores/redstone_ore_unlit"},
+      {"model": "minecraft:block/ores/redstone_ore2_unlit"},
+      {"model": "minecraft:block/ores/redstone_ore3_unlit"}
     ]
   }
 }

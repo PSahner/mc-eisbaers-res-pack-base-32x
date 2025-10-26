@@ -1,4 +1,4 @@
-# Eisbaer's resource pack Base
+# Eisbaer's Resource Pack - [1] Base
 
 This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecraft version **MC 1.21.9**). It builds the foundation for the other packs of the collection. The [Faithful 32x](https://faithfulpack.net/) resource pack needs to be installed and enabled before this pack in the resource pack selection screen.
 
@@ -25,6 +25,7 @@ This is the base resource pack of the "Eisbaer's ResPack Collection" (for Minecr
 | 1.2.16 | Better Explorer Maps | MC 1.21.9 |
 | 1.2.17 | Visual Waxed Copper Items | 2025-01-20 |
 | 1.2.18 | ReEnchanted Books | MC 1.21.10 |
+| 1.2.19 | Custom Visual Infested Blocks | MC 1.21.9 |
 | 1.3.01 | Visible Age | MC 1.20 |
 | 1.3.02 | Different Stems | 2024-08-30 |
 | 1.3.03 | Fancy Sunflowers | 2025-01-21 |
@@ -271,6 +272,12 @@ Description: Adds unique item textures for waxed copper to make them distinct fr
 Source: [FaithfulPack](https://faithfulpack.net/addons/re-enchanted-books) - By TQNL
 Description: Adds unique item textures for enchanted books (enchantment type and level).
 
+#### 1.2.19: Custom Visual Infested Blocks (Inventory-Only)
+
+Source: DerEisbaer
+Base: [CurseForge](https://www.curseforge.com/minecraft/texture-packs/silverfish-detector) - By Juknum
+Description: Adds a black and yellow striped border to infested blocks in the inventory only.
+
 #### 1.3.01: Visible Age
 
 Source: [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/age-5375176) - By Alkatreize
@@ -337,6 +344,14 @@ Source: [Modrinth](https://modrinth.com/resourcepack/better-armor-trim-tooltips)
 Description: Adds icons to the tooltip of armor trim items in the inventory. Customized version, which fixes the faulty font definitions in `default.json`.
 
 ## Changelog
+
+### 0.1.1
+
+- added Custom Visual Infested Blocks (Inventory-Only)
+
+### 0.1.0
+
+- migrated all features from own namespace to Minecraft vanilla namespace, for better compatibility (with other resource packs)
 
 ### 0.0.1
 

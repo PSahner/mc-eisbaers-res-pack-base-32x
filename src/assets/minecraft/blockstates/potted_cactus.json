@@ -1,8 +1,8 @@
 {
   "variants": {
     "": [
-      {"model": "f1_3_01_visible_age:block/potted_cactus"},
-      {"model": "f1_3_01_visible_age:block/potted_cactus_flower"}
+      {"model": "minecraft:block/visible_age/potted_cactus"},
+      {"model": "minecraft:block/visible_age/potted_cactus_flower"}
     ]
   }
 }

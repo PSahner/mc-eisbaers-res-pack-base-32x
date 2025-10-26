@@ -1,7 +1,0 @@
-{
-	"parent": "f1_2_17_visual_waxed_copper_items:item/waxed_copper_trapdoor",
-	"textures": {
-		"ends": "f1_2_17_visual_waxed_copper_items:item/waxed_weathered_copper_trapdoor",
-		"sides": "f1_2_17_visual_waxed_copper_items:item/waxed_weathered_copper_trapdoor_side"
-	}
-}

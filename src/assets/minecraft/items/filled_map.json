@@ -11,10 +11,10 @@
         "model": {
           "type": "minecraft:composite",
           "models": [
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_base" },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_markings",
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_base" },
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_markings",
               "tints": [ { "type": "minecraft:constant", "value": 3830373 } ] },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/overlay/map_monument" }
+            { "type": "minecraft:model", "model": "minecraft:item/maps/overlay/map_monument" }
           ]
         }
       },
@@ -25,10 +25,10 @@
         "model": {
           "type": "minecraft:composite",
           "models": [
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_base" },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_markings",
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_base" },
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_markings",
               "tints": [ { "type": "minecraft:constant", "value": 5393476 } ] },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/overlay/map_mansion" }
+            { "type": "minecraft:model", "model": "minecraft:item/maps/overlay/map_mansion" }
           ]
         }
       },
@@ -39,10 +39,10 @@
         "model": {
           "type": "minecraft:composite",
           "models": [
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_base" },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_markings",
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_base" },
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_markings",
               "tints": [ { "type": "minecraft:constant", "value": 6192150 } ] },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/overlay/map_jungle" }
+            { "type": "minecraft:model", "model": "minecraft:item/maps/overlay/map_jungle" }
           ]
         }
       },
@@ -53,10 +53,10 @@
         "model": {
           "type": "minecraft:composite",
           "models": [
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_base" },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_markings",
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_base" },
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_markings",
               "tints": [ { "type": "minecraft:constant", "value": 6388580 } ] },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/overlay/map_swamp" }
+            { "type": "minecraft:model", "model": "minecraft:item/maps/overlay/map_swamp" }
           ]
         }
       },
@@ -67,10 +67,10 @@
         "model": {
           "type": "minecraft:composite",
           "models": [
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_base" },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_markings",
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_base" },
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_markings",
               "tints": [ { "type": "minecraft:constant", "value": 13274213 } ] },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/overlay/map_desert_village" }
+            { "type": "minecraft:model", "model": "minecraft:item/maps/overlay/map_desert_village" }
           ]
         }
       },
@@ -81,10 +81,10 @@
         "model": {
           "type": "minecraft:composite",
           "models": [
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_base" },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_markings",
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_base" },
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_markings",
               "tints": [ { "type": "minecraft:constant", "value": 8306542 } ] },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/overlay/map_plains_village" }
+            { "type": "minecraft:model", "model": "minecraft:item/maps/overlay/map_plains_village" }
           ]
         }
       },
@@ -95,10 +95,10 @@
         "model": {
           "type": "minecraft:composite",
           "models": [
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_base" },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_markings",
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_base" },
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_markings",
               "tints": [ { "type": "minecraft:constant", "value": 11450392 } ] },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/overlay/map_savanna_village" }
+            { "type": "minecraft:model", "model": "minecraft:item/maps/overlay/map_savanna_village" }
           ]
         }
       },
@@ -109,10 +109,10 @@
         "model": {
           "type": "minecraft:composite",
           "models": [
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_base" },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_markings",
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_base" },
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_markings",
               "tints": [ { "type": "minecraft:constant", "value": 14540253 } ] },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/overlay/map_snowy_village" }
+            { "type": "minecraft:model", "model": "minecraft:item/maps/overlay/map_snowy_village" }
           ]
         }
       },
@@ -123,10 +123,10 @@
         "model": {
           "type": "minecraft:composite",
           "models": [
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_base" },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_markings",
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_base" },
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_markings",
               "tints": [ { "type": "minecraft:constant", "value": 6856499 } ] },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/overlay/map_taiga_village" }
+            { "type": "minecraft:model", "model": "minecraft:item/maps/overlay/map_taiga_village" }
           ]
         }
       },
@@ -137,10 +137,10 @@
         "model": {
           "type": "minecraft:composite",
           "models": [
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_base" },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_markings",
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_base" },
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_markings",
               "tints": [ { "type": "minecraft:constant", "value": 16777215 } ] },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/overlay/map_buried_treasure" }
+            { "type": "minecraft:model", "model": "minecraft:item/maps/overlay/map_buried_treasure" }
           ]
         }
       },
@@ -151,17 +151,17 @@
         "model": {
           "type": "minecraft:composite",
           "models": [
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_base" },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/filled_map_markings",
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_base" },
+            { "type": "minecraft:model", "model": "minecraft:item/maps/filled_map_markings",
               "tints": [ { "type": "minecraft:constant", "value": 9474192 } ] },
-            { "type": "minecraft:model", "model": "f1_2_16_better_maps:item/overlay/map_trial" }
+            { "type": "minecraft:model", "model": "minecraft:item/maps/overlay/map_trial" }
           ]
         }
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "f1_2_16_better_maps:item/filled_map_base"
+      "model": "minecraft:item/maps/filled_map_base"
     }
   }
 }
