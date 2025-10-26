@@ -18,7 +18,7 @@ $DistDir = "$ProjectRoot\dist"
 [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute('PSUseDeclaredVarsMoreThanAssignments', '')]
 $DefaultPackName = "EisbaersBase"
 [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute('PSUseDeclaredVarsMoreThanAssignments', '')]
-$DefaultVersion = "0.1.0"  # Update this when releasing a new version
+$DefaultVersion = "0.1.1"  # Update this when releasing a new version
 [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute('PSUseDeclaredVarsMoreThanAssignments', '')]
 $MaxPreviousBuilds = 2  # Maximum number of previous builds to keep per version
 

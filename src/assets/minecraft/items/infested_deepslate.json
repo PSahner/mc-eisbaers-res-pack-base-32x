@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "composite",
+    "models": [
+      {"type": "model", "model": "minecraft:block/deepslate"},
+      {"type": "model", "model": "minecraft:block/infested/infested_border"}
+    ]
+  }
+}
