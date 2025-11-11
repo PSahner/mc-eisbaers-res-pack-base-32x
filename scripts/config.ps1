@@ -24,7 +24,7 @@ $MaxPreviousBuilds = 2  # Maximum number of previous builds to keep per version
 
 # Minecraft settings
 [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute('PSUseDeclaredVarsMoreThanAssignments', '')]
-$DefaultMinecraftPath = "$env:APPDATA\PrismLauncher\instances\1.21.9 Fabric Almost Plain\minecraft\resourcepacks"
+$DefaultMinecraftPath = "$env:APPDATA\PrismLauncher\instances\1.21.10 Fabric ResPack Test\minecraft\resourcepacks"
 
 # Console output colors
 [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute('PSUseDeclaredVarsMoreThanAssignments', '')]
