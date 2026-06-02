@@ -1,8 +1,6 @@
 {
   "pack": {
-    "pack_format": 69,
-    "description": "§3Eisbaer's ResPack §8[1]\n§7Base layer expanding §5Faithful 32x",
-    "min_format": [69, 0],
-    "max_format": 2147483647
+    "pack_format": 15,
+    "description": "§3Eisbaer's ResPack §8[1] §3Base Layer\n§7for §5Faithful 32x"
   }
 }
